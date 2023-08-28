@@ -2870,6 +2870,10 @@
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Pick%205.png?raw=true"
 	        }
+			"draft_effects": [
+  			"FaceUp",
+    		"AgentOfAcquisitions"
+			]
 	    }
 	]
 [Settings]
