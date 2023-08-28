@@ -1409,7 +1409,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/St%20Joan.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/St.%20Joan.png?raw=true"
 	        }
 	    },
 	    {
@@ -2246,7 +2246,7 @@
 	        "mana_cost": "",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%2c%20Guardian%20of%20the%20Fortress%201.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%20Guardian%20of%20the%20Fortress%201.png?raw=true"
 	        }
 	    },
 	    {
@@ -2255,7 +2255,7 @@
 	        "mana_cost": "",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%2c%20Guardian%20of%20the%20Fortress%202.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%20Guardian%20of%20the%20Fortress%202.png?raw=true"
 	        }
 	    },
 	    {
@@ -2867,25 +2867,26 @@
 	        "rarity": "special",
 	        "mana_cost": "",
 	        "type": "Reminder",
-	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Pick%205.png?raw=true"
-	        }
 			"draft_effects": [
   			"FaceUp",
     		"AgentOfAcquisitions"
-			]
+			],
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Pick%205.png?raw=true"
+	        }
 	    }
 	]
 [Settings]
 {
 	"name": "Legend of Blue Eyes",
 	"withReplacement": true,
-	"boostersPerPlayer": 4,
+	"boostersPerPlayer": 5,
 	"predeterminedLayouts": [
-		{"FinalFusion": 95, "FinalSuperFusion": 4, "5Pieces": 1}
+		{"Pick5": 1},
+		{"FinalFusion": 95, "FinalSuperFusion": 4, "5Pieces": 1},
 		{"Rare": 85, "Exodia": 14, "Fusion": 1},
 		{"Rare": 85, "Exodia": 14, "Fusion": 1},
-		{"Rare": 85, "Exodia": 14, "Fusion": 1},
+		{"Rare": 85, "Exodia": 14, "Fusion": 1}
 ],
 	"layouts": {
 		"Rare": {
@@ -2945,6 +2946,12 @@
   				"Reminder": 1
 			}
 		},
+		"Pick5": {
+			"weight": 1,
+			"slots": {
+  				"Pick5": 1
+			}
+		},
 		"5Pieces": {
 			"weight": 1,
 			"slots": {
@@ -2952,7 +2959,8 @@
 				"RightArm": 1,
 				"Head": 1,
 				"LeftArm": 1,
-				"LeftLeg": 1
+				"LeftLeg": 1,
+				"Reminder": 1
 			}
 		}
 	}
@@ -2993,7 +3001,7 @@
 		3 Cyber Soldier of Darkworld
 		3 Battle Warrior
 		1 Giant Mech-Soldier
-		3 Wodan, the Resident of the Forest
+		3 Wodan the Resident of the Forest
 		3 Boo Koo
 		3 Castle Walls
 		3 Reinforcements
@@ -3002,7 +3010,7 @@
 	[Special]
 		3 Grazed by the Endless
 		5 Bag of Holding
-		2 Angler of the Damned
+		2 Into the Unknown
 		2 Elfs Light
 		1 The Great Tear
 		2 The Judgement Hand
@@ -3020,7 +3028,7 @@
 		2 Establish Dominance
 		2 Latant Rebirth
 		4 Ansatsu
-		2 Nefairous Archfiend
+		2 Nefairious Archfiend
 		2 Dark-Piercing Light
 		2 Deathly Bellow
 		2 Elegant Egotist
@@ -3035,12 +3043,12 @@
 		2 Raimei
 		2 Reverse Trap
 		2 Soul of the Pure
-		2 Survivor's Hospitality
+		2 Survivors Hospitality
 		2 Ultimate Offering
 		2 Vishwar Randi
 		2 Cyclon Laser
 		2 Gradius
-		2 Gradius' Option
+		2 Gradius Option
 		3 Ancient Telescope
 		2 Discover Uncertainty
 	[Fusion]
@@ -3068,7 +3076,7 @@
 		2 Kwagar Hercules
 		2 Metal Dragon
 		2 Skullbird
-		2 St. Joan
+		2 St Joan
 		4 Rabid Horseman
 		4 Zombie Warrior
 		4 Rare Fish
@@ -3101,7 +3109,7 @@
 		4 Kwagar Hercules
 		4 Metal Dragon
 		4 Skullbird
-		4 St. Joan
+		4 St Joan
 	[Uncommon]
 		1 Flame Swordsman
 		1 Fusionist
@@ -3161,14 +3169,14 @@
 		1 Kwagar Hercules
 		1 Metal Dragon
 		1 Skullbird
-		1 St. Joan
+		1 St Joan
 		3 Eyearmor
 		3 Dig Beak
 		3 Golgoil
 		3 Temple of Skulls
 		3 Steel Shell
 		3 Fire Reaper
-		3 Yamato Dragon Scroll
+		3 Yamatano Dragon Scroll
 		3 Mon Larvas
 		3 Mech Mole Zombie
 		3 Wicked Dragon with the Ersatz Head
@@ -3214,7 +3222,7 @@
 		4 Dark Gray
 		4 Man-Eating Treasure Chest
 		4 Nemuriko
-		4 13th Grave
+		4 The 13th Grave
 		4 Flame Manipulator
 		4 Monster Egg
 		4 Firegrass
@@ -3331,7 +3339,7 @@
 		1 Dark Gray
 		1 Man-Eating Treasure Chest
 		1 Nemuriko
-		1 13th Grave
+		1 The 13th Grave
 		1 Flame Manipulator
 		1 Monster Egg
 		1 Firegrass
@@ -3490,7 +3498,7 @@
 		4 Mystic Plasma Zone
 		4 Remove Trap
 		4 Skull Servant
-		4 13th Grave
+		4 The 13th Grave
 		4 Trial of Nightmare
 		4 Tyhone
 		4 Violet Crystal
@@ -3570,3 +3578,5 @@
 		1 Left Leg of the Forbidden One
 	[Reminder]	
 		50 Sanctum Reminder
+	[Pick5]
+		50 Pick 5!
