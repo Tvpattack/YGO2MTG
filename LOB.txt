@@ -1,0 +1,3568 @@
+[CustomCards]
+	[    {
+	        "name": "Flame Swordsman",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Flame%20Swordsman.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hitotsu-Me Giant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Cyclops Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hitotsu-Me%20Giant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Skull Servant",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Zombie Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Skull%20Servant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Basic Insect",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Basic%20Insect.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mammoth Graveyard",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Creature — Elephant Zombie ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mammoth%20Graveyard.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Yashinoki",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Yashinoki.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dark Gray",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Gray.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Man-Eating Treasure Chest",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Artifact Creature — Robot Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Man-Eating%20Treasure%20Chest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Nemuriko",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment Creature — Merfolk Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Nemuriko.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "The 13th Grave",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Zombie Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%2013th%20Grave.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Flame Manipulator",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Flame%20Manipulator.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Monster Egg",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Egg Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Monster%20Egg.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Firegrass",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Plant Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Firegrass.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dark King of the Abyss",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Demon Zombie Noble ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20King%20of%20the%20Abyss.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fiend Reflection 2",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Bird Spirit Reflection ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fiend%20Reflection%202.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Turtle Tiger",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Cat Turtle Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Turtle%20Tiger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Petit Dragon",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Dragon Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Petit%20Dragon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Petit Angel",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Angel Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Petit%20Angel.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hinotama Soul",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hinotama%20Soul.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kagemusha of the Blue Flame",
+	        "rarity": "common",
+	        "mana_cost": "{2}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kagemusha%20of%20the%20Blue%20Flame.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Two-Mouth Darkruler",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}{R}",
+	        "type": "Creature — Dinosaur Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Two-Mouth%20Darkruler.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dissolverrock",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Enchantment Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dissolverrock.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Zarigun",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Merfolk Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Zarigun.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Furious Sea King",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Merfolk Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Furious%20Sea%20King.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Green Phantom King",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment Creature — Elf Plant ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Green%20Phantom%20King.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ray and Temperature",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Enchantment Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ray%20and%20Temperature.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "King Fog",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}",
+	        "type": "Enchantment Creature — Elemental Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/King%20Fog.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mystical Sheep 2",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Enchantment Creature — Sheep Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystical%20Sheep%202.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Masaki the Legendary Swordsman",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Creature — Robot Human Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Masaki%20the%20Legendary%20Swordsman.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kurama",
+	        "rarity": "common",
+	        "mana_cost": "{6}",
+	        "type": "Creature — Bird Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kurama.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sparks",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sparks.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hinotama",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hinotama.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Remove Trap",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Remove%20Trap.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rabid Horseman",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Human Horse Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rabid%20Horseman.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Zombie Warrior",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Zombie Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Zombie%20Warrior.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fusionist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{G}{W}",
+	        "type": "Enchantment Creature — Cat Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fusionist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Flame Ghost",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}{R}",
+	        "type": "Creature — Elemental Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Flame%20Ghost.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Polymerization",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Polymerization.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rare Fish",
+	        "rarity": "common",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Cat Spirit Merfolk ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rare%20Fish.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dragoness the Wicked Knight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Creature — Human Dragon Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dragoness%20the%20Wicked%20Knight.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Skelegon",
+	        "rarity": "common",
+	        "mana_cost": "{6}",
+	        "type": "Creature — Zombie Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Skelegon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Flower Wolf",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Creature — Plant Wolf ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Flower%20Wolf.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gaia the Dragon Champion",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{B}{G}",
+	        "type": "Creature — Human Dragon Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gaia%20the%20Dragon%20Champion.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Graveyard and the Hand of Invitation",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Graveyard%20and%20the%20Hand%20of%20Invitation.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Beaver Warrior",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Creature — Beaver Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Beaver%20Warrior.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Uraby",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Dinosaur Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Uraby.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Witty Phantom",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Demon Rogue ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Witty%20Phantom.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "That Which Feeds on Life",
+	        "rarity": "common",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Dragon Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/That%20Which%20Feeds%20on%20Life.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hard Armor",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Artifact Creature — Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hard%20Armor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Man Eater",
+	        "rarity": "common",
+	        "mana_cost": "{5}{G}{G}",
+	        "type": "Creature — Plant Horror ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Man%20Eater.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "M-Warrior 1",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Human Warrior Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/M-Warrior%201.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "M-Warrior 2",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Warrior Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/M-Warrior%202.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Armaill",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{U}",
+	        "type": "Creature — Human Robot Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Armaill.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Terra the Terrible",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{R}{R}",
+	        "type": "Creature — Demon Ogre Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Terra%20the%20Terrible.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Frenzied Panda",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Beast Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Frenzied%20Panda.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kumootoko",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Spider Demon Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kumootoko.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Meda Bat",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}{B}",
+	        "type": "Creature — Bat Eye ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Meda%20Bat.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fireyarou",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fireyarou.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "One-Eyed Shield Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{W}",
+	        "type": "Creature — Dragon Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/One-Eyed%20Shield%20Dragon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Spike Seadra",
+	        "rarity": "common",
+	        "mana_cost": "{6}{U}{U}",
+	        "type": "Creature — Zombie Serpent ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Spike%20Seadra.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tripwire Beast",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Dragon Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tripwire%20Beast.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Skull Red Bird",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Bird Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Skull%20Red%20Bird.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sand Stone",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Enchantment Creature — Wurm ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sand%20Stone.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Misairuzame",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Shark Robot ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Misairuzame.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Steel Ogre Grotto 1",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Artifact Creature — Robot Ogre ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Steel%20Ogre%20Grotto%201.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lesser Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Lesser%20Dragon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Darkworld Thorns",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Enchantment Creature — Plant Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Darkworld%20Thorns.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Drooling Lizard",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}{G}",
+	        "type": "Creature — Lizard Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Drooling%20Lizard.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Armored Starfish",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Zombie Starfish ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Armored%20Starfish.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Succubus Knight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Creature — Demon Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Succubus%20Knight.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Red Medicine",
+	        "rarity": "rare",
+	        "mana_cost": "{X}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Red%20Medicine.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Aqua Madoor",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Enchantment Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Aqua%20Madoor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dragon Capture Jar",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dragon%20Capture%20Jar.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fissure",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fissure.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Two-Pronged Attack",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Two-Pronged%20Attack.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gravedigger Ghoul",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gravedigger%20Ghoul.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Giant Soldier of Stone",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{C}",
+	        "type": "Artifact Creature — Robot Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Giant%20Soldier%20of%20Stone.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Reaper of the Cards",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Reaper%20of%20the%20Cards.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Spirit of the Harp",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Angel Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Spirit%20of%20the%20Harp.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Stop Defense",
+	        "rarity": "rare",
+	        "mana_cost": "{6}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Stop%20Defense.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Goblins Secret Remedy",
+	        "rarity": "rare",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Goblins%20Secret%20Remedy.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Final Flame",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Final%20Flame.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Armed Ninja",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Human Knight Ninja ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Armed%20Ninja.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hane-Hane",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Spirit Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hane-Hane.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hourglass of Life",
+	        "rarity": "common",
+	        "mana_cost": "{C}",
+	        "type": "Creature — Angel Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hourglass%20of%20Life.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tri-Horned Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Demon Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tri-Horned%20Dragon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Legendary Sword",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Legendary%20Sword.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Beast Fangs",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Beast%20Fangs.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Power of Kaishin",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Power%20of%20Kaishin.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Book of Secret Arts",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}{B}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Book%20of%20Secret%20Arts.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mystical Moon",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystical%20Moon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dark Energy",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Energy.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Laser Cannon Armor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Laser%20Cannon%20Armor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Violet Crystal",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Violet%20Crystal.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Silver Bow and Arrow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Silver%20Bow%20and%20Arrow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dragon Treasure",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dragon%20Treasure.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Electro-Whip",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Electro-Whip.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vile Germs",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Enchantment — Aura ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Vile%20Germs.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Machine Conversion Factory",
+	        "rarity": "common",
+	        "mana_cost": "{0}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Machine%20Conversion%20Factory.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Celtic Guardian",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Celtic%20Guardian.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dark Hole",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{B}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Hole.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Raigeki",
+	        "rarity": "rare",
+	        "mana_cost": "{8}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Raigeki.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Trap Hole",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{C}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Trap%20Hole.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mystical Elf",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Elf Cleric Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystical%20Elf.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Swords of Revealing Light",
+	        "rarity": "rare",
+	        "mana_cost": "{C}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Swords%20of%20Revealing%20Light.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Man-Eater Bug",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Insect Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Man-Eater%20Bug.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Raise Body Heat",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Raise%20Body%20Heat.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Follow Wind",
+	        "rarity": "common",
+	        "mana_cost": "{1}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Follow%20Wind.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Blue-Eyes White Dragon",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{W}{W}{U}{U}",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Blue-Eyes%20White%20Dragon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dark Magician",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}{B}{B}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Magician.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gaia The Fierce Knight",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Human Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gaia%20The%20Fierce%20Knight.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Red-Eyes Black Dragon",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Demon Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Red-Eyes%20Black%20Dragon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Monster Reborn",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Monster%20Reborn.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Right Leg of the Forbidden One",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Legendary Creature — Wizard God ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Right%20Leg%20of%20the%20Forbidden%20One.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Left Leg of the Forbidden One",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Legendary Creature — Wizard God ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Left%20Leg%20of%20the%20Forbidden%20One.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Right Arm of the Forbidden One",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Legendary Creature — Wizard God ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Right%20Arm%20of%20the%20Forbidden%20One.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Left Arm of the Forbidden One",
+	        "rarity": "rare",
+	        "mana_cost": "{1}",
+	        "type": "Legendary Creature — Wizard God ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Left%20Arm%20of%20the%20Forbidden%20One.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Exodia the Forbidden One",
+	        "rarity": "rare",
+	        "mana_cost": "{7}",
+	        "type": "Legendary Creature — Wizard God ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Exodia%20the%20Forbidden%20One.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mythical Wasteland",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Wasteland.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mythical Mountain",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Mountain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mythical Sogen",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Sogen.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mythical Umi",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Umi.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mythical Yami",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Yami.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Enchanting Mermaid",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Merfolk Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Enchanting%20Mermaid.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mythical Forest",
+	        "rarity": "uncommon",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Forest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Prismatic Bulb",
+	        "rarity": "common",
+	        "mana_cost": "{3}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Prismatic%20Bulb.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Synchar",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}{C}",
+	        "type": "Creature — Demon Beast ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Synchar.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Archfiend Mirror",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}",
+	        "type": "Creature — Demon Dragon Reflection ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Archfiend%20Mirror.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Secretarian of Secrets",
+	        "rarity": "common",
+	        "mana_cost": "{3}{C}",
+	        "type": "Creature — Spirit Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Secretarian%20of%20Secrets.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gust Fan",
+	        "rarity": "common",
+	        "mana_cost": "{C}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gust%20Fan.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Invigoration",
+	        "rarity": "common",
+	        "mana_cost": "{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Invigoration.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Thunder Kid",
+	        "rarity": "common",
+	        "mana_cost": "{3}{C}{C}",
+	        "type": "Enchantment Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Thunder%20Kid.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "LaLa Li-oon",
+	        "rarity": "common",
+	        "mana_cost": "{2}{C}",
+	        "type": "Enchantment Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/LaLa%20Li-oon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Meotoko",
+	        "rarity": "common",
+	        "mana_cost": "{2}{C}{C}",
+	        "type": "Creature — Demon Cyclops Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Meotoko.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pot of Greed",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Pot%20of%20Greed.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kaiser Dragon",
+	        "rarity": "common",
+	        "mana_cost": "{3}{C}",
+	        "type": "Creature — Dragon Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kaiser%20Dragon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kaminari Attack",
+	        "rarity": "uncommon",
+	        "mana_cost": "{C}{W}",
+	        "type": "Enchantment Creature — Human Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kaminari%20Attack.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Roaring Ocean Snake",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{C}{U}",
+	        "type": "Creature — Demon Dragon Serpent ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Roaring%20Ocean%20Snake.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sanwitch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}{B}",
+	        "type": "Creature — Demon Imp Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sanwitch.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vermillion Sparrow",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}{R}",
+	        "type": "Creature — Human Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Vermillion%20Sparrow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Warrior of Tradition",
+	        "rarity": "uncommon",
+	        "mana_cost": "{C}{G}",
+	        "type": "Creature — Human Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Warrior%20of%20Tradition.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Musician King",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Musician%20King.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rose Spectre of Dunn",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Creature — Plant Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rose%20Spectre%20of%20Dunn.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Trial of Nightmare",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Trial%20of%20Nightmare.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mystery Hand",
+	        "rarity": "common",
+	        "mana_cost": "{2}{B}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystery%20Hand.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mavelus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Enchantment Creature — Elemental Phoenix ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mavelus.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Pragticul",
+	        "rarity": "uncommon",
+	        "mana_cost": "{5}{U}{B}",
+	        "type": "Creature — Zombie ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Pragticul.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kamionwizard",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Human Wizard Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kamionwizard.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Empress Judge",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{R}",
+	        "type": "Creature — Human Elemental Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Empress%20Judge.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Punished Eagle",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}{U}",
+	        "type": "Creature — Bird Demon Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Punished%20Eagle.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Charubin the Fire Knight",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Enchantment Creature — Elemental Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Charubin%20the%20Fire%20Knight.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Darkfire Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Plant Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Darkfire%20Dragon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Karbonala Warrior",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{U}{U}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Karbonala%20Warrior.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kwagar Hercules",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kwagar%20Hercules.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Metal Dragon",
+	        "rarity": "uncommon",
+	        "mana_cost": "{7}",
+	        "type": "Artifact Creature — Robot Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Metal%20Dragon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Skullbird",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}{C}",
+	        "type": "Creature — Zombie Demon Bird ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Skullbird.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "St Joan",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/St%20Joan.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Blue Medicine",
+	        "rarity": "rare",
+	        "mana_cost": "{X}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Blue%20Medicine.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Candle of Fate",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Candle%20of%20Fate.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wings of Wicked Flame",
+	        "rarity": "common",
+	        "mana_cost": "{3}{R}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wings%20of%20Wicked%20Flame.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "The Melting Red Shadow",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%20Melting%20Red%20Shadow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lucky Trinket",
+	        "rarity": "common",
+	        "mana_cost": "{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Lucky%20Trinket.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Curtain of the Dark Ones",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Curtain%20of%20the%20Dark%20Ones.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Haniwa",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Haniwa.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tatsunootoshigo",
+	        "rarity": "common",
+	        "mana_cost": "{C}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tatsunootoshigo.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shining Friendship",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Creature — Angel Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Shining%20Friendship.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Happy Lover",
+	        "rarity": "common",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Angel Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Happy%20Lover.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Muse-A",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Human Faerie Bard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Muse-A.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rouge Doll",
+	        "rarity": "common",
+	        "mana_cost": "{5}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rouge%20Doll.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mystical Capture Chain",
+	        "rarity": "common",
+	        "mana_cost": "{2}{W}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystical%20Capture%20Chain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "LaMoon",
+	        "rarity": "common",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Enchantment Creature — Angel Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/LaMoon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Eyearmor",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}{C}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Eyearmor.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dig Beak",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}",
+	        "type": "Creature — Demon Snake ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dig%20Beak.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Golgoil",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{C}{C}",
+	        "type": "Artifact Creature — Robot ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Golgoil.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Temple of Skulls",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Artifact Creature — Demon Zombie ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Temple%20of%20Skulls.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Steel Shell",
+	        "rarity": "uncommon",
+	        "mana_cost": "{U}{U}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Steel%20Shell.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fire Reaper",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Zombie Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fire%20Reaper.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Yamatano Dragon Scroll",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Yamatano%20Dragon%20Scroll.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mon Larvas",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{C}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mon%20Larvas.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mech Mole Zombie",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Artifact Creature — Robot Mole Zombie ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mech%20Mole%20Zombie.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wicked Dragon with the Ersatz Head",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{B}{R}",
+	        "type": "Creature — Dragon Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wicked%20Dragon%20with%20the%20Ersatz%20Head.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wattkid",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}{U}",
+	        "type": "Creature — Robot Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wattkid.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "One Who Hunts Souls",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Creature — Spirit Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/One%20Who%20Hunts%20Souls.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bolt Penguin",
+	        "rarity": "uncommon",
+	        "mana_cost": "{C}{U}",
+	        "type": "Creature — Bird Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Bolt%20Penguin.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Beautiful Headhuntress",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}{G}",
+	        "type": "Creature — Human Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Beautiful%20Headhuntress.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Megirus Light",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{C}{B}",
+	        "type": "Creature — Demon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Megirus%20Light.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fairywitch",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{C}{R}",
+	        "type": "Creature — Faerie Demon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fairywitch.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Takuhee",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{C}{W}",
+	        "type": "Enchantment Creature — Bird Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Takuhee.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Djinn the Watcher of the Wind",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}{U}",
+	        "type": "Creature — Spirit Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Djinn%20the%20Watcher%20of%20the%20Wind.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Corroding Shark",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Corroding%20Shark.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "White Dolphin",
+	        "rarity": "common",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/White%20Dolphin.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hitodenchak",
+	        "rarity": "common",
+	        "mana_cost": "{3}{U}",
+	        "type": "Creature — Demon Starfish ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hitodenchak.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Root Water",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Creature — Merfolk Zombie ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Root%20Water.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Water Element",
+	        "rarity": "common",
+	        "mana_cost": "{U}",
+	        "type": "Enchantment Creature — Elemental Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Water%20Element.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dark Plant",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Demon Plant ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Plant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bone Mouse",
+	        "rarity": "common",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Zombie Rat ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Bone%20Mouse.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Midnight Fiend",
+	        "rarity": "common",
+	        "mana_cost": "{4}{B}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Midnight%20Fiend.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tyhone",
+	        "rarity": "common",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Demon Bat ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tyhone.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Burning Spear",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Burning%20Spear.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rhaimundos of the Red Sword",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Demon Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rhaimundos%20of%20the%20Red%20Sword.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fire Eye",
+	        "rarity": "common",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Elemental Eye ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fire%20Eye.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Larvas",
+	        "rarity": "common",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Larvas.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Stone Ghost",
+	        "rarity": "uncommon",
+	        "mana_cost": "{R}",
+	        "type": "Enchantment Creature — Elemental Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Stone%20Ghost.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Living Vase",
+	        "rarity": "common",
+	        "mana_cost": "{3}{G}",
+	        "type": "Enchantment Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Living%20Vase.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hercules Beetle",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hercules%20Beetle.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kuwagata Alpha",
+	        "rarity": "common",
+	        "mana_cost": "{4}{G}{G}",
+	        "type": "Creature — Insect Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kuwagata%20Alpha.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Doriado",
+	        "rarity": "common",
+	        "mana_cost": "{1}{G}",
+	        "type": "Creature — Human Druid Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Doriado.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Marmot of Nefariousness",
+	        "rarity": "common",
+	        "mana_cost": "{2}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Marmot%20of%20Nefariousness.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Silver Fang",
+	        "rarity": "common",
+	        "mana_cost": "{G}",
+	        "type": "Creature — Wolf Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Silver%20Fang.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Droll Bird",
+	        "rarity": "common",
+	        "mana_cost": "{4}{C}{C}",
+	        "type": "Creature — Bird Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Droll%20Bird.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Drdek",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}",
+	        "type": "Creature — Zombie Eye Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Drdek.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wilmee",
+	        "rarity": "common",
+	        "mana_cost": "{5}{C}{C}",
+	        "type": "Creature — Rabbit Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wilmee.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bean Soldier",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}",
+	        "type": "Creature — Plant Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Bean%20Soldier.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Phantom Dewan",
+	        "rarity": "common",
+	        "mana_cost": "{1}{C}",
+	        "type": "Creature — Demon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Phantom%20Dewan.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Patrol Robo",
+	        "rarity": "common",
+	        "mana_cost": "{2}{C}",
+	        "type": "Artifact Creature — Robot Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Patrol%20Robo.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shadows Light",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Shadows%20Light.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Umiiruka",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Umiiruka.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mystic Plasma Zone",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystic%20Plasma%20Zone.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fire Prison",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fire%20Prison.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ancient Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ancient%20Forest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Canyon",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Land — Field ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Canyon.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Light of Hope",
+	        "rarity": "special",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Light%20of%20Hope.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Consult Eternity",
+	        "rarity": "special",
+	        "mana_cost": "{1}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Consult%20Eternity.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Spirit of the Books",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Bird Spirit Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Spirit%20of%20the%20Books.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Twin Long Rods 1",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Demon Fish ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Twin%20Long%20Rods%201.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Oscillo Hero",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{W}",
+	        "type": "Creature — Robot Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Oscillo%20Hero.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hourglass of Courage",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{W}",
+	        "type": "Creature — Angel Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hourglass%20of%20Courage.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Man-Eating Plant",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{G}",
+	        "type": "Creature — Plant ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Man-Eating%20Plant.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Akihiron",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{U}",
+	        "type": "Creature — Zombie Fish ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Akihiron.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Hurricail",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Enchantment Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hurricail.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Abyss Flower",
+	        "rarity": "uncommon",
+	        "mana_cost": "{X}{G}",
+	        "type": "Creature — Plant Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Abyss%20Flower.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Shadow Who Controls the Dark",
+	        "rarity": "uncommon",
+	        "mana_cost": "{B}",
+	        "type": "Creature — Demon Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Shadow%20Who%20Controls%20the%20Dark.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gate Deeg",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{B}",
+	        "type": "Creature — Zombie Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gate%20Deeg.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bat",
+	        "rarity": "uncommon",
+	        "mana_cost": "{W}",
+	        "type": "Artifact Creature — Robot Bat ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Bat.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wood Clown",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}",
+	        "type": "Creature — Clown Plant Robot ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wood%20Clown.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dark Artist",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{B}",
+	        "type": "Creature — Zombie Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Artist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Minomushi Warrior",
+	        "rarity": "uncommon",
+	        "mana_cost": "{C}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Minomushi%20Warrior.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Doron",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Creature — Shapeshifter Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Doron.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Alinsection",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Alinsection.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mabarrel",
+	        "rarity": "common",
+	        "mana_cost": "{3}{B}",
+	        "type": "Creature — Beast Eye ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mabarrel.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tomozaurus",
+	        "rarity": "uncommon",
+	        "mana_cost": "{G}{G}",
+	        "type": "Creature — Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tomozaurus.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Nightmare Scorpion",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{C}",
+	        "type": "Creature — Scorpion Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Nightmare%20Scorpion.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Giant Flea",
+	        "rarity": "uncommon",
+	        "mana_cost": "{4}{G}",
+	        "type": "Creature — Insect ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Giant%20Flea.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ancient Jar",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{C}",
+	        "type": "Artifact Creature — Demon Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ancient%20Jar.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ookazi",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ookazi.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Little D",
+	        "rarity": "common",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Elemental Dinosaur ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Little%20D.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tiger Axe",
+	        "rarity": "uncommon",
+	        "mana_cost": "{3}{W}",
+	        "type": "Creature — Cat Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tiger%20Axe.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Statue of Easter Island",
+	        "rarity": "uncommon",
+	        "mana_cost": "{2}",
+	        "type": "Artifact Creature — Robot Sculpture ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Statue%20of%20Easter%20Island.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Weather Control",
+	        "rarity": "rare",
+	        "mana_cost": "{C}{W}",
+	        "type": "Enchantment Creature — Elemental ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Weather%20Control.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Winged Dragon, Guardian of the Fortress 1",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%2c%20Guardian%20of%20the%20Fortress%201.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Winged Dragon, Guardian of the Fortress 2",
+	        "rarity": "rare",
+	        "mana_cost": "",
+	        "type": "Creature — Dragon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%2c%20Guardian%20of%20the%20Fortress%202.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Winged Cleaver",
+	        "rarity": "rare",
+	        "mana_cost": "{R}",
+	        "type": "Creature — Insect Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Cleaver.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wow Warrior",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{U}{U}",
+	        "type": "Creature — Merfolk Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wow%20Warrior.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cyber Soldier of Darkworld",
+	        "rarity": "rare",
+	        "mana_cost": "{1}{B}{B}",
+	        "type": "Artifact Creature — Robot Soldier ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Cyber%20Soldier%20of%20Darkworld.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Battle Warrior",
+	        "rarity": "rare",
+	        "mana_cost": "{3}{W}{W}",
+	        "type": "Creature — Elf Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Battle%20Warrior.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Giant Mech-Soldier",
+	        "rarity": "rare",
+	        "mana_cost": "{5}",
+	        "type": "Artifact Creature — Robot Knight ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Giant%20Mech-Soldier.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Wodan the Resident of the Forest",
+	        "rarity": "rare",
+	        "mana_cost": "{5}{G}{G}{G}",
+	        "type": "Creature — Plant Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wodan%20the%20Resident%20of%20the%20Forest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Boo Koo",
+	        "rarity": "rare",
+	        "mana_cost": "{4}{C}",
+	        "type": "Creature — Illusion Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Boo%20Koo.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Castle Walls",
+	        "rarity": "rare",
+	        "mana_cost": "{C}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Castle%20Walls.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Reinforcements",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{R}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Reinforcements.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ryu-Kishin",
+	        "rarity": "rare",
+	        "mana_cost": "{B}{R}{G}",
+	        "type": "Creature — Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ryu-Kishin.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Yormungarde",
+	        "rarity": "rare",
+	        "mana_cost": "{X}{G}{U}",
+	        "type": "Creature — Demon Dragon Serpent ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Yormungarde.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Establish Dominance",
+	        "rarity": "special",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Establish%20Dominance.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ignite",
+	        "rarity": "special",
+	        "mana_cost": "{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ignite.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Survivors Hospitality",
+	        "rarity": "special",
+	        "mana_cost": "{R}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Survivors%20Hospitality.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Into the Unknown",
+	        "rarity": "special",
+	        "mana_cost": "{2}{G/U}{G/U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Into%20the%20Unknown.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ascent of Snakes",
+	        "rarity": "special",
+	        "mana_cost": "{1}{G}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ascent%20of%20Snakes.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sun-Scorched Tempering",
+	        "rarity": "special",
+	        "mana_cost": "{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sun-Scorched%20Tempering.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Deathly Bellow",
+	        "rarity": "special",
+	        "mana_cost": "{2}{B}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Deathly%20Bellow.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Latant Rebirth",
+	        "rarity": "special",
+	        "mana_cost": "{1}{G}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Latant%20Rebirth.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Discover Uncertainty",
+	        "rarity": "special",
+	        "mana_cost": "{1}{C}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Discover%20Uncertainty.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Grazed by the Endless",
+	        "rarity": "special",
+	        "mana_cost": "{3}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Grazed%20by%20the%20Endless.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Called by the Void",
+	        "rarity": "special",
+	        "mana_cost": "{B}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Called%20by%20the%20Void.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Denied by Nature",
+	        "rarity": "special",
+	        "mana_cost": "{U}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Denied%20by%20Nature.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "LOB Plains",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Plains ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/LOB%20Plains.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "LOB Island",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Island ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/LOB%20Island.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "LOB Swamp",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Swamp ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/LOB%20Swamp.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "LOB Mountain",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Mountain ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/LOB%20Mountain.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "LOB Forest",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Forest ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/LOB%20Forest.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "LOB Fault",
+	        "rarity": "common",
+	        "mana_cost": "",
+	        "type": "Basic Land — Fault ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/LOB%20Fault.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "The Judgement Hand",
+	        "rarity": "special",
+	        "mana_cost": "{1}{W}",
+	        "type": "Enchantment Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%20Judgement%20Hand.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sonic Maid",
+	        "rarity": "special",
+	        "mana_cost": "{1}{R}",
+	        "type": "Creature — Human Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sonic%20Maid.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mystic Clown",
+	        "rarity": "special",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Creature — Demon Clown ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystic%20Clown.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Kappa Avenger",
+	        "rarity": "special",
+	        "mana_cost": "{2}{U}{U}",
+	        "type": "Creature — Merfolk Turtle Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kappa%20Avenger.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Embryonic Beast",
+	        "rarity": "special",
+	        "mana_cost": "{1}{W}{B}",
+	        "type": "Creature — Shapeshifter ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Embryonic%20Beast.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Nefairious Archfiend",
+	        "rarity": "special",
+	        "mana_cost": "{C}{B}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Nefairious%20Archfiend.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Phantom Ghost",
+	        "rarity": "special",
+	        "mana_cost": "{2}{C}{B}",
+	        "type": "Creature — Zombie Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Phantom%20Ghost.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ancient Telescope",
+	        "rarity": "special",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ancient%20Telescope.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sword of Dark Destruction",
+	        "rarity": "special",
+	        "mana_cost": "{B}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sword%20of%20Dark%20Destruction.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Elfs Light",
+	        "rarity": "special",
+	        "mana_cost": "{1}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Elfs%20Light.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ansatsu",
+	        "rarity": "special",
+	        "mana_cost": "{U}{B}",
+	        "type": "Creature — Human Ninja ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ansatsu.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Dark-Piercing Light",
+	        "rarity": "special",
+	        "mana_cost": "{1}{C}{W}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark-Piercing%20Light.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Ultimate Offering",
+	        "rarity": "special",
+	        "mana_cost": "{2}{R}{G}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ultimate%20Offering.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Reverse Trap",
+	        "rarity": "special",
+	        "mana_cost": "{C}{G}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Reverse%20Trap.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "The Inexperienced Spy",
+	        "rarity": "special",
+	        "mana_cost": "{C}{U}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%20Inexperienced%20Spy.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Lisark",
+	        "rarity": "special",
+	        "mana_cost": "{5}{G}{U}",
+	        "type": "Creature — Lizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Lisark.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Leo Wizard",
+	        "rarity": "special",
+	        "mana_cost": "{3}{W}{U}",
+	        "type": "Creature — Cat Wizard ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Leo%20Wizard.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Raimei",
+	        "rarity": "special",
+	        "mana_cost": "{X}{1}{C}{R}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Raimei.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Great White",
+	        "rarity": "special",
+	        "mana_cost": "{1}{U}{R}",
+	        "type": "Creature — Merfolk Shark ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Great%20White.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Soul of the Pure",
+	        "rarity": "special",
+	        "mana_cost": "{G}{W}",
+	        "type": "Creature — Angel Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Soul%20of%20the%20Pure.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Key Mace 2",
+	        "rarity": "special",
+	        "mana_cost": "{3}{B}{R}",
+	        "type": "Creature — Faerie Demon ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Key%20Mace%202.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Fiends Hand",
+	        "rarity": "special",
+	        "mana_cost": "{1}{B}{G}",
+	        "type": "Creature — Human Zombie ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fiends%20Hand.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gradius",
+	        "rarity": "special",
+	        "mana_cost": "{1}{C}",
+	        "type": "Artifact Creature — Robot Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gradius.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Gradius Option",
+	        "rarity": "special",
+	        "mana_cost": "{2}{C}",
+	        "type": "Artifact Creature — Robot Construct ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gradius%20Option.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Cyclon Laser",
+	        "rarity": "special",
+	        "mana_cost": "{1}{C}",
+	        "type": "Artifact — Equipment ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Cyclon%20Laser.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Harpie Lady",
+	        "rarity": "uncommon",
+	        "mana_cost": "{1}{R}{W}",
+	        "type": "Creature — Siren Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Harpie%20Lady.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Elegant Egotist",
+	        "rarity": "special",
+	        "mana_cost": "{R}{R}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Elegant%20Egotist.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Harpie Lady Sisters",
+	        "rarity": "special",
+	        "mana_cost": "{2}{R}{W}",
+	        "type": "Creature — Siren Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Harpie%20Lady%20Sisters.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "The Great Tear",
+	        "rarity": "special",
+	        "mana_cost": "{4}{W}{W}",
+	        "type": "Sorcery",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%20Great%20Tear.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Tao the Chanter",
+	        "rarity": "rare",
+	        "mana_cost": "{2}{C}",
+	        "type": "Creature — Spirit ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tao%20the%20Chanter.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Bag of Holding",
+	        "rarity": "special",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Bag%20of%20Holding.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Rainbow Flower",
+	        "rarity": "common",
+	        "mana_cost": "{1}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rainbow%20Flower.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "The Seal of Orichalcos",
+	        "rarity": "rare",
+	        "mana_cost": "{2}",
+	        "type": "Enchantment Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%20Seal%20of%20Orichalcos.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Mental Lock",
+	        "rarity": "special",
+	        "mana_cost": "{2}",
+	        "type": "Artifact",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mental%20Lock.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Vishwar Randi",
+	        "rarity": "special",
+	        "mana_cost": "{C}{B}{R}",
+	        "type": "Creature — Vampire Warrior ",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Vishwar%20Randi.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Abduct",
+	        "rarity": "special",
+	        "mana_cost": "{3}{U}",
+	        "type": "Instant",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Abduct.png?raw=true"
+	        }
+	    },
+	    {
+	        "name": "Sanctum Reminder",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Reminder",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sanctum%20Reminder.png?raw=true"
+	        },
+		    "back": {
+            "name": "Extra Rulings for Silver",
+            "image_uris": {
+                "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Extra%20Rulings%20for%20Silver.png?raw=true"
+            },
+            "type": "Reminder",
+            "subtypes": [
+                ""
+            ]
+        }
+	    },
+	    {
+	        "name": "Pick 5!",
+	        "rarity": "special",
+	        "mana_cost": "",
+	        "type": "Reminder",
+	        "image_uris": {
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Pick%205.png?raw=true"
+	        }
+	    }
+	]
+[Settings]
+{
+	"name": "Legend of Blue Eyes",
+	"withReplacement": true,
+	"boostersPerPlayer": 4,
+	"predeterminedLayouts": [
+		{"FinalFusion": 95, "FinalSuperFusion": 4, "5Pieces": 1}
+		{"Rare": 85, "Exodia": 14, "Fusion": 1},
+		{"Rare": 85, "Exodia": 14, "Fusion": 1},
+		{"Rare": 85, "Exodia": 14, "Fusion": 1},
+],
+	"layouts": {
+		"Rare": {
+			"weight": 1,
+			"slots": {
+  				"Rare": 1,
+				"Special": 1,
+				"Fusion": 1,
+  				"Uncommon": 3,
+  				"Common": 2,
+  				"CommonFixing": 1,
+  				"CommonW": 1,
+  				"CommonU": 1,
+  				"CommonB": 1,
+  				"CommonR": 1,
+  				"CommonG": 1,
+  				"CommonF": 1,
+  				"Reminder": 1
+			}
+		},
+		"Exodia": {
+			"weight": 1,
+			"slots": {
+  				"Exodia": 1,
+				"Special": 1,
+				"Fusion": 1,
+  				"Uncommon": 3,
+  				"Common": 2,
+  				"CommonFixing": 1,
+  				"CommonW": 1,
+  				"CommonU": 1,
+  				"CommonB": 1,
+  				"CommonR": 1,
+  				"CommonG": 1,
+  				"CommonF": 1,
+  				"Reminder": 1
+			}
+		},
+		"Fusion": {
+			"weight": 1,
+			"slots": {
+  				"Fusion": 15,
+  				"Reminder": 1
+			}
+		},
+		"FinalFusion": {
+			"weight": 1,
+			"slots": {
+  				"Fusion": 5,
+  				"Reminder": 1
+			}
+		},
+		"FinalSuperFusion": {
+			"weight": 1,
+			"slots": {
+  				"SuperFusion": 5,
+  				"Reminder": 1
+			}
+		},
+		"5Pieces": {
+			"weight": 1,
+			"slots": {
+  				"RightLeg": 1,
+				"RightArm": 1,
+				"Head": 1,
+				"LeftArm": 1,
+				"LeftLeg": 1
+			}
+		}
+	}
+}
+	[Rare]
+		3 Polymerization
+		3 The Seal of Orichalcos
+		3 Tao the Chanter
+		1 Gaia the Dragon Champion
+		3 Red Medicine
+		3 Aqua Madoor
+		3 Dragon Capture Jar
+		3 Fissure
+		3 Two-Pronged Attack
+		3 Giant Soldier of Stone
+		3 Reaper of the Cards
+		3 Stop Defense
+		3 Goblins Secret Remedy
+		3 Final Flame
+		3 Armed Ninja
+		3 Hane-Hane
+		3 Celtic Guardian
+		3 Dark Hole
+		3 Raigeki
+		3 Trap Hole
+		3 Swords of Revealing Light
+		3 Blue-Eyes White Dragon
+		3 Dark Magician
+		3 Gaia The Fierce Knight
+		3 Red-Eyes Black Dragon
+		3 Monster Reborn
+		3 Blue Medicine
+		3 Weather Control
+		3 Winged Dragon, Guardian of the Fortress 1
+		3 Winged Dragon, Guardian of the Fortress 2
+		3 Winged Cleaver
+		3 Wow Warrior
+		3 Cyber Soldier of Darkworld
+		3 Battle Warrior
+		1 Giant Mech-Soldier
+		3 Wodan, the Resident of the Forest
+		3 Boo Koo
+		3 Castle Walls
+		3 Reinforcements
+		3 Ryu-Kishin
+		3 Yormungarde
+	[Special]
+		3 Grazed by the Endless
+		5 Bag of Holding
+		2 Angler of the Damned
+		2 Elfs Light
+		1 The Great Tear
+		2 The Judgement Hand
+		3 Light of Hope
+		2 Sun-Scorched Tempering
+		3 Consult Eternity
+		2 Denied by Nature
+		2 Kappa Avenger
+		2 Called by the Void
+		2 Mystic Clown
+		2 Sword of Dark Destruction
+		3 Ignite
+		1 Sonic Maid
+		2 Ascent of Snakes
+		2 Establish Dominance
+		2 Latant Rebirth
+		4 Ansatsu
+		2 Nefairous Archfiend
+		2 Dark-Piercing Light
+		2 Deathly Bellow
+		2 Elegant Egotist
+		2 Embryonic Beast
+		2 Fiends Hand
+		2 Great White
+		2 Harpie Lady Sisters
+		2 The Inexperienced Spy
+		2 Key Mace 2
+		2 Leo Wizard
+		2 Lisark
+		2 Raimei
+		2 Reverse Trap
+		2 Soul of the Pure
+		2 Survivor's Hospitality
+		2 Ultimate Offering
+		2 Vishwar Randi
+		2 Cyclon Laser
+		2 Gradius
+		2 Gradius' Option
+		3 Ancient Telescope
+		2 Discover Uncertainty
+	[Fusion]
+		1 Giant Mech-Soldier
+		1 Harpie Lady Sisters
+		1 Gaia the Dragon Champion
+		2 Flame Swordsman
+		2 Fusionist
+		2 Flame Ghost
+		2 Dragoness the Wicked Knight
+		2 Flower Wolf
+		2 Kaminari Attack
+		2 Roaring Ocean Snake
+		2 Sanwitch
+		2 Vermillion Sparrow
+		2 Warrior of Tradition
+		2 Mavelus
+		2 Pragticul
+		2 Kamionwizard
+		2 Empress Judge
+		2 Punished Eagle
+		2 Charubin the Fire Knight
+		2 Darkfire Dragon
+		2 Karbonala Warrior
+		2 Kwagar Hercules
+		2 Metal Dragon
+		2 Skullbird
+		2 St. Joan
+		4 Rabid Horseman
+		4 Zombie Warrior
+		4 Rare Fish
+		4 Skelegon
+		4 Kaiser Dragon
+		4 Musician King
+		4 Rose Spectre of Dunn
+	[SuperFusion]
+		4 Giant Mech-Soldier
+		4 Harpie Lady Sisters
+		4 Gaia the Dragon Champion
+		4 Flame Swordsman
+		4 Fusionist
+		4 Flame Ghost
+		4 Dragoness the Wicked Knight
+		4 Flower Wolf
+		4 Kaminari Attack
+		4 Roaring Ocean Snake
+		4 Sanwitch
+		4 Vermillion Sparrow
+		4 Warrior of Tradition
+		4 Mavelus
+		4 Pragticul
+		4 Kamionwizard
+		4 Empress Judge
+		4 Punished Eagle
+		4 Charubin the Fire Knight
+		4 Darkfire Dragon
+		4 Karbonala Warrior
+		4 Kwagar Hercules
+		4 Metal Dragon
+		4 Skullbird
+		4 St. Joan
+	[Uncommon]
+		1 Flame Swordsman
+		1 Fusionist
+		1 Flame Ghost
+		1 Dragoness the Wicked Knight
+		1 Flower Wolf
+		3 Beaver Warrior
+		3 Witty Phantom
+		3 M-Warrior 1
+		3 M-Warrior 2
+		3 Armaill
+		3 Terra the Terrible
+		3 Frenzied Panda
+		3 Kumootoko
+		3 Meda Bat
+		3 Fireyarou
+		3 One-Eyed Shield Dragon
+		3 Tripwire Beast
+		3 Skull Red Bird
+		3 Sand Stone
+		3 Misairuzame
+		3 Mythical Wasteland
+		3 Steel Ogre Grotto 1
+		3 Lesser Dragon
+		3 Darkworld Thorns
+		3 Drooling Lizard
+		3 Armored Starfish
+		3 Succubus Knight
+		3 Gravedigger Ghoul
+		3 Spirit of the Harp
+		3 Tri-Horned Dragon
+		3 Book of Secret Arts
+		3 Laser Cannon Armor
+		3 Silver Bow and Arrow
+		3 Electro-Whip
+		3 Mystical Elf
+		3 Man-Eater Bug
+		3 Mythical Mountain
+		3 Mythical Sogen
+		3 Mythical Umi
+		3 Mythical Yami
+		3 Mythical Forest
+		3 Pot of Greed
+		1 Kaminari Attack
+		1 Roaring Ocean Snake
+		1 Sanwitch
+		1 Vermillion Sparrow
+		1 Warrior of Tradition
+		1 Mavelus
+		1 Pragticul
+		1 Kamionwizard
+		1 Empress Judge
+		1 Punished Eagle
+		1 Charubin the Fire Knight
+		1 Darkfire Dragon
+		1 Karbonala Warrior
+		1 Kwagar Hercules
+		1 Metal Dragon
+		1 Skullbird
+		1 St. Joan
+		3 Eyearmor
+		3 Dig Beak
+		3 Golgoil
+		3 Temple of Skulls
+		3 Steel Shell
+		3 Fire Reaper
+		3 Yamato Dragon Scroll
+		3 Mon Larvas
+		3 Mech Mole Zombie
+		3 Wicked Dragon with the Ersatz Head
+		3 Wattkid
+		3 One Who Hunts Souls
+		3 Bolt Penguin
+		3 Beautiful Headhuntress
+		3 Megirus Light
+		3 Fairywitch
+		3 Takuhee
+		3 Spirit of the Books
+		3 Twin Long Rods 1
+		3 Oscillo Hero
+		3 Hourglass of Courage
+		3 Man-Eating Plant
+		3 Akihiron
+		3 Hurricail
+		3 Abyss Flower
+		3 Shadow Who Controls the Dark
+		3 Gate Deeg
+		3 Bat
+		3 Wood Clown
+		3 Dark Artist
+		3 Minomushi Warrior
+		3 Doron
+		3 Alinsection
+		3 Dark Energy
+		3 Tomozaurus
+		3 Nightmare Scorpion
+		3 Giant Flea
+		3 Ancient Jar
+		3 Ookazi
+		3 Little D
+		3 Tiger Axe
+		3 Statue of Easter Island
+		3 Harpie Lady
+	[Common]
+		4 Hitotsu-Me Giant
+		4 Skull Servant
+		4 Basic Insect
+		4 Mammoth Graveyard
+		4 Yashinoki
+		4 Dark Gray
+		4 Man-Eating Treasure Chest
+		4 Nemuriko
+		4 13th Grave
+		4 Flame Manipulator
+		4 Monster Egg
+		4 Firegrass
+		4 Dark King of the Abyss
+		4 Fiend Reflection 2
+		4 Turtle Tiger
+		4 Petit Dragon
+		4 Petit Angel
+		4 Hinotama Soul
+		4 Kagemusha of the Blue Flame
+		4 Two-Mouth Darkruler
+		4 Dissolverrock
+		4 Zarigun
+		4 Furious Sea King
+		4 Green Phantom King
+		4 Ray and Temperature
+		4 King Fog
+		4 Mystical Sheep 2
+		4 Masaki the Legendary Swordsman
+		4 Kurama
+		4 Sparks
+		4 Hinotama
+		4 Remove Trap
+		1 Rabid Horseman
+		1 Zombie Warrior
+		1 Rare Fish
+		1 Skelegon
+		4 Graveyard and the Hand of Invitation
+		4 Uraby
+		4 That Which Feeds on Life
+		4 Hard Armor
+		4 Man Eater
+		4 Spike Seadra
+		4 Hourglass of Life
+		4 Legendary Sword
+		4 Beast Fangs
+		4 Power of Kaishin
+		4 Mystical Moon
+		4 Mabarrel
+		4 Violet Crystal
+		4 Dragon Treasure
+		4 Vile Germs
+		4 Machine Conversion Factory
+		4 Raise Body Heat
+		4 Follow Wind
+		4 Enchanting Mermaid
+		4 Prismatic Bulb
+		4 Synchar
+		4 Archfiend Mirror
+		4 Secretarian of Secrets
+		4 Gust Fan
+		4 Invigoration
+		4 Thunder Kid
+		4 LaLa Li-oon
+		4 Meotoko
+		1 Kaiser Dragon
+		1 Musician King
+		1 Rose Spectre of Dunn
+		4 Trial of Nightmare
+		4 Mystery Hand
+		4 Candle of Fate
+		4 Wings of Wicked Flame
+		4 The Melting Red Shadow
+		4 Lucky Trinket
+		4 Curtain of the Dark Ones
+		4 Haniwa
+		4 Tatsunootoshigo
+		4 Shining Friendship
+		4 Happy Lover
+		4 Muse-A
+		4 Rouge Doll
+		4 Mystical Capture Chain
+		4 LaMoon
+		4 Djinn the Watcher of the Wind
+		4 Corroding Shark
+		4 White Dolphin
+		4 Hitodenchak
+		4 Root Water
+		4 Water Element
+		4 Dark Plant
+		4 Bone Mouse
+		4 Midnight Fiend
+		4 Tyhone
+		4 Burning Spear
+		4 Rhaimundos of the Red Sword
+		4 Fire Eye
+		4 Larvas
+		4 Stone Ghost
+		4 Living Vase
+		4 Hercules Beetle
+		4 Kuwagata Alpha
+		4 Doriado
+		4 Marmot of Nefariousness
+		4 Silver Fang
+		4 Droll Bird
+		4 Drdek
+		4 Wilmee
+		4 Bean Soldier
+		4 Phantom Dewan
+		4 Patrol Robo
+		4 Shadows Light
+		4 Umiiruka
+		4 Mystic Plasma Zone
+		4 Fire Prison
+		4 Ancient Forest
+		4 Canyon
+		4 Rainbow Flower
+	[CommonFixing]
+		1 Hitotsu-Me Giant
+		1 Skull Servant
+		1 Basic Insect
+		1 Mammoth Graveyard
+		2 Yashinoki
+		1 Dark Gray
+		1 Man-Eating Treasure Chest
+		1 Nemuriko
+		1 13th Grave
+		1 Flame Manipulator
+		1 Monster Egg
+		1 Firegrass
+		1 Dark King of the Abyss
+		1 Fiend Reflection 2
+		1 Turtle Tiger
+		1 Petit Dragon
+		1 Petit Angel
+		1 Hinotama Soul
+		8 Kagemusha of the Blue Flame
+		1 Two-Mouth Darkruler
+		1 Dissolverrock
+		1 Zarigun
+		1 Furious Sea King
+		1 Green Phantom King
+		1 Ray and Temperature
+		1 King Fog
+		1 Mystical Sheep 2
+		1 Masaki the Legendary Swordsman
+		1 Kurama
+		1 Sparks
+		1 Hinotama
+		1 Remove Trap
+		1 Rabid Horseman
+		1 Zombie Warrior
+		1 Rare Fish
+		1 Skelegon
+		1 Graveyard and the Hand of Invitation
+		1 Uraby
+		1 That Which Feeds on Life
+		1 Hard Armor
+		1 Man Eater
+		1 Spike Seadra
+		1 Hourglass of Life
+		1 Legendary Sword
+		1 Beast Fangs
+		1 Power of Kaishin
+		1 Mystical Moon
+		1 Mabarrel
+		1 Violet Crystal
+		1 Dragon Treasure
+		1 Vile Germs
+		1 Machine Conversion Factory
+		1 Raise Body Heat
+		1 Follow Wind
+		1 Enchanting Mermaid
+		8 Prismatic Bulb
+		1 Synchar
+		1 Archfiend Mirror
+		1 Secretarian of Secrets
+		1 Gust Fan
+		1 Invigoration
+		1 Thunder Kid
+		1 LaLa Li-oon
+		1 Meotoko
+		1 Kaiser Dragon
+		1 Musician King
+		1 Rose Spectre of Dunn
+		1 Trial of Nightmare
+		1 Mystery Hand
+		1 Candle of Fate
+		1 Wings of Wicked Flame
+		1 The Melting Red Shadow
+		1 Lucky Trinket
+		1 Curtain of the Dark Ones
+		1 Haniwa
+		2 Tatsunootoshigo
+		1 Shining Friendship
+		1 Happy Lover
+		1 Muse-A
+		1 Rouge Doll
+		1 Mystical Capture Chain
+		1 LaMoon
+		1 Djinn the Watcher of the Wind
+		1 Corroding Shark
+		1 White Dolphin
+		1 Hitodenchak
+		1 Root Water
+		1 Water Element
+		1 Dark Plant
+		1 Bone Mouse
+		1 Midnight Fiend
+		1 Tyhone
+		1 Burning Spear
+		1 Rhaimundos of the Red Sword
+		1 Fire Eye
+		1 Larvas
+		1 Stone Ghost
+		1 Living Vase
+		1 Hercules Beetle
+		1 Kuwagata Alpha
+		2 Doriado
+		2 Marmot of Nefariousness
+		1 Silver Fang
+		1 Droll Bird
+		1 Drdek
+		1 Wilmee
+		1 Bean Soldier
+		1 Phantom Dewan
+		1 Patrol Robo
+		8 Shadows Light
+		8 Umiiruka
+		8 Mystic Plasma Zone
+		8 Fire Prison
+		8 Ancient Forest
+		8 Canyon
+		8 Rainbow Flower
+	[CommonW]
+		4 Monster Egg	
+		4 Fiend Reflection 2
+		4 Petit Dragon
+		4 Petit Angel
+		4 Ray and Temperature
+		4 Shining Friendship
+		4 Happy Lover
+		4 Muse-A
+		4 Rouge Doll
+		4 Mystical Capture Chain
+		4 LaMoon
+		4 Shadows Light
+		4 Hinotama
+		4 Hard Armor
+		4 Lucky Trinket
+		4 Legendary Sword
+		4 Follow Wind
+	[CommonU]
+		4 Corroding Shark
+		4 Djinn the Watcher of the Wind
+		4 Enchanting Mermaid
+		4 Hitodenchak
+		4 King Fog
+		4 Mystical Moon
+		4 Nemuriko
+		4 Power of Kaishin
+		4 Rare Fish
+		4 Root Water
+		4 Spike Seadra
+		4 Furious Sea King
+		4 The Melting Red Shadow
+		4 Turtle Tiger
+		4 Umiiruka
+		4 Water Element
+		4 White Dolphin
+		4 Zarigun
+	[CommonB]
+		4 Bone Mouse	
+		4 Curtain of the Dark Ones
+		4 Mabarrel
+		4 Dark King of the Abyss
+		4 Dark Plant
+		4 Graveyard and the Hand of Invitation
+		4 Mammoth Graveyard
+		4 Man-Eating Treasure Chest
+		4 Midnight Fiend
+		4 Mystery Hand
+		4 Mystic Plasma Zone
+		4 Remove Trap
+		4 Skull Servant
+		4 13th Grave
+		4 Trial of Nightmare
+		4 Tyhone
+		4 Violet Crystal
+		4 Zombie Warrior
+	[CommonR]
+		4 Burning Spear
+		4 Candle of Fate
+		4 Dissolverrock
+		4 Dragon Treasure
+		4 Rabid Horseman
+		4 Fire Eye
+		4 Fire Prison
+		4 Firegrass
+		4 Flame Manipulator
+		4 Hinotama Soul
+		4 Larvas
+		4 Raise Body Heat
+		4 Rhaimundos of the Red Sword
+		4 Sparks
+		4 Stone Ghost
+		4 That Which Feeds on Life
+		4 Two-Mouth Darkruler
+		4 Wings of Wicked Flame
+	[CommonG]
+		4 Ancient Forest
+		4 Basic Insect
+		4 Beast Fangs
+		4 Doriado
+		4 Green Phantom King
+		4 Haniwa
+		4 Hercules Beetle
+		4 Hitotsu-Me Giant
+		4 Kuwagata Alpha
+		4 Living Vase
+		4 Man Eater
+		4 Marmot of Nefariousness
+		4 Mystical Sheep 2
+		4 Rose Spectre of Dunn
+		4 Silver Fang
+		4 Uraby
+		4 Vile Germs
+		4 Yashinoki
+	[CommonF]
+		4 Archfiend Mirror
+		4 Bean Soldier
+		4 Canyon
+		4 Droll Bird
+		4 Gust Fan
+		4 Hourglass of Life
+		4 Invigoration
+		4 Kaiser Dragon
+		4 LaLa Li-oon
+		4 Meotoko
+		4 Patrol Robo
+		4 Phantom Dewan
+		4 Secretarian of Secrets
+		4 Synchar
+		4 Tatsunootoshigo
+		4 Drdek
+		4 Thunder Kid
+		4 Wilmee
+	[Exodia]
+		50 Exodia the Forbidden One
+		50 Right Arm of the Forbidden One
+		50 Right Leg of the Forbidden One
+		50 Left Arm of the Forbidden One
+		50 Left Leg of the Forbidden One
+	[RightLeg]
+		1 Right Leg of the Forbidden One
+	[RightArm]
+		1 Right Arm of the Forbidden One
+	[Head]
+		1 Exodia the Forbidden One
+	[LeftArm]
+		1 Left Arm of the Forbidden One
+	[LeftLeg]
+		1 Left Leg of the Forbidden One
+	[Reminder]	
+		50 Sanctum Reminder
