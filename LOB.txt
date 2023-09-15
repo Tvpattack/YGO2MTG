@@ -3023,7 +3023,7 @@
 		2 Mystic Clown
 		2 Sword of Dark Destruction
 		3 Ignite
-		1 Sonic Maid
+		2 Sonic Maid
 		2 Ascent of Snakes
 		2 Establish Dominance
 		2 Latant Rebirth
@@ -3039,7 +3039,7 @@
 		2 The Inexperienced Spy
 		2 Key Mace 2
 		2 Leo Wizard
-		2 Lisark
+		1 Lisark
 		2 Raimei
 		2 Reverse Trap
 		2 Soul of the Pure
@@ -3135,7 +3135,7 @@
 		3 Steel Ogre Grotto 1
 		3 Lesser Dragon
 		3 Darkworld Thorns
-		3 Drooling Lizard
+		3 Yashinoki
 		3 Armored Starfish
 		3 Succubus Knight
 		3 Gravedigger Ghoul
@@ -3209,7 +3209,7 @@
 		3 Giant Flea
 		3 Ancient Jar
 		3 Ookazi
-		3 Little D
+		3 Stone Ghost
 		3 Tiger Axe
 		3 Statue of Easter Island
 		3 Harpie Lady
@@ -3218,7 +3218,7 @@
 		4 Skull Servant
 		4 Basic Insect
 		4 Mammoth Graveyard
-		4 Yashinoki
+		4 Drooling Lizard
 		4 Dark Gray
 		4 Man-Eating Treasure Chest
 		4 Nemuriko
@@ -3310,7 +3310,7 @@
 		4 Rhaimundos of the Red Sword
 		4 Fire Eye
 		4 Larvas
-		4 Stone Ghost
+		4 Little D
 		4 Living Vase
 		4 Hercules Beetle
 		4 Kuwagata Alpha
@@ -3335,7 +3335,7 @@
 		1 Skull Servant
 		1 Basic Insect
 		1 Mammoth Graveyard
-		2 Yashinoki
+		2 Drooling Lizard
 		1 Dark Gray
 		1 Man-Eating Treasure Chest
 		1 Nemuriko
@@ -3427,7 +3427,7 @@
 		1 Rhaimundos of the Red Sword
 		1 Fire Eye
 		1 Larvas
-		1 Stone Ghost
+		1 Little D
 		1 Living Vase
 		1 Hercules Beetle
 		1 Kuwagata Alpha
@@ -3518,7 +3518,7 @@
 		4 Raise Body Heat
 		4 Rhaimundos of the Red Sword
 		4 Sparks
-		4 Stone Ghost
+		4 Little D
 		4 That Which Feeds on Life
 		4 Two-Mouth Darkruler
 		4 Wings of Wicked Flame
@@ -3540,7 +3540,7 @@
 		4 Silver Fang
 		4 Uraby
 		4 Vile Germs
-		4 Yashinoki
+		4 Drooling Lizard
 	[CommonF]
 		4 Archfiend Mirror
 		4 Bean Soldier
