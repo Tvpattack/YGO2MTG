@@ -3084,6 +3084,18 @@
 		4 Kaiser Dragon
 		4 Musician King
 		4 Rose Spectre of Dunn
+		4 Ray and Temperature
+		4 King Fog
+		4 Dark King of the Abyss
+		4 Two-Mouth Darkruler
+		4 Kuwagata Alpha
+		4 Secretarian of Secrets
+		4 Tiger Axe
+		4 Armored Starfish
+		4 Dark Artist
+		4 Terra the Terrible
+		4 Man-Eating Plant
+		4 Nightmare Scorpion
 	[SuperFusion]
 		4 Giant Mech-Soldier
 		4 Harpie Lady Sisters
@@ -3110,6 +3122,12 @@
 		4 Metal Dragon
 		4 Skullbird
 		4 St Joan
+		4 Tiger Axe
+		4 Armored Starfish
+		4 Dark Artist
+		4 Terra the Terrible
+		4 Man-Eating Plant
+		4 Nightmare Scorpion
 	[Uncommon]
 		1 Flame Swordsman
 		1 Fusionist
@@ -3121,7 +3139,7 @@
 		3 M-Warrior 1
 		3 M-Warrior 2
 		3 Armaill
-		3 Terra the Terrible
+		1 Terra the Terrible
 		3 Frenzied Panda
 		3 Kumootoko
 		3 Meda Bat
@@ -3136,7 +3154,7 @@
 		3 Lesser Dragon
 		3 Darkworld Thorns
 		3 Yashinoki
-		3 Armored Starfish
+		1 Armored Starfish
 		3 Succubus Knight
 		3 Gravedigger Ghoul
 		3 Spirit of the Harp
@@ -3191,7 +3209,7 @@
 		3 Twin Long Rods 1
 		3 Oscillo Hero
 		3 Hourglass of Courage
-		3 Man-Eating Plant
+		1 Man-Eating Plant
 		3 Akihiron
 		3 Hurricail
 		3 Abyss Flower
@@ -3199,18 +3217,18 @@
 		3 Gate Deeg
 		3 Bat
 		3 Wood Clown
-		3 Dark Artist
+		1 Dark Artist
 		3 Minomushi Warrior
 		3 Doron
 		3 Alinsection
 		3 Dark Energy
 		3 Tomozaurus
-		3 Nightmare Scorpion
+		1 Nightmare Scorpion
 		3 Giant Flea
 		3 Ancient Jar
 		3 Ookazi
 		3 Stone Ghost
-		3 Tiger Axe
+		1 Tiger Axe
 		3 Statue of Easter Island
 		3 Harpie Lady
 	[Common]
@@ -3238,7 +3256,7 @@
 		4 Zarigun
 		4 Furious Sea King
 		4 Green Phantom King
-		4 Ray and Temperature
+		1 Ray and Temperature
 		4 King Fog
 		4 Mystical Sheep 2
 		4 Masaki the Legendary Swordsman
@@ -3452,7 +3470,6 @@
 		4 Fiend Reflection 2
 		4 Petit Dragon
 		4 Petit Angel
-		4 Ray and Temperature
 		4 Shining Friendship
 		4 Happy Lover
 		4 Muse-A
@@ -3470,7 +3487,6 @@
 		4 Djinn the Watcher of the Wind
 		4 Enchanting Mermaid
 		4 Hitodenchak
-		4 King Fog
 		4 Mystical Moon
 		4 Nemuriko
 		4 Power of Kaishin
@@ -3488,7 +3504,6 @@
 		4 Bone Mouse	
 		4 Curtain of the Dark Ones
 		4 Mabarrel
-		4 Dark King of the Abyss
 		4 Dark Plant
 		4 Graveyard and the Hand of Invitation
 		4 Mammoth Graveyard
@@ -3520,7 +3535,6 @@
 		4 Sparks
 		4 Little D
 		4 That Which Feeds on Life
-		4 Two-Mouth Darkruler
 		4 Wings of Wicked Flame
 	[CommonG]
 		4 Ancient Forest
@@ -3531,7 +3545,6 @@
 		4 Haniwa
 		4 Hercules Beetle
 		4 Hitotsu-Me Giant
-		4 Kuwagata Alpha
 		4 Living Vase
 		4 Man Eater
 		4 Marmot of Nefariousness
@@ -3554,7 +3567,6 @@
 		4 Meotoko
 		4 Patrol Robo
 		4 Phantom Dewan
-		4 Secretarian of Secrets
 		4 Synchar
 		4 Tatsunootoshigo
 		4 Drdek
