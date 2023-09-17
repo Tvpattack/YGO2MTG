@@ -2394,12 +2394,12 @@
 	        }
 	    },
 	    {
-	        "name": "Ascent of Snakes",
+	        "name": "Ascent From Snakes",
 	        "rarity": "special",
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ascent%20of%20Snakes.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ascent%20From%20Snakes.png?raw=true"
 	        }
 	    },
 	    {
@@ -3024,7 +3024,7 @@
 		2 Sword of Dark Destruction
 		3 Ignite
 		2 Sonic Maid
-		2 Ascent of Snakes
+		2 Ascent From Snakes
 		2 Establish Dominance
 		2 Latant Rebirth
 		4 Ansatsu
