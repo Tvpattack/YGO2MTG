@@ -2880,9 +2880,8 @@
 {
 	"name": "Legend of Blue Eyes",
 	"withReplacement": true,
-	"boostersPerPlayer": 5,
+	"boostersPerPlayer": 4,
 	"predeterminedLayouts": [
-		{"Pick5": 1},
 		{"FinalFusion": 95, "FinalSuperFusion": 4, "5Pieces": 1},
 		{"Rare": 85, "Exodia": 14, "Fusion": 1},
 		{"Rare": 85, "Exodia": 14, "Fusion": 1},
