@@ -2335,15 +2335,17 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2023-10-31 01:42:58
+	time_modified: 2023-11-28 00:17:01
 	name: Man Eater
 	casting_cost: 5GG
 	image: image231.png
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Plant</word-list-race> <word-list-class>Horror</word-list-class><soft> </soft><word-list-class></word-list-class>
+	sub_type: <word-list-race>Plant</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: common
 	rule_text:
 		When <atom-cardname><nospellcheck>Man Eater</nospellcheck></atom-cardname> enters the battlefield, create two 2/2 silver Insect Demon creature tokens with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Man Eater</nospellcheck></atom-cardname> enters the battlefield, create two 2/2 silver Insect Plant creature tokens with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-A><i-auto><nospellcheck>Channel</nospellcheck></i-auto></kw-A> — <sym-auto>1G</sym-auto>, Discard this: Target gets +3/+3 until end of turn. 
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: 
@@ -6027,7 +6029,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2023-11-26 17:36:30
+	time_modified: 2023-11-28 00:22:48
 	extra_data:
 		magic-m15-altered-plus:
 			corner: sanctum
@@ -6039,7 +6041,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck>Menace</nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Secretarian of Secrets</nospellcheck></atom-cardname> is cast from your sanctum or dies, create a 2/2 silver Insect Demon creature token with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever <atom-cardname><nospellcheck>Secretarian of Secrets</nospellcheck></atom-cardname> is cast from your sanctum or dies, create a 2/2 silver Insect Plant creature token with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck>Fusion</nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)</i-auto></atom-reminder-custom></kw-A>
 	power: 3
@@ -6047,7 +6049,7 @@ card:
 	card_code_text: 
 	illustrator: Konami
 	copyright: 
-	image_2: image_212.png
+	image_2: image_24.png
 	super_type_2: <word-list-type></word-list-type>
 	sub_type_2: 
 	super_type_3: <word-list-type></word-list-type>
@@ -6109,9 +6111,9 @@ card:
 		</soft-line>Exile target nonland permanent. Return that permanent to its owner’s control at the beginning of the next end step.<soft-line>
 		Flashback 2FF</soft-line>
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2023-11-11 20:23:45
+	time_modified: 2023-11-27 04:14:08
 	name: Invigoration
-	casting_cost: F
+	casting_cost: 1F
 	image: image279.png
 	super_type: <word-list-type>Sorcery</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
@@ -6215,7 +6217,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2023-10-31 01:45:06
+	time_modified: 2023-11-28 00:17:58
 	name: LaLa Li-oon
 	casting_cost: 2F
 	image: image276.png
@@ -6225,7 +6227,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck>Flash</nospellcheck></kw-a>
 		<kw-a><nospellcheck>Flying</nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>LaLa Li-oon</nospellcheck></atom-cardname> enters the battlefield, create a 2/2 silver Insect Demon creature token with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>LaLa Li-oon</nospellcheck></atom-cardname> enters the battlefield, create a 2/2 silver Insect Plant creature token with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>An electric cloud creature, it’s acid rain makes it very dangerous.</i-flavor>
 	level_1_text: 
 	power: 2
@@ -8210,7 +8212,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2023-10-31 01:44:55
+	time_modified: 2023-11-28 00:17:11
 	name: Eyearmor
 	casting_cost: 2FF
 	image: image271.png
@@ -8219,7 +8221,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-A><nospellcheck>Changeling</nospellcheck><atom-reminder-expert> <i-auto>(This card is every creature type.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-cardname><nospellcheck>Eyearmor</nospellcheck></atom-cardname> enters the battlefield, create two 2/2 Insect Demon creature tokens with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Eyearmor</nospellcheck></atom-cardname> enters the battlefield, create two 2/2 Insect Plant creature tokens with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>This warrior transforms into various creatures to confuse its enemies in battle.</i-flavor>
 	watermark: none
 	level_1_text: 
@@ -10846,7 +10848,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-02-27 12:15:49
-	time_modified: 2023-11-27 03:14:02
+	time_modified: 2023-11-27 05:16:47
 	name: Shadow Who Controls the Dark
 	casting_cost: B
 	image: image66.png
@@ -11061,14 +11063,14 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-02-27 12:15:49
-	time_modified: 2023-10-31 01:44:44
+	time_modified: 2023-11-28 00:16:30
 	name: Minomushi Warrior
 	casting_cost: F
 	image: image265.png
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Human</word-list-race> <word-list-class>Warrior</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rarity: uncommon
-	rule_text: <sym-auto>1F</sym-auto>, <sym-auto>T</sym-auto>, Return a land you control to its owners hand: Create a 2/2 Insect Demon creature token with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text: <sym-auto>1F</sym-auto>, <sym-auto>T</sym-auto>, Return a land you control to its owners hand: Create a 2/2 Insect Plant creature token with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>A rock warrior that wields a heavy blade carved from stone.</i-flavor>
 	power: 1
 	toughness: 2
@@ -11153,7 +11155,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-02-27 12:15:49
-	time_modified: 2023-10-31 01:44:47
+	time_modified: 2023-11-28 00:16:39
 	name: Alinsection
 	casting_cost: 1F
 	image: image267.png
@@ -11163,7 +11165,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck>First strike</nospellcheck></kw-a>
 		<atom-cardname><nospellcheck>Alinsection</nospellcheck></atom-cardname> can’t block.
-		When <atom-cardname><nospellcheck>Alinsection</nospellcheck></atom-cardname> dies, create a 2/2 silver Insect Demon token with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Alinsection</nospellcheck></atom-cardname> dies, create a 2/2 silver Insect Plant token with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>A stag beetle with a saw-like head and arms.</i-flavor>
 	power: 2
 	toughness: 1
@@ -11379,14 +11381,14 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-02-27 12:15:49
-	time_modified: 2023-11-27 03:40:01
+	time_modified: 2023-11-28 00:16:23
 	name: Ancient Jar
 	casting_cost: 1F
 	image: image248.png
 	super_type: <word-list-type>Artifact Creature</word-list-type>
 	sub_type: <word-list-race>Demon</word-list-race> <word-list-class>Wizard</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Ancient Jar</nospellcheck></atom-cardname> dies, create a 2/2 silver Insect Demon creature token with <kw-A><nospellcheck>decayed</nospellcheck>. If <atom-cardname><nospellcheck>Ancient Jar</nospellcheck></atom-cardname> died with one or more power, create two of those tokens instead.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>Ancient Jar</nospellcheck></atom-cardname> dies, create a 2/2 silver Insect Plant creature token with <kw-A><nospellcheck>decayed</nospellcheck>. If <atom-cardname><nospellcheck>Ancient Jar</nospellcheck></atom-cardname> died with one or more power, create two of those tokens instead.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>A very fragile jar that contains something ancient and dangerous.</i-flavor>
 	power: 0
 	toughness: 1
@@ -12029,7 +12031,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-03-05 21:34:10
-	time_modified: 2023-11-11 20:20:21
+	time_modified: 2023-11-27 04:48:00
 	name: Castle Walls
 	casting_cost: F
 	image: image283.png
@@ -12037,8 +12039,8 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		Create a 0/3 Wall artifact creature token with <kw-0><nospellcheck>defender</nospellcheck></kw-0>. Each opponent loses 1 life for each creature you control with <kw-0><nospellcheck>defender</nospellcheck></kw-0>.
-		<kw-1><nospellcheck>Flashback <param-cost><sym-auto>3F</sym-auto></param-cost></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-1>
+		Create a 0/3 Wall artifact creature token with <kw-0><nospellcheck>defender</nospellcheck></kw-0>. Each opponent loses 1 life for each creature you control with higher toughness than power.
+		<kw-1><nospellcheck>Flashback—<param-cost>Tap two untapped silver creatures you control</param-cost>.</nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-1>
 	flavor_text: <i-flavor>They come with arrows, free of charge.</i-flavor>
 	card_code_text: 
 	copyright: YGO2MTG project by TVP
@@ -12858,16 +12860,15 @@ card:
 		inverted_common_symbol: no
 		overlay: 
 	notes:
-		!tokenrarity
 		!centername
 		!related Man Eater2>;Alinsection;Ancient Jar;Ancient Jar2>;Eyearmor2>;Minomushi Warrior;Secretarian of Secrets;LaLa Li-oon;
 	time_created: 2023-03-11 15:35:58
-	time_modified: 2023-10-31 01:45:20
+	time_modified: 2023-11-28 00:16:09
 	card_color: silver
-	name: Insect Demon Token
+	name: Insect Plant Token
 	image: image285.png
 	super_type: <word-list-type>Token Creature</word-list-type>
-	sub_type: <word-list-race>Insect</word-list-race> <word-list-class>Demon</word-list-class><soft> </soft><word-list-class></word-list-class>
+	sub_type: <word-list-race>Insect</word-list-race> <word-list-class>Plant</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rule_text: <kw-A><nospellcheck>Decayed</nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -13493,7 +13494,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-03-17 01:18:57
-	time_modified: 2023-10-31 01:30:49
+	time_modified: 2023-11-28 00:07:06
 	name: Sword of Dark Destruction
 	casting_cost: B
 	image: image55.png
@@ -13503,7 +13504,7 @@ card:
 	rule_text:
 		Equipped creature gets +1/+1.
 		Whenever equipped creature deals combat damage to a noncreature, <atom-cardname><nospellcheck>Sword of Dark Destruction</nospellcheck></atom-cardname> deals 2 damage to any target and you gain 2 life.
-		<kw-a><nospellcheck>Equip <param-cost><sym-auto>1B</sym-auto></param-cost></nospellcheck></kw-a>
+		<kw-a><nospellcheck>Equip <param-cost><sym-auto>2B</sym-auto></param-cost></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
@@ -13749,16 +13750,16 @@ card:
 		!gold
 		!noborder
 	time_created: 2023-03-17 01:18:57
-	time_modified: 2023-10-31 01:47:38
+	time_modified: 2023-11-27 05:01:47
 	card_color: green, silver, hybrid, horizontal
 	name: Reverse Trap
-	casting_cost: FG
+	casting_cost: 1FG
 	image: image324.png
 	super_type: <word-list-type>Instant</word-list-type>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: special
-	rule_text: Counter target spell or ability that targets a permanent, spell, or ability you control.
-	flavor_text: <i-flavor></i-flavor>
+	rule_text: <kw-A><nospellcheck>Reflect</nospellcheck>. When you do, you may exchange control of target creature you control and target spell. You may choose new targets for it.<atom-reminder-custom> <i-auto>(Create a token thats a copy of a token you control.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>You never expect the counter trap, much less the second one!</i-flavor>
 	power: 
 	toughness: 
 	card_code_text: 
