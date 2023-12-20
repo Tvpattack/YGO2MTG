@@ -2234,7 +2234,7 @@
 	    {
 	        "name": "Winged Dragon, Guardian of the Fortress 1",
 	        "rarity": "rare",
-	        "mana_cost": "",
+	        "mana_cost": "{1}{W}{U}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%2c%20Guardian%20of%20the%20Fortress%201.png?raw=true"
@@ -2243,7 +2243,7 @@
 	    {
 	        "name": "Winged Dragon, Guardian of the Fortress 2",
 	        "rarity": "rare",
-	        "mana_cost": "",
+	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%2c%20Guardian%20of%20the%20Fortress%202.png?raw=true"

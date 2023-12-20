@@ -2340,11 +2340,9 @@ card:
 	casting_cost: 5GG
 	image: image231.png
 	super_type: <word-list-type>Creature</word-list-type>
-	sub_type: <word-list-race>Plant</word-list-race> <word-list-class>Horror</word-list-class><soft> </soft><word-list-class></word-list-class>
 	sub_type: <word-list-race>Plant</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: common
 	rule_text:
-		When <atom-cardname><nospellcheck>Man Eater</nospellcheck></atom-cardname> enters the battlefield, create two 2/2 silver Insect Demon creature tokens with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 		When <atom-cardname><nospellcheck>Man Eater</nospellcheck></atom-cardname> enters the battlefield, create two 2/2 silver Insect Plant creature tokens with <kw-A><nospellcheck>decayed</nospellcheck>.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-A><i-auto><nospellcheck>Channel</nospellcheck></i-auto></kw-A> — <sym-auto>1G</sym-auto>, Discard this: Target gets +3/+3 until end of turn. 
 	flavor_text: <i-flavor></i-flavor>
@@ -6103,22 +6101,44 @@ card:
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 
+		frames: 
+		altered_plus_frames: star overlay, Yugioh Frame
+		name_color: default
+		popout_image_style_2: 
+		popout_image_style_3: 
+		custom_symbol: abstract-061.png
+		font_cap: 
+		d20_dividers: d20 mode
+		use_holofoil_stamps: no
+		alt_rarity_color: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
 	notes:
+		!Rework<soft-line>
 		<soft-line>
-		<soft-line>
+		</soft-line><soft-line>
+		</soft-line>v1.2: Target player reveals their hand. You may put a creature card revealed this way or a creature that player controls into their sanctum. If it doesn’t have fusion, it gains fusion. (They may cast that card from their sanctum by sacrificing a creature that shares a creature type with it and discarding a card.)<soft-line>
 		</soft-line></soft-line>original: common<soft-line>
 		</soft-line>Exile target nonland permanent. Return that permanent to its owner’s control at the beginning of the next end step.<soft-line>
 		Flashback 2FF</soft-line>
 	time_created: 2022-07-18 21:25:51
-	time_modified: 2023-11-27 04:14:08
+	time_modified: 2023-12-13 19:47:31
 	name: Invigoration
 	casting_cost: 1F
 	image: image279.png
-	super_type: <word-list-type>Sorcery</word-list-type>
-	sub_type: <word-list-spell></word-list-spell>
+	super_type: <word-list-type>Enchantment</word-list-type>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft> </soft><word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: Target player reveals their hand. You may put a creature card revealed this way or a creature that player controls into their sanctum. If it doesn’t have <kw-0><nospellcheck>fusion</nospellcheck></kw-0>, it gains <kw-0><nospellcheck>fusion</nospellcheck></kw-0>. <i-auto>(They may cast that card from their sanctum by sacrificing a creature that shares a creature type with it and discarding a card.)</i-auto>
+	rule_text:
+		<kw-a><nospellcheck>Enchant <param-name>creature or non-aura enchantment</param-name></nospellcheck></kw-a>
+		Enchanted permanent is also a creature with size 4/4.
+		Whenever <atom-cardname><nospellcheck>Invigoration</nospellcheck></atom-cardname> enters or leaves battlefield, draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: 
 	power: 
@@ -6302,6 +6322,7 @@ card:
 		alt_rarity_color: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: short text only
 		inverted_common_symbol: no
 		overlay: 
 	notes: 
@@ -11627,7 +11648,7 @@ card:
 		font_cap: 13.5
 		d20_dividers: d20 mode
 		use_holofoil_stamps: no
-		color_indicator_dot: yes
+		color_indicator_dot: no
 		alt_rarity_color: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11637,17 +11658,18 @@ card:
 		!gold
 		!noborder
 	time_created: 2023-03-04 21:20:43
-	time_modified: 2023-10-31 01:46:30
+	time_modified: 2023-12-19 22:51:06
 	card_color: white, blue, hybrid, horizontal
 	name: Winged Dragon, Guardian of the Fortress 1
+	casting_cost: 1WU
 	image: image294.png
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Dragon</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck>Flying</nospellcheck></kw-0>, <kw-0><nospellcheck>vigilance</nospellcheck></kw-0>
-		As long as you’ve discarded a card this turn, you may pay <sym-auto>WU</sym-auto> to cast this spell.
-		When this enters the battlefield, you may search your library for a card with mana value </sym>1<sym>, reveal it, put it into your hand, then shuffle.
+		Other Dragons you control get +1/+1.
+		<sym-auto>5</sym-auto>: Exile target Dragon you control. return it to the battlefield at the beginning of the next end step.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
@@ -11681,7 +11703,7 @@ card:
 		font_cap: 13.5
 		d20_dividers: d20 mode
 		use_holofoil_stamps: no
-		color_indicator_dot: yes
+		color_indicator_dot: no
 		alt_rarity_color: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11691,17 +11713,17 @@ card:
 		!gold
 		!noborder
 	time_created: 2023-03-04 21:20:43
-	time_modified: 2023-10-31 01:46:31
+	time_modified: 2023-12-19 01:38:30
 	card_color: black, red, hybrid, horizontal
 	name: Winged Dragon, Guardian of the Fortress 2
+	casting_cost: 1BR
 	image: image295.png
 	super_type: <word-list-type>Creature</word-list-type>
 	sub_type: <word-list-race>Dragon</word-list-race><soft> </soft><word-list-class></word-list-class>
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck>Flying</nospellcheck></kw-0>, <kw-0><nospellcheck>menace</nospellcheck></kw-0>
-		As long as you’ve discarded a card this turn, you may pay <sym-auto>BR</sym-auto> to cast this spell.
-		When this enters the battlefield, you may search your library for a card with mana value </sym>2<sym>, reveal it, put it into your hand, then shuffle.
+		Whenever a black or red creature you control deals combat damage to a player or noncreature permanent, you may sacrifice it. If you do, you draw a card and lose 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
@@ -12031,7 +12053,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2023-03-05 21:34:10
-	time_modified: 2023-11-27 04:48:00
+	time_modified: 2023-12-12 17:48:17
 	name: Castle Walls
 	casting_cost: F
 	image: image283.png
@@ -12039,7 +12061,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		Create a 0/3 Wall artifact creature token with <kw-0><nospellcheck>defender</nospellcheck></kw-0>. Each opponent loses 1 life for each creature you control with higher toughness than power.
+		Create a 0/3 colorless Wall artifact creature token with <kw-0><nospellcheck>defender</nospellcheck></kw-0>. Each opponent loses 1 life for each creature you control with higher toughness than power.
 		<kw-1><nospellcheck>Flashback—<param-cost>Tap two untapped silver creatures you control</param-cost>.</nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-1>
 	flavor_text: <i-flavor>They come with arrows, free of charge.</i-flavor>
 	card_code_text: 
@@ -14107,7 +14129,7 @@ card:
 		!gold
 		!noborder
 	time_created: 2023-03-17 01:18:57
-	time_modified: 2023-10-31 01:46:40
+	time_modified: 2023-12-19 01:35:39
 	card_color: black, red, hybrid, horizontal
 	name: Key Mace 2
 	casting_cost: 3BR
@@ -14116,8 +14138,8 @@ card:
 	sub_type: <word-list-race>Faerie</word-list-race> <word-list-class>Demon</word-list-class><soft> </soft><word-list-class></word-list-class>
 	rarity: special
 	rule_text:
-		When <atom-cardname><nospellcheck>Key Mace 2</nospellcheck></atom-cardname> enters the battlefield, each other creature gets -2/-2 until end of turn. 
 		<kw-a><nospellcheck>Haste</nospellcheck></kw-a>, <kw-a><nospellcheck>menace</nospellcheck></kw-a>, <kw-a><nospellcheck>first strike</nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Key Mace 2</nospellcheck></atom-cardname> enters the battlefield, each other creature gets -2/-2 until end of turn. 
 	flavor_text: <i-flavor>This fiend brings out the worst in everyone.    </i-flavor>
 	power: 2
 	toughness: 1
