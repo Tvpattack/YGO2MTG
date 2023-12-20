@@ -1272,7 +1272,7 @@
 	        "name": "Musician King",
 	        "rarity": "common",
 	        "mana_cost": "{3}{W}",
-	        "type": "Creature — Human Warrior ",
+	        "type": "Creature — Human Bard Warrior ",
 	        "image_uris": {
 	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Musician%20King.png?raw=true"
 	        }
