@@ -1409,7 +1409,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/St%20Joan.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/St.%20Joan.png?raw=true"
 	        }
 	    },
 	    {
@@ -2237,7 +2237,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%2c%20Guardian%20of%20the%20Fortress%201.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%20Guardian%20of%20the%20Fortress%201.png?raw=true"
 	        }
 	    },
 	    {
@@ -2246,7 +2246,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%2c%20Guardian%20of%20the%20Fortress%202.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%20Guardian%20of%20the%20Fortress%202.png?raw=true"
 	        }
 	    },
 	    {
@@ -2462,7 +2462,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Basic%20Plains%20LOB.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Plains.png?raw=true"
 	        }
 	    },
 	    {
@@ -2471,7 +2471,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Basic%20Island%20LOB.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Island.png?raw=true"
 	        }
 	    },
 	    {
@@ -2480,7 +2480,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Basic%20Swamp%20LOB.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Swamp.png?raw=true"
 	        }
 	    },
 	    {
@@ -2489,7 +2489,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Basic%20Mountain%20LOB.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mountain.png?raw=true"
 	        }
 	    },
 	    {
@@ -2498,7 +2498,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Basic%20Forest%20LOB.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Forest.png?raw=true"
 	        }
 	    },
 	    {
@@ -2507,7 +2507,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Fault ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Basic%20Fault%20LOB.png?raw=true"
+	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fault.png?raw=true"
 	        }
 	    },
 	    {
