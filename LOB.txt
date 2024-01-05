@@ -2981,7 +2981,7 @@
 		1 Giant Mech-Soldier
 		3 Wodan the Resident of the Forest
 		3 Boo Koo
-		3 Castle Walls
+		3 Invigoration
 		3 Reinforcements
 		3 Ryu-Kishin
 		3 Yormungarde
@@ -3272,7 +3272,7 @@
 		4 Archfiend Mirror
 		4 Secretarian of Secrets
 		4 Gust Fan
-		4 Invigoration
+		4 Castle Walls
 		4 Thunder Kid
 		4 LaLa Li-oon
 		4 Meotoko
@@ -3395,7 +3395,7 @@
 		1 Archfiend Mirror
 		1 Secretarian of Secrets
 		1 Gust Fan
-		1 Invigoration
+		1 Castle Walls
 		1 Thunder Kid
 		1 LaLa Li-oon
 		1 Meotoko
@@ -3547,7 +3547,7 @@
 		4 Droll Bird
 		4 Gust Fan
 		4 Hourglass of Life
-		4 Invigoration
+		4 Castle Walls
 		4 Kaiser Dragon
 		4 LaLa Li-oon
 		4 Meotoko
@@ -3576,4 +3576,3 @@
 		1 Left Leg of the Forbidden One
 	[Reminder]	
 		50 Sanctum Reminder
-	

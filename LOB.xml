@@ -1,0 +1,5033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+  <sets>
+    <set>
+      <name>LOB</name>
+      <longname>Legend of Blue Eyes</longname>
+      <settype></settype>
+    </set>
+  </sets>
+  <cards>
+
+    <card>
+      <name>Flame Swordsman</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+When Flame Swordsman enters the battlefield, you may search your library for an equipment card and reveal it. If you discarded a card this turn, put it into your hand and shuffle. Otherwise, shuffle, then put it on top of your library.</text>
+    </card>
+    <card>
+      <name>Hitotsu-Me Giant</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Cyclops Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever another creature enters the battlefield under your control, Hitotsu-Me Giant gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Skull Servant</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Zombie Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>2B: Return Skull Servant from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Basic Insect</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+2G, Exile Basic Insect from your graveyard: As a sorcery, put a +1/+1 counter on target creature you control. That creature gains deathtouch until end of turn.</text>
+    </card>
+    <card>
+      <name>Mammoth Graveyard</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elephant Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mammoth Graveyard enters the battlefield, each opponent sacrifices a creature.</text>
+    </card>
+    <card>
+      <name>Yashinoki</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one:
+• Search your library for a Field card, reveal it, put it into your hand. Then shuffle.
+• Target creature you control fights target creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Dark Gray</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)
+Flying</text>
+    </card>
+    <card>
+      <name>Man-Eating Treasure Chest</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Artifact Creature - Robot Demon </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Man-Eating Treasure Chest dies, mill four cards, then create a 1/1 Robot artifact creature token.</text>
+    </card>
+    <card>
+      <name>Nemuriko</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Merfolk Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Nemuriko enters the battlefield, tap target creature an opponent controls and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+    </card>
+    <card>
+      <name>The 13th Grave</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch
+Channel — 2B, Discard this: Target opponent sacrifices an enchantment.</text>
+    </card>
+    <card>
+      <name>Flame Manipulator</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card or another creature enters the battlefield under your control, Flame Manipulator deals 1 damage to each opponent.</text>
+    </card>
+    <card>
+      <name>Monster Egg</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Egg Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Monster Egg enters the battlefield, put a +1/+1 counter on target creature you control. </text>
+    </card>
+    <card>
+      <name>Firegrass</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Plant Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+Channel — 2R, Discard this: Attacking creatures you control get +2/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Dark King of the Abyss</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Zombie Noble </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+When Dark King of the Abyss enters the battlefield, if you discarded a card this turn, target player sacrifices a creature. Otherwise, each player sacrifices a creature. </text>
+    </card>
+    <card>
+      <name>Fiend Reflection 2</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Spirit Reflection </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying</text>
+    </card>
+    <card>
+      <name>Turtle Tiger</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Cat Turtle Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <cipt>1</cipt>
+      <text>Flash
+Turtle Tiger enters the battlefield tapped unless you control another Demon.
+When Turtle Tiger enters the battlefield, tap up to one target creature.</text>
+    </card>
+    <card>
+      <name>Petit Dragon</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Dragon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Channel — 2W, Discard this: Create two 1/1 Shapeshifter creature tokens with changeling. (They are every creature type.)</text>
+    </card>
+    <card>
+      <name>Petit Angel</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Angel Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other creatures you control that share a creature type with Petit Angel get +1/+0.</text>
+    </card>
+    <card>
+      <name>Hinotama Soul</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as Hinotama Soul is equipped, it has first strike during your turn.</text>
+    </card>
+    <card>
+      <name>Kagemusha of the Blue Flame</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Kagemusha of the Blue Flame enters the battlefield, you may discard a card. If you do, search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Two-Mouth Darkruler</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3RR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dinosaur Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Menace
+When Two-Mouth Darkruler enters the battlefield, it deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Dissolverrock</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Dissolverrock gets +1/+1 if you’ve discarded a card this turn.</text>
+    </card>
+    <card>
+      <name>Zarigun</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Merfolk Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you have eight or more cards in your graveyard, Zarigun gets +2/+0 and has menace.
+3U: Target player mills three cards.</text>
+    </card>
+    <card>
+      <name>Furious Sea King</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Merfolk Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever Furious Sea King attacks, target player mills two cards.
+Furious Sea King gets +2/+2 as long as you have eight or more cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Green Phantom King</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Elf Plant </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Green Phantom King enters the battlefield, you gain 1 life for each Plant and/or Insect you control.</text>
+    </card>
+    <card>
+      <name>Ray and Temperature</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Vigilance
+When Ray and Temperature enters the battlefield, target creature you control gets +2/+2 until end of turn.</text>
+    </card>
+    <card>
+      <name>King Fog</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Elemental Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying
+When King Fog enters the battlefield, if you discarded a card this turn, draw a card. Otherwise draw a card, then discard a card.</text>
+    </card>
+    <card>
+      <name>Mystical Sheep 2</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Sheep Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Channel — 1G, Discard this: Target creature you control fights target creature you don’t control. (Each deals damage equal to its power to the other.)</text>
+    </card>
+    <card>
+      <name>Masaki the Legendary Swordsman</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Robot Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+First strike
+When Masaki the Legendary Swordsman enters the battlefield, if you discarded a card this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Kurama</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Bird Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying
+When Kurama enters the battlefield, draw two cards, then discard a card.</text>
+    </card>
+    <card>
+      <name>Sparks</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Sparks deals 2 damage to any target.</text>
+    </card>
+    <card>
+      <name>Hinotama</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target tapped creature or target enchantment.</text>
+    </card>
+    <card>
+      <name>Remove Trap</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target opponent loses 2 life then reveals their hand. You choose a nonland card from it. That player exiles that card.
+Flashback 3BBB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Rabid Horseman</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Centaur Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Tap two untapped artifacts and/or creatures you control: Rabid Horseman daels 1 damage to each opponent. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Zombie Warrior</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+When Zombie Warrior enters the battlefield, if you discarded a card this turn, up to one target creature gets -2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Fusionist</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>2GW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Cat Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying
+Tap two untapped creatures and/or enchantments you control: Target creature you control gains lifelink until end of turn. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Flame Ghost</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>BR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+When Flame Ghost enters the battlefield, if you discarded a card this turn, create a 1/1 red Elemental creature token. They gain haste until end of turn.</text>
+    </card>
+    <card>
+      <name>Polymerization</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reveal a creature card with fusion from your sanctum. Until end of turn, you may cast that card from your sanctum.</text>
+    </card>
+    <card>
+      <name>Rare Fish</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat Spirit Merfolk </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Vigilance
+When Rare Fish enters the battlefield, if you discarded a card this turn, put a +1/+1 counter on each Spirit you control.</text>
+    </card>
+    <card>
+      <name>Dragoness the Wicked Knight</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Dragon Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying
+When Dragoness the Wicked Knight enters the battlefield, if you discarded a card this turn, create two 1/1 white Dragon creature tokens with flying that can’t block. Otherwise create one of those tokens.</text>
+    </card>
+    <card>
+      <name>Skelegon</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Zombie Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Menace
+Skelegon enters the battlefield with a +1/+1 counter on it for each card you discarded this turn.</text>
+    </card>
+    <card>
+      <name>Flower Wolf</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Plant Wolf </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Trample
+When Flower Wolf enters the battlefield, if you discarded a card this turn, return up to two target creature cards from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Gaia the Dragon Champion</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>5BG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Human Dragon Knight </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying
+As Gaia the Dragon Champion enters the battlefield, choose +1/+1, lifelink, menace or vigilance for each creature you sacrificed this turn. Gaia the Dragon Champion enters with the chosen counters.</text>
+    </card>
+    <card>
+      <name>Graveyard and the Hand of Invitation</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player sacrifices a creature.
+Flashback 5BB (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Beaver Warrior</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Beaver Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Beaver Warrior has first strike during your turn.
+When Beaver Warrior dies, create a 1/1 Shapeshifter creature token with changeling. (It’s every creature type.)</text>
+    </card>
+    <card>
+      <name>Uraby</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dinosaur Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
+      <name>Witty Phantom</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Demon Rogue </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once during each of your turns, whenever a creature dies, put a +1/+1 counter on Witty Phantom.</text>
+    </card>
+    <card>
+      <name>That Which Feeds on Life</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Channel — {R}, Discard this: Draw a card.</text>
+    </card>
+    <card>
+      <name>Hard Armor</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink</text>
+    </card>
+    <card>
+      <name>Man Eater</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GG</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>5/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Man Eater enters the battlefield, create two 2/2 silver Insect Plant creature tokens with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)
+Channel — 1G, Discard this: Target gets +3/+3 until end of turn. </text>
+    </card>
+    <card>
+      <name>M-Warrior 1</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Humans and creatures you control with defender have “{T}: Target player mills two cards.”</text>
+    </card>
+    <card>
+      <name>M-Warrior 2</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Humans and creature tokens you control have “{T}: Add one mana of any of this permanents colors or {C}.”</text>
+    </card>
+    <card>
+      <name>Armaill</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Robot Knight </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Armaill enters the battlefield, choose one—
+• Return up to one target noncreature card from your graveyard to your hand.
+• Draw two cards.</text>
+    </card>
+    <card>
+      <name>Terra the Terrible</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>4RR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Ogre Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Other Warriors you control get +1/+1.
+Channel — 1R, Discard this: This deals 1 damage to target creature for each equipment you control.      </text>
+    </card>
+    <card>
+      <name>Frenzied Panda</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Beast Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, Frenzied Panda gets +1/+1 until end of turn.
+Channel — 1R, Discard Frenzied Panda: Target creature gets +3/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Kumootoko</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Spider Demon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Deathtouch, reach
+Channel — 1G, Discard this: Put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Meda Bat</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>WB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bat Eye </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you sacrifice a creature, put a +1/+1 counter on Meda Bat.</text>
+    </card>
+    <card>
+      <name>Fireyarou</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Whenever you discard a card or another Human enters the battlefield under your control, creatures you control get +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>One-Eyed Shield Dragon</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When One-Eyed Shield Dragon enters the battlefield, create a 1/1 white Dragon creature token with flying that can’t block.</text>
+    </card>
+    <card>
+      <name>Spike Seadra</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>6UU</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Zombie Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Spike Seadra costs {1} less to cast for each creature card in your graveyard.
+2U, Exile a card from your graveyard: Spike Seadra can’t be blocked this turn.</text>
+    </card>
+    <card>
+      <name>Tripwire Beast</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+Whenever Tripwire Beast attacks, exile the top card of your library. You may play it this turn.</text>
+    </card>
+    <card>
+      <name>Skull Red Bird</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Demon </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever you discard a card, put a +1/+1 counter on Skull Red Bird.</text>
+    </card>
+    <card>
+      <name>Sand Stone</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Wurm </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sand Stone enters the battlefield, you gain 4 life.
+Sand Stone escapes with a +1+1 counter on it.
+Escape—4W, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Misairuzame</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shark Robot </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Misairuzame deals combat damage to an opponent, draw a card.</text>
+    </card>
+    <card>
+      <name>Steel Ogre Grotto 1</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Robot Ogre </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Escape—{6}, Exile five other cards from your graveyard. It enters unbound. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Lesser Dragon</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Lesser Dragon enters the battlefield or attacks, exile up to two target cards from a single graveyard.</text>
+    </card>
+    <card>
+      <name>Darkworld Thorns</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Plant Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Darkworld Thorns escapes with a +1/+1 counter on it.
+Escape—3B, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Drooling Lizard</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2GG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Lizard Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature enters the battlefield under your control, Drooling Lizard gets +1/+1 until end of turn. If this is the second time this ability has resolved this turn, put a +1/+1 counter on Drooling Lizard instead.</text>
+    </card>
+    <card>
+      <name>Armored Starfish</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Starfish </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flash
+Each other Zombie you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Succubus Knight</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Knight </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Succubus Knight costs {X} less to cast, where X is the number of creature cards in your graveyard.
+{1}, Sacrifice a creature: Succubus Knight gains indestructible and menace until end of turn.</text>
+    </card>
+    <card>
+      <name>Red Medicine</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If you spent {B} to cast this, target opponent loses 2 life and you gain 2 life.
+If you spent {R} to cast this, target creature you control gains first strike until end of turn.
+If you spent {G} to cast this, return up to one target permanent card from your graveyard to your hand with mana value equal to the amount of mana spent to cast this spell minus one.</text>
+    </card>
+    <card>
+      <name>Aqua Madoor</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tap an untapped token you control: Add {U}.
+{7}: Shuffle your library, then reveal the top card of your library. Until end of turn, you may play that card without paying its mana costs. If it’s a land, you may add that card to your hand.</text>
+    </card>
+    <card>
+      <name>Dragon Capture Jar</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your end step, you may cast a copy of target Dragon you control, except it is size 2/2 and has flying. (It enters as a token, and it keeps its abilities and types.)
+3UU, {T}: Creatures your opponent control attack this turn if able.</text>
+    </card>
+    <card>
+      <name>Fissure</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target noncreature, nonbasic permanent. Its owner searches their library for a basic land card, reveals it, puts it onto the battlefield, then shuffles.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Two-Pronged Attack</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control get +1/+1 and gain lifelink, vigilance, and first strike until end of turn.
+Channel — 1W: Two-Pronged Attack deals damage to target creature equal to the number of creatures you control.</text>
+    </card>
+    <card>
+      <name>Gravedigger Ghoul</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Target player reveals their sanctum. Choose up to three cards from among that player’s sanctum and/or graveyard. That player exiles those cards.
+• Return target creature card from your graveyard to your hand. You lose 1 life.</text>
+    </card>
+    <card>
+      <name>Giant Soldier of Stone</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>2F</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Robot Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Giant Soldier of Stone gets +1/+0 for each token you control.
+{T}: Add {F}.</text>
+    </card>
+    <card>
+      <name>Reaper of the Cards</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Reaper of the Cards dies, target player mills cards equal to twice Reaper of the Cards power.</text>
+    </card>
+    <card>
+      <name>Spirit of the Harp</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Spirit of the Harp enters the battlefield, destroy up to one target artifact or enchantment with mana value less than or equal to Spirit of the Harp’s toughness.</text>
+    </card>
+    <card>
+      <name>Stop Defense</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>6</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control gain vigilance until end of turn. After this main phase, you gain additional combat phase followed by an additional main phase.</text>
+    </card>
+    <card>
+      <name>Goblins Secret Remedy</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains indestructible and hexproof until end of turn. You may destroy any number of permanents attached to it.
+You can’t lose the game this turn. If your life total would be set below 1 this turn, set it to 1.</text>
+    </card>
+    <card>
+      <name>Final Flame</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>XR</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Final Flame deals X damage to any target. If a permanent dealt damage this way would die this turn, exile it instead.
+Flashback XRRR (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Armed Ninja</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Knight Ninja </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Armed Ninja enters the battlefield, return target creature card with mana value X or less from your graveyard to the battlefield tapped, where X is Armed Ninja’s toughness.</text>
+    </card>
+    <card>
+      <name>Hane-Hane</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Spirit Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+At the beginning of your end step, return Hane-Hane to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Hourglass of Life</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>F</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Angel Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Hourglass of Life enters the battlefield, scry cards equal to its power.</text>
+    </card>
+    <card>
+      <name>Tri-Horned Dragon</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demon Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Tri-Horned Dragon dies, mill five cards, then return a Dragon from among them to your hand.</text>
+    </card>
+    <card>
+      <name>Legendary Sword</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+2.
+As long as it’s your turn, equipped creature has first strike.
+Equip 4W
+Equip Warrior or Spirit 2W</text>
+    </card>
+    <card>
+      <name>Beast Fangs</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Equipped creature can’t be blocked by creatures with power 2 or less.
+Equip 1G
+Equip Insect or Warrior {0}</text>
+    </card>
+    <card>
+      <name>Power of Kaishin</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+2 and has vigilance.
+Equip {2}
+Equip Zombie or Spirit {U}</text>
+    </card>
+    <card>
+      <name>Book of Secret Arts</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>2UB</manacost>
+        <cmc>4</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Book of Secret Arts enters the battlefield, search your library for a nonpermanent card, reveal it, put it into your hand, then shuffle.
+Nonpermanent spells you cast cost {2} less to cast if you have eight or more cards in your graveyard.</text>
+    </card>
+    <card>
+      <name>Mystical Moon</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you control.
+Enchanted creature gets +1/+1 and gains ward {2}.
+3UU, Exile Mystical Moon from your graveyard: Draw two cards.</text>
+    </card>
+    <card>
+      <name>Dark Energy</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Each opponent discards two cards and you draw two cards. Create three 1/1 white Dragon creature tokens with flying that can’t block. Put a lifelink counter on each of them.</text>
+    </card>
+    <card>
+      <name>Laser Cannon Armor</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+Whenever you discard a card, put a charge counter on Laser Cannon Armor.
+Equipped creature gets +1/+1 for each counter on Laser Cannon Armor.
+Equip {3}</text>
+    </card>
+    <card>
+      <name>Violet Crystal</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and has menace.
+Equip 3B
+Equip Plant or Zombie 1B</text>
+    </card>
+    <card>
+      <name>Silver Bow and Arrow</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Silver Bow and Arrow enters the battlefield, it deals 2 damage to up to one noncreature target.
+Equipped creature gets +1/+0 and has first strike during your turn.
+Equip {2}</text>
+    </card>
+    <card>
+      <name>Dragon Treasure</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+0 and has trample.
+Equip 1R
+Equip Dragon or Wizard {0}</text>
+    </card>
+    <card>
+      <name>Electro-Whip</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Electro-Whip enters the battlefield, create a 1/1 Shapeshifter creature token with changeling. (It’s every creature type.)
+Equipped creature gets +3/+1.
+Equip 1F or {3}</text>
+    </card>
+    <card>
+      <name>Vile Germs</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+Enchant creature you control.
+Enchanted creature gets +2/+2.
+4G, Exile Vile Germs from your graveyard: Return target card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Machine Conversion Factory</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>0</manacost>
+        <cmc>0</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1 and can attack despite having defender.
+Equip {2}
+Equip Robot or artifact creature {1}</text>
+    </card>
+    <card>
+      <name>Celtic Guardian</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Celtic Guardian or another creature you control enters the battlefield, choose one that hasn’t been chosen this turn —
+• Put a +1/+1 counter on Celtic Guardian.
+• You gain 2 life.
+• Each opponent exiles a card from their graveyard and their sanctum.</text>
+    </card>
+    <card>
+      <name>Dark Hole</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3BB</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures.</text>
+    </card>
+    <card>
+      <name>Raigeki</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>8</manacost>
+        <cmc>8</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy all creatures your opponents control.
+Channel — {4}, Discard this: Destroy target creature. Its controller draws a card.</text>
+    </card>
+    <card>
+      <name>Trap Hole</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>WF</colors>
+        <manacost>2FW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Flash
+When Trap Hole enters the battlefield, exile up to one target spell or nonland permanent.
+When Trap Hole leaves the battlefield, return the exiled card to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Mystical Elf</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Elf Cleric Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mystical Elf enters the battlefield, you gain 2 life.
+Whenever Mystical Elf attacks, each other attacking creature gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Swords of Revealing Light</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>2FF</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put three stun counters on each creature you don’t control.</text>
+    </card>
+    <card>
+      <name>Man-Eater Bug</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect Demon </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Man-Eater Bug enters the battlefield, up to one other target creature you control gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)</text>
+    </card>
+    <card>
+      <name>Raise Body Heat</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose two:
+• Target creature you control gets +1/+0 and gains first strike until end of turn.
+• Destroy target artifact.
+• Creatures you control gain trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Follow Wind</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put a +1/+1 counter on up to two target creatures you control.
+Flashback 2WW (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Blue-Eyes White Dragon</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WWUU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {4}
+Healing 4 (Damage dealt by this creature also causes you to gain 4 life.)</text>
+    </card>
+    <card>
+      <name>Dark Magician</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>3UUBB</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Whenever Dark Magician enters the battlefield or attacks, until end of turn you may cast a card from your hand or sanctum with mana value 5 or less without paying its costs.</text>
+    </card>
+    <card>
+      <name>Gaia The Fierce Knight</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Knight </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, vigilance
+When Gaia The Fierce Knight enters the battlefield, reveal the top five cards of your library. Put a land card from among them onto the battlefield and the rest into your graveyard.</text>
+    </card>
+    <card>
+      <name>Red-Eyes Black Dragon</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash; flying
+You may cast Red-Eyes Black Dragon from your graveyard for its unbound cost and by sacrificing two creatures. If you do, it enters the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Monster Reborn</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>WF</colors>
+        <manacost>4F/WF/W</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Put target creature card from a graveyard onto the battlefield under your control.
+Channel — {F/W} {F/W}, Discard this: Put target creature card with mana value 2 or less from your graveyard onto the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Right Leg of the Forbidden One</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Wizard God </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Right Leg of the Forbidden One enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Left Leg of the Forbidden One</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Wizard God </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Left Leg of the Forbidden One enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Right Arm of the Forbidden One</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Wizard God </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Right Arm of the Forbidden One enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Left Arm of the Forbidden One</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Legendary Creature - Wizard God </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Left Arm of the Forbidden One enters the battlefield, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+    </card>
+    <card>
+      <name>Exodia the Forbidden One</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Legendary Creature - Wizard God </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Exodia the Forbidden One enters the battlefield, you may reveal up to four other cards from your hand or battlefield. If you revealed the Right Leg, the Left Leg, the Right Arm, and the Left Arm of the Forbidden One, you win the game.      </text>
+    </card>
+    <card>
+      <name>Mythical Wasteland</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Mythical Wasteland enters the battlefield tapped.
+{T}: Add {F}.
+Channel — 2F, Discard this: Counter target activated or triggered ability unless its controller pays {3}. (Mana abilities can’t be targeted.)</text>
+    </card>
+    <card>
+      <name>Mythical Mountain</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Mythical Mountain enters the battlefield tapped.
+{T}: Add {R}.
+Channel — {R}, Discard this: Attach target equipment to target creature.</text>
+    </card>
+    <card>
+      <name>Mythical Sogen</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Mythical Sogen enters the battlefield tapped.
+{T}: Add {W}.
+Channel — 2W, Discard this: Tap up to two target creatures. Draw a card.</text>
+    </card>
+    <card>
+      <name>Mythical Umi</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Mythical Umi enters the battlefield tapped.
+{T}: Add {U}.
+Channel — 2U, Discard this: Return target noncreature, nonland permanent to its owners hand.</text>
+    </card>
+    <card>
+      <name>Mythical Yami</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Mythical Yami enters the battlefield tapped.
+{T}: Add {B}.
+Channel — 1B, Discard this: Exile target card from a graveyard. Draw a card.</text>
+    </card>
+    <card>
+      <name>Enchanting Mermaid</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Merfolk Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Enchanting Mermaid enters the battlefield, return up to one target creature with mana value less than or equal to Enchanting Mermaid’s power to its owners hand.</text>
+    </card>
+    <card>
+      <name>Mythical Forest</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Mythical Forest enters the battlefield tapped.
+{T}: Add {G}.
+Channel — 2G, Discard this: You gain 6 life. </text>
+    </card>
+    <card>
+      <name>Prismatic Bulb</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Add one mana of any color.
+{1}, {T}, Put a card in your graveyard on the bottom of your library: Discard a card. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Synchar</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1FF</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Beast </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Modified creatures you control can attack despite having defender. (Equipment, Auras you control, and counters are modifications.)</text>
+    </card>
+    <card>
+      <name>Archfiend Mirror</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Dragon Reflection </type>
+        <maintype>Creature</maintype>
+        <pt>0/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Tap three untapped creatures you control: Target opponent loses 1 life and you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Secretarian of Secrets</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>3F</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Menace
+Whenever Secretarian of Secrets is cast from your sanctum or dies, create a 2/2 silver Insect Plant creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
+      <name>Gust Fan</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>F</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +2/+0.
+Whenever equipped creature attacks, put a stun counter on up to one target creature. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Equip {3}
+Equip Demon or Wizard {F}</text>
+    </card>
+    <card>
+      <name>Invigoration</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment - Aura </type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Enchant creature or non-aura enchantment
+Enchanted permanent is also a creature with size 4/4.
+Whenever Invigoration enters or leaves battlefield, draw a card.</text>
+    </card>
+    <card>
+      <name>Thunder Kid</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>3FF</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Insects you control have trample.
+Channel — {F}, Discard this: Reflect. (Create a token thats a copy of a token you control.)</text>
+    </card>
+    <card>
+      <name>LaLa Li-oon</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>2F</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When LaLa Li-oon enters the battlefield, create a 2/2 silver Insect Plant creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
+      <name>Meotoko</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>2FF</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Cyclops Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Meotoko gets +2/+0 if you control a token.</text>
+    </card>
+    <card>
+      <name>Pot of Greed</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Draw two cards.</text>
+    </card>
+    <card>
+      <name>Kaiser Dragon</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>3F</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying
+When Kaiser Dragon enters the battlefield, draw a card.</text>
+    </card>
+    <card>
+      <name>Kaminari Attack</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>WF</colors>
+        <manacost>FW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Human Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying
+When Kaminari Attack enters the battlefield, tap up to one target creature. If you discarded a card this turn, put two stun counters on it.</text>
+    </card>
+    <card>
+      <name>Roaring Ocean Snake</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>UF</colors>
+        <manacost>3FU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Dragon Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Whenever Roaring Ocean Snake enters the battlefield or it attacks, create a 1/1 Shapeshifter creature tokens with changeling. (It is every creature type.)</text>
+    </card>
+    <card>
+      <name>Sanwitch</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>BF</colors>
+        <manacost>1FB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Imp Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Whenever Sanwitch enters the battlefield or attacks, if you discarded a card this turn, exile up to one target creature card in your graveyard. Until end of turn, you may play a copy of that card. (Copies of permanents are tokens.)</text>
+    </card>
+    <card>
+      <name>Vermillion Sparrow</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>RF</colors>
+        <manacost>1FR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Vigilance
+Whenever Vermillion Sparrow enters the battlefield or attacks, each other Wizard you control gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Warrior of Tradition</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>GF</colors>
+        <manacost>FG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Changeling (This card is every creature type.)
+When Warrior of Tradition enters the battlefield, if you discarded a card this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Musician King</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Human Bard Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Vigilance
+When Musician King enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn.</text>
+    </card>
+    <card>
+      <name>Rose Spectre of Dunn</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Plant Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Deathtouch
+When Rose Spectre of Dunn enters the battlefield, if you discarded a card this turn, you gain 5 life.</text>
+    </card>
+    <card>
+      <name>Trial of Nightmare</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature or pay 2B.
+Destroy target creature.</text>
+    </card>
+    <card>
+      <name>Mystery Hand</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets -5/-5 until end of turn.</text>
+    </card>
+    <card>
+      <name>Mavelus</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Elemental Phoenix </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying, haste
+When Mavelus enters the battlefield, draw a card, then discard a card unless you discarded a card this turn.</text>
+    </card>
+    <card>
+      <name>Pragticul</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>5UB</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Other Zombies you control get +2/+2 and have menace.
+When Pragticul enters the battlefield, return target nonland permanent to the top of its owner’s library.</text>
+    </card>
+    <card>
+      <name>Kamionwizard</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Wizard Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Whenever a permanent you control dies, each opponent loses 1 life.
+{3}, Sacrifice a nonland permanent: You gain 1 life and draw a card.</text>
+    </card>
+    <card>
+      <name>Empress Judge</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>UR</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Elemental Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Haste, trample
+Whenever you cast an Elemental spell or activate an ability of an Elemental, Empress Judge gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Punished Eagle</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>3GU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Bird Demon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying
+Abilities you activate that aren’t mana abilities cost {1} less to activate. This effect can’t reduce the mana in that cost to less than one mana.</text>
+    </card>
+    <card>
+      <name>Charubin the Fire Knight</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment Creature - Elemental Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Haste, menace
+When Charubin the Fire Knight enters the battlefield, target creature can’t block this turn. If you discarded a card this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Darkfire Dragon</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Plant Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying
+When Darkfire Dragon enters the battlefield, draw two cards and lose 2 life.</text>
+    </card>
+    <card>
+      <name>Karbonala Warrior</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>4UU</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Vigilance
+Whenever Karbonala Warrior deals combat damage, draw a card.</text>
+    </card>
+    <card>
+      <name>Kwagar Hercules</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>6/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Vigilance
+Each other Insect and/or Warrior creature you control gets +1/+1.</text>
+    </card>
+    <card>
+      <name>Metal Dragon</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>7</manacost>
+        <cmc>7</cmc>
+        <type>Artifact Creature - Robot Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying
+When Metal Dragon enters the battlefield, return up to one target creature card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Skullbird</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1FF</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Demon Bird </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying
+When Skullbird enters the battlefield, if you discarded a card this turn, create a token that’s a copy of target creature card with mana value 2 or less in your graveyard.</text>
+    </card>
+    <card>
+      <name>St Joan</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+When St. Joan attacks, each other creature you control gets +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Blue Medicine</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>WUF</colors>
+        <manacost>X</manacost>
+        <cmc>0</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>If you spent {W} to cast this, create a 1/1 white Dragon creature token with flying that can’t block.
+If you spent {U} to cast this, draw a card.
+If you spent {F} to cast this, reflect. (Create a token thats a copy of a token you control.)</text>
+    </card>
+    <card>
+      <name>Candle of Fate</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+Flashback 5R (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Wings of Wicked Flame</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>3R</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Wings of Wicked Flame enters the battlefield, create two 1/1 red Elemental creature tokens.
+Elementals you control have prowess. (Whenever you cast a noncreature spell, that creature gets +1/+1 until end of turn.)</text>
+    </card>
+    <card>
+      <name>The Melting Red Shadow</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When The Melting Red Shadow enters the battlefield, surveil 2.
+3U, Sacrifice The Melting Red Shadow: Draw two cards.</text>
+    </card>
+    <card>
+      <name>Lucky Trinket</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Lucky Trinket enters the battlefield, put a +1/+1 counter on target creature you control. It gains first strike until end of turn.
+1W, Sacrifice Lucky Trinket: Draw a card.</text>
+    </card>
+    <card>
+      <name>Curtain of the Dark Ones</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Curtain of the Dark Ones enters the battlefield, you mill three cards.
+2B, Sacrifice Curtain of the Dark Ones: Create a 3/3 black Demon creature token. Put a menace counter on it. Activate only if you have eight or more cards in your graveyard. Activate only as a sorcery.</text>
+    </card>
+    <card>
+      <name>Haniwa</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Haniwa enters the battlefield, target creature you control gets +2/+2 and gains trample until end of turn.
+2G, Sacrifice Haniwa: Return up to one target nonenchantment card from your graveyard to your hand. You gain 2 life.</text>
+    </card>
+    <card>
+      <name>Tatsunootoshigo</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>F</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Tatsunootoshigo enters the battlefield, create a 1/1 Shapeshifter creature token with changeling. (It’s every creature type.)
+1F, Sacrifice Tatsunootoshigo: Search your library for a basic land card, reveal it, put it into your hand. Then shuffle.</text>
+    </card>
+    <card>
+      <name>Shining Friendship</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2WW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Channel — 5WW, Discard this: Exile target creature.</text>
+    </card>
+    <card>
+      <name>Happy Lover</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Angel Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Happy Lover can’t be blocked by creatures with power 3 or greater.
+Whenever Happy Lover attacks, tap up to one target creature an opponent controls.</text>
+    </card>
+    <card>
+      <name>Muse-A</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Human Faerie Bard </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Muse-A enters the battlefield, search your library for an equipment card, reveal it, shuffle, then put that card on top.</text>
+    </card>
+    <card>
+      <name>Rouge Doll</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>5W</manacost>
+        <cmc>6</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target nonland permanent.
+Channel — 1W, Discard this: Destroy target artifact.</text>
+    </card>
+    <card>
+      <name>Mystical Capture Chain</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>2W</manacost>
+        <cmc>3</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Mystical Capture Chain enters the battlefield, exile up to one target creature until Mystical Capture Chain leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>LaMoon</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Enchantment Creature - Angel Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Healing 2 (Damage dealt by this creature also causes you to gain 2 life.)</text>
+    </card>
+    <card>
+      <name>Eyearmor</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>2FF</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)
+When Eyearmor enters the battlefield, create two 2/2 Insect Plant creature tokens with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
+      <name>Dig Beak</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Snake </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+{T}: Put target card in a graveyard into its owner’s sanctum. If it was a creature card, put a +1/+1 counter on Dig Beak.</text>
+    </card>
+    <card>
+      <name>Golgoil</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>4FF</manacost>
+        <cmc>6</cmc>
+        <type>Artifact Creature - Robot </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+When Golgoil enters the battlefield,  destroy up to one target enchantment or planeswalker.</text>
+    </card>
+    <card>
+      <name>Temple of Skulls</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Artifact </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>1B, {T}: Create a 1/1 Shapeshifter creature token with changeling. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. (It’s every creature type.)</text>
+    </card>
+    <card>
+      <name>Steel Shell</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Spells you cast with mana value 5 or more cost {1} less to cast.
+If you would sacrifice a creature to pay the cost for a fusion spell, you may return that creature to its owner’s hand instead.</text>
+    </card>
+    <card>
+      <name>Fire Reaper</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Zombie Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, reach
+Whenever you discard a card, Fire Reaper Fire Reaper gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Yamatano Dragon Scroll</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>2F</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Yamatano Dragon Scroll enters the battlefield, create a 1/1 white Dragon creature token with flying that can’t block, and a 0/3 Wall artifact creature token with defender.
+Creature tokens you control get +1/+0.</text>
+    </card>
+    <card>
+      <name>Mon Larvas</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>2F</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Mon Larvas enters the battlefield, if it escaped, create a token copy of target creature card in your graveyard with mana value 2 or less.
+Escape—3F, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Mech Mole Zombie</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Robot Mole Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Whenever another creature you control dies, each opponent loses 1 life.</text>
+    </card>
+    <card>
+      <name>Wicked Dragon with the Ersatz Head</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>4BR</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Dragon Demon </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Wicked Dragon with the Ersatz Head enters the battlefield, return up to one target creature card with mana value 3 or less from your graveyard to the battlefield. If you didn’t, Wicked Dragon with the Ersatz Head deals 3 damage to each opponent. </text>
+    </card>
+    <card>
+      <name>Wattkid</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Robot Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+Creatures you control with flying get +1/+1.</text>
+    </card>
+    <card>
+      <name>One Who Hunts Souls</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Spirit Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste
+When One Who Hunts Souls enters the battlefield, you may destroy up to one target artifact or enchantment. If you don’t, put a +1/+1 counter on up to one target creature you control. That creature gains trample until end of turn.</text>
+    </card>
+    <card>
+      <name>Bolt Penguin</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>UF</colors>
+        <manacost>FU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Bird Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance, menace
+Creature tokens you control get +1/+1 and have vigilance and menace.</text>
+    </card>
+    <card>
+      <name>Beautiful Headhuntress</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>GF</colors>
+        <manacost>1FG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)
+Other Insects you control get +1/+1.
+Whenever you cast a spell from anywhere other than your hand, creatures you control gain trample until end of turn. If this is the second time this ability has resolved this turn, draw a card.</text>
+    </card>
+    <card>
+      <name>Megirus Light</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>BF</colors>
+        <manacost>3FB</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Whenever Megirus Light attacks, each opponent loses 2 life and you gain 2 life.
+Channel — FB, Discard this: Until end of turn, target creature gets +2/+0 and gains indestructible.</text>
+    </card>
+    <card>
+      <name>Fairywitch</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>RF</colors>
+        <manacost>3FR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Faerie Demon Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Fairywitch costs {1} less to cast for each wizard you control.
+When Fairywitch attacks, it deals 1 damage to any target.</text>
+    </card>
+    <card>
+      <name>Takuhee</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>WF</colors>
+        <manacost>3FW</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Bird Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Other Spirits you control get +1/+1 and have first strike.</text>
+    </card>
+    <card>
+      <name>Djinn the Watcher of the Wind</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1UU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Djinn the Watcher of the Wind can’t attack alone.
+Channel — 2U, Discard this: Return target spell to its owner’s hand.</text>
+    </card>
+    <card>
+      <name>Corroding Shark</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target player mills two cards.
+Draw a card.
+Flashback 2U (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>White Dolphin</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one:
+•  Target creature gets -2/-0 until end of turn.
+• Put a stun counter on target creature. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Hitodenchak</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3U</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Starfish </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender
+Hitodenchak can attack despite having defender as long as you control another Demon or Starfish.</text>
+    </card>
+    <card>
+      <name>Root Water</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Merfolk Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Root Water can’t be blocked if its equipped or enchanted.
+Channel — 1U, Discard this: Draw a card.</text>
+    </card>
+    <card>
+      <name>Water Element</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Elemental Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+    </card>
+    <card>
+      <name>Dark Plant</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Plant </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>3BB, Exile Dark Plant from your graveyard as a sorcery: Put a +1/+1 counter on target creature you control. That creature gains healing 3 until end of turn. (Damage dealt by this creature also causes you to gain 3 life.)</text>
+    </card>
+    <card>
+      <name>Bone Mouse</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Rat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Bone Mouse enters the battlefield, each opponent discards a card.</text>
+    </card>
+    <card>
+      <name>Midnight Fiend</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4B</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>flying
+When Midnight Fiend enters the battlefield, mill four cards. You gain 1 life for each creature card milled this way.</text>
+    </card>
+    <card>
+      <name>Tyhone</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Demon Bat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink</text>
+    </card>
+    <card>
+      <name>Burning Spear</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Burning Spear deals 3 damage to any target.</text>
+    </card>
+    <card>
+      <name>Rhaimundos of the Red Sword</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Demon Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+At the beginning of combat on your turn, up to one target creature you control gets +1/+0 until end of turn.</text>
+    </card>
+    <card>
+      <name>Fire Eye</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Elemental Eye </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Fire Eye attacks each turn if able.</text>
+    </card>
+    <card>
+      <name>Larvas</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Larvas has first strike as long as its your turn.</text>
+    </card>
+    <card>
+      <name>Stone Ghost</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Enchantment Creature - Elemental Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, untap Stone Ghost.
+{T}: Stone Ghost deals 1 damage to target opponent or planeswalker.</text>
+    </card>
+    <card>
+      <name>Living Vase</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Reach
+When Living Vase enters the battlefield, create a 1/1 red Elemental creature token.
+Channel — {G}, Discard this: Target creature gains reach until end of turn. Create a tapped 1/1 red Elemental creature token.</text>
+    </card>
+    <card>
+      <name>Hercules Beetle</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Channel — 1G, Discard this card: Mill four cards, then you may put a creature or Equipment card milled this way into your hand.</text>
+    </card>
+    <card>
+      <name>Kuwagata Alpha</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4GG</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>5/6</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Reach
+When Kuwagata Alpha enters the battlefield, if you discarded a card this turn, destroy target artifact, enchantment, or permanent with flying.     </text>
+    </card>
+    <card>
+      <name>Doriado</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Druid Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Add one mana of any color.
+{T}: Add GG. This mana can’t be spent to cast a spell.</text>
+    </card>
+    <card>
+      <name>Marmot of Nefariousness</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Search your library for a basic land card, and put it onto the battlefield tapped. Then shuffle. Put a reach counter on a creature you control.
+Flashback 2GG (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Silver Fang</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>G</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Wolf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Trample
+Silver Fang gets +1/+0 for each equipment you control.</text>
+    </card>
+    <card>
+      <name>Droll Bird</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>4FF</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Bird Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+1F: Droll Bird gets +2/-2 until end of turn.
+Channel — 1F: Target creature gets +2/-2 until end of turn.</text>
+    </card>
+    <card>
+      <name>Drdek</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Eye Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Channel — 3F, Discard this: Draw two cards. Activate only if you control a token.</text>
+    </card>
+    <card>
+      <name>Wilmee</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>5FF</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Rabbit Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Double strike
+Channel — FF, Discard Wilmee: Attach target equipment you control to target creature you control.</text>
+    </card>
+    <card>
+      <name>Bean Soldier</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Plant Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>The first equip ability you activate each turn costs {1} less to activate.
+3F, Exile Bean Soldier from your graveyard: As a sorcery, reflect. (Create a token thats a copy of a token you control.)</text>
+    </card>
+    <card>
+      <name>Phantom Dewan</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>As long as you control another creature with greater power, Phantom Dewan can’t be blocked.</text>
+    </card>
+    <card>
+      <name>Patrol Robo</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>2F</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Robot Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Patrol Robo enters the battlefield, create a 1/1 artifact Robot creature token.</text>
+    </card>
+    <card>
+      <name>Shadows Light</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Shadows Light enters the battlefield tapped unless you control a white permanent.
+{T}: Add {W}.
+Channel — {2}, Discard this: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Mystic Plasma Zone</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Mystic Plasma Zone enters the battlefield tapped unless you control a black permanent.
+{T}: Add {B}.
+Channel — {2}, Discard this: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Fire Prison</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Fire Prison enters the battlefield tapped unless you control a red permanent.
+{T}: Add {R}.
+Channel — {2}, Discard this: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Ancient Forest</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Ancient Forest enters the battlefield tapped unless you control a green permanent.
+{T}: Add {G}.
+Channel — {2}, Discard this: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Canyon</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Canyon enters the battlefield tapped unless you control a silver permanent.
+{T}: Add {F}.
+Channel — {2}, Discard this: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+    <card>
+      <name>Light of Hope</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one—
+• You gain 4 life.
+• Destroy target enchantment.
+• Put a +1/+1 counter on target creature.</text>
+    </card>
+    <card>
+      <name>Consult Eternity</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top two cards of your library. You may put any number into your sanctum and the rest on top of your library in any order.
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Spirit of the Books</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Bird Spirit Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Spirit of the Books enters the battlefield, if you control a creature with defender, create a 0/3 Wall artifact creature token with defender.</text>
+    </card>
+    <card>
+      <name>Twin Long Rods 1</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2U</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon Fish </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Twin Long Rods 1 enters the battlefield, tap target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)
+Twin Long Rods 1 escapes with a vigilance counter on it.
+Escape—5U, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Oscillo Hero</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4W</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Robot Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+When Oscillo Hero enters the battlefield, return up to one target artifact card from your graveyard to your hand.</text>
+    </card>
+    <card>
+      <name>Hourglass of Courage</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Healing 1 (Damage dealt by this creature also causes you to gain 1 life.)
+Activated abilities of cards in each player’s hands cost {1} more to activate.</text>
+    </card>
+    <card>
+      <name>Man-Eating Plant</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Plant </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Vigilance
+Other Plants you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Akihiron</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>1U</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Fish </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Whenever you discard a card for the first time each turn, you may pay 1U. If you do, draw a card.</text>
+    </card>
+    <card>
+      <name>Hurricail</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Hurricail attacks, if there are eight of more cards in your graveyard,  each creature your opponent controls gets -2/-0 until your next turn.</text>
+    </card>
+    <card>
+      <name>Abyss Flower</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>XG</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Plant Demon </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Abyss Flower enters the battlefield with X +1/+1 counters.
+Equipped creatures you control get +1/+0 and gain trample.</text>
+    </card>
+    <card>
+      <name>Shadow Who Controls the Dark</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Demon Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Shadow Who Controls the Dark enters the battlefield, destroy up to one target creature with mana value 1 or less. If you unbound this, instead destroy up to one target creature with mana value X or less.</text>
+    </card>
+    <card>
+      <name>Gate Deeg</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>2B</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Zombie Demon </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Other Zombies and Demons you control get +1/+0.
+Whenever another Zombie or Demon you control dies, you may pay {2}. If you do, draw a card and you lose 1 life.</text>
+    </card>
+    <card>
+      <name>Bat</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Artifact Creature - Robot Bat </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Bat enters the battlefield with a +1/+1 counter on it if you cast another spell this turn.</text>
+    </card>
+    <card>
+      <name>Wood Clown</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2R</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Clown Plant Robot </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Menace
+Wood Clown escapes with a +1/+1 counter on it.
+Escape—3R, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Dark Artist</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1B</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Zombie Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Menace
+Whenever a creature you control enters the battlefield from the sanctum or dies, you gain 1 life.</text>
+    </card>
+    <card>
+      <name>Minomushi Warrior</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>F</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>1F, {T}, Return a land you control to its owners hand: Create a 2/2 Insect Plant creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
+      <name>Doron</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Shapeshifter Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)
+When Doron  enters the battlefield, exile a card that has an activated ability with “Discard this card” in its cost from your graveyard at random. Until the end of your next turn, you may play that card. (A card referring to itself by name is the same as “this card”)</text>
+    </card>
+    <card>
+      <name>Alinsection</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>First strike
+Alinsection can’t block.
+When Alinsection dies, create a 2/2 silver Insect Plant token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
+      <name>Mabarrel</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Beast Eye </type>
+        <maintype>Creature</maintype>
+        <pt>2/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever a creature you control dies, put a +1/+1 counter on Mabarrel.</text>
+    </card>
+    <card>
+      <name>Tomozaurus</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>GG</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Tomozaurus escapes with two +1/+1 counters on it.
+Escape—3G, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+    </card>
+    <card>
+      <name>Nightmare Scorpion</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>4F</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Scorpion Insect </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Vigilance, reach
+Other Insects you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Giant Flea</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>4G</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Insect </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Giant Flea enters the battlefield, you gain 4 life.
+When Giant Flea leaves the battlefield, draw a card.</text>
+    </card>
+    <card>
+      <name>Ancient Jar</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Demon Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>0/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Ancient Jar dies, create a 2/2 silver Insect Plant creature token with decayed. If Ancient Jar died with one or more power, create two of those tokens instead. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
+    </card>
+    <card>
+      <name>Ookazi</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1RR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Ookazi deals 2 damage to each creature.
+Channel — 1R, Discard this: Up to two target creatures can’t block this turn.</text>
+    </card>
+    <card>
+      <name>Little D</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Elemental Dinosaur </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>{T}: Target creature with power or toughness 2 or less can’t be blocked until end of turn.</text>
+    </card>
+    <card>
+      <name>Tiger Axe</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3W</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Cat Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Equipped creatures you control get +1/+1 and have ward {2}.
+{0}: Attach target equipment you control to Tiger Axe. Activate only as a sorcery.               </text>
+    </card>
+    <card>
+      <name>Statue of Easter Island</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Robot Sculpture </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever you discard a card, you may exile that card from your graveyard. If you do, you may play that card this turn.</text>
+    </card>
+    <card>
+      <name>Weather Control</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>WF</colors>
+        <manacost>FW</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Once each turn, whenever you tap a Field for mana, add one mana of any color that land could produce.
+Fields you control enter the battlefield untapped.</text>
+    </card>
+    <card>
+      <name>Winged Dragon, Guardian of the Fortress 1</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>1WU</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>2/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance
+Other Dragons you control get +1/+1.
+{5}: Exile target Dragon you control. return it to the battlefield at the beginning of the next end step.</text>
+    </card>
+    <card>
+      <name>Winged Dragon, Guardian of the Fortress 2</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>1BR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, menace
+Whenever a black or red creature you control deals combat damage to a player or noncreature permanent, you may sacrifice it. If you do, you draw a card and lose 1 life.</text>
+    </card>
+    <card>
+      <name>Winged Cleaver</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Creature - Insect Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, trample, haste
+Whenever you discard a card, you may pay 1R. If you do, return Winged Cleaver from your graveyard to the battlefield with a +1/+1 counter on it.</text>
+    </card>
+    <card>
+      <name>Wow Warrior</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>3UU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Merfolk Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+As long as you’ve discarded a card this turn, Wow Warrior can’t be blocked.
+1U: Return Wow Warrior to its owners hand.</text>
+    </card>
+    <card>
+      <name>Cyber Soldier of Darkworld</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>1BB</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Robot Soldier </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Cyber Soldier of Darkworld enters with a +1/+1 counter for each creature card in your graveyard.
+Whenever a creature creature you don’t control dies, put a +1/+1 counter on Cyber Soldier of Darkworld.</text>
+    </card>
+    <card>
+      <name>Battle Warrior</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>3WW</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Elf Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Vigilance
+Whenever Battle Warrior attacks, tap target creature an opponent controls.
+Whenever Battle Warrior becomes tapped, you may exile up to one target creature an opponent controls until this creature leaves the battlefield.</text>
+    </card>
+    <card>
+      <name>Giant Mech-Soldier</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>5</manacost>
+        <cmc>5</cmc>
+        <type>Artifact Creature - Robot Knight </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Vigilance, ward {2}
+When Giant Mech-Soldier attacks, you gain 3 life.</text>
+    </card>
+    <card>
+      <name>Wodan the Resident of the Forest</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>5GGG</manacost>
+        <cmc>8</cmc>
+        <type>Creature - Plant Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>7/7</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {1} less to cast for each Fungus, Plant, or Saproling you control.
+When Wodan, the Resident of the Forest enters the battlefield, destroy each creature with flying.</text>
+    </card>
+    <card>
+      <name>Boo Koo</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>4F</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Illusion Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>3/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Boo Koo enters the battlefield and whenever you cast a spell from anywhere other than your hand, reveal the top four cards from your library. Choose a card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Castle Walls</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>F</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Create a 0/3 colorless Wall artifact creature token with defender. Each opponent loses 1 life for each creature you control with higher toughness than power.
+Flashback—Tap two untapped silver creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Reinforcements</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>2RR</manacost>
+        <cmc>4</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile any number of creature cards with total mana value 5 or less from your graveyard. Create a token copy of those cards with haste and “Sacrifice this at the beginning of the next end step.”</text>
+    </card>
+    <card>
+      <name>Ryu-Kishin</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>BRG</colors>
+        <manacost>BRG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, vigilance, haste</text>
+    </card>
+    <card>
+      <name>Yormungarde</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>XGU</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Demon Dragon Serpent </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Reach
+When Yormungarde enters the battlefield, counter target spell with mana value X or less.
+Whenever you cast a creature spell, you may pay {1}. If you do, put a +1/+1 counter on Yormungarde.</text>
+    </card>
+    <card>
+      <name>Establish Dominance</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>3GG</manacost>
+        <cmc>5</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control fights each other creature and planeswalker. (Each deals damage equal to its power to the other. Planeswalkers have no power.)</text>
+    </card>
+    <card>
+      <name>Ignite</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>R</manacost>
+        <cmc>1</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Choose one —
+• Ignite deals 2 damage to any target.
+• Ignite deals 3 damage to any target that was dealt damage this turn.</text>
+    </card>
+    <card>
+      <name>Survivors Hospitality</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>RW</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Creatures you control that entered the battlefield this turn get +1/+0 and have lifelink and haste.</text>
+    </card>
+    <card>
+      <name>Into the Unknown</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>2G/UG/U</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top seven cards of your library. Reveal up to two creature and/or land cards from among them, put them into your hand and the rest on the bottom of your library in a random order.</text>
+    </card>
+    <card>
+      <name>Ascent From Snakes</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1GG</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Distribute X +1/+1 counters among creatures you control, where X is one plus the number of cards you’ve drawn this turn.</text>
+    </card>
+    <card>
+      <name>Sun-Scorched Tempering</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>W</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Foretell {W} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)
+Prevent the next 4 damage that would be dealt to target permanent or player. If this spell was cast from exile, Sun-Scorched Tempering deals damage to any target equal to the damage prevented this way.</text>
+    </card>
+    <card>
+      <name>Deathly Bellow</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>2BG</manacost>
+        <cmc>4</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Deathly Bellow spell costs {2} less to cast if you control a permanent with mana value 5 or greater.
+Destroy target nonland permanent.</text>
+    </card>
+    <card>
+      <name>Latant Rebirth</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>G</colors>
+        <manacost>1G</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>As an additional cost to cast this spell, sacrifice a creature or enchantment.
+Search your library for a creature or enchantment with mana value equal to the mana value of the sacrificed permanent plus one, put it onto the battlefield, then shuffle.</text>
+    </card>
+    <card>
+      <name>Discover Uncertainty</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Look at the top five cards of your library. Put one into your hand and another on top. Put the rest into your sanctum.</text>
+    </card>
+    <card>
+      <name>Grazed by the Endless</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>3</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature gets +3/-3 until end of turn.
+1F, Discard this: Draw a card.</text>
+    </card>
+    <card>
+      <name>Called by the Void</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>BB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Destroy target creature, planeswalker or enchantment. You lose life equal to that permanent’s mana value.</text>
+    </card>
+    <card>
+      <name>Denied by Nature</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>UU</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Counter target spell with mana value 3 or greater.</text>
+    </card>
+    <card>
+      <name>Basic Plains LOB</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Plains </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Basic Island LOB</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Island </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Basic Swamp LOB</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Swamp </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Basic Mountain LOB</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Mountain </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Basic Forest LOB</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Forest </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Basic Fault LOB</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Basic Land - Fault </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>The Judgement Hand</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1W</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+Whenever you cast an enchantment spell, put a +1/+1 counter on The Judgement Hand.</text>
+    </card>
+    <card>
+      <name>Sonic Maid</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>R</colors>
+        <manacost>1R</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>When Sonic Maid enters the battlefield, return target equipment card from your graveyard with mana value 3 or less to the battlefield until Sonic Maid leaves the battlefield.
+2R: Attach target equipment to Sonic Maid.</text>
+    </card>
+    <card>
+      <name>Mystic Clown</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>4BB</manacost>
+        <cmc>6</cmc>
+        <type>Creature - Demon Clown </type>
+        <maintype>Creature</maintype>
+        <pt>4/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink
+The first time during your turn a creature you control dies, target opponent sacrifices a creature.</text>
+    </card>
+    <card>
+      <name>Kappa Avenger</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>2UU</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Merfolk Turtle Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>4/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>This spell costs {2} less to cast if you have eight or more cards in your graveyard.
+Once each turn, whenever Kappa Avenger becomes a target of a spell or ability, target player mills five cards.</text>
+    </card>
+    <card>
+      <name>Embryonic Beast</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>WB</colors>
+        <manacost>1WB</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)
+When Embryonic Beast enters the battlefield, you may sacrifice a creature. If you do, target opponent sacrifices a creature. If you don’t, create a 1/1 Shapeshifter creature token with changeling. (It’s every creature type.)</text>
+    </card>
+    <card>
+      <name>Nefairious Archfiend</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>BF</colors>
+        <manacost>FB</manacost>
+        <cmc>2</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
+Draw a card. You lose 1 life.
+Flashback {F/B}, Sacrifice a token. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    </card>
+    <card>
+      <name>Phantom Ghost</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>BF</colors>
+        <manacost>2FB</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Zombie Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>3/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Phantom Ghost deals combat damage to an opponent, that player discards a card. If you control two or more other Zombies or Spirits, draw a card.</text>
+    </card>
+    <card>
+      <name>Ancient Telescope</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{1}, {T}: Look at target player’s sanctum.
+{2}, {T}: Until end of turn, you may cast a card in your sanctum with mana value less than or equal to the number of lands you control. (You pay its mana cost.)</text>
+    </card>
+    <card>
+      <name>Sword of Dark Destruction</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>B</manacost>
+        <cmc>1</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a noncreature, Sword of Dark Destruction deals 2 damage to any target and you gain 2 life.
+Equip 2B</text>
+    </card>
+    <card>
+      <name>Elfs Light</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>1WW</manacost>
+        <cmc>3</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You may cast this spell as though it had flash by paying {W} and exiling a white card from your hand.
+Creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Ansatsu</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>UB</colors>
+        <manacost>UB</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Human Ninja </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ninjutsu {U/B} ({U/B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Ansatsu deals combat damage to an opponent, look at your opponent’s sanctum, then you may sacrifice Ansatsu. If you do, choose a card from among them. Until end of turn, you may cast a copy of it, and you may spend mana of any type to cast it.</text>
+    </card>
+    <card>
+      <name>Dark-Piercing Light</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>WF</colors>
+        <manacost>1FW</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile target creature. You and that player create an X/X black Demon creature token, where X is that creature’s power.</text>
+    </card>
+    <card>
+      <name>Ultimate Offering</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>RG</colors>
+        <manacost>2RG</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>You can’t cast noncreature spells.
+Lands you control tap for an additional {R} or {G}.
+Sacrifice three creatures: Destroy Ultimate Offering.</text>
+    </card>
+    <card>
+      <name>Reverse Trap</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>GF</colors>
+        <manacost>1FG</manacost>
+        <cmc>3</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Reflect. When you do, you may exchange control of target creature you control and target spell. You may choose new targets for it. (Create a token thats a copy of a token you control.)</text>
+    </card>
+    <card>
+      <name>The Inexperienced Spy</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>UF</colors>
+        <manacost>FU</manacost>
+        <cmc>2</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Target creature you control gains “When this creature deals combat damage this turn, return it to your hand and create an X/X black Demon creature token, where X is its power.”
+Flashback 1FU</text>
+    </card>
+    <card>
+      <name>Lisark</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>UG</colors>
+        <manacost>5GU</manacost>
+        <cmc>7</cmc>
+        <type>Creature - Lizard </type>
+        <maintype>Creature</maintype>
+        <pt>5/5</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Lisark enters the battlefield, each opponent separates each nonland permanent they control into two piles. You choose one of those piles and they return the rest to their owner’s hands.</text>
+    </card>
+    <card>
+      <name>Leo Wizard</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>WU</colors>
+        <manacost>3WU</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Cat Wizard </type>
+        <maintype>Creature</maintype>
+        <pt>4/4</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Ward {2}
+When Leo Wizard enters the battlefield or attacks, dig 4 for a creature card with mana value 3 or less. (Look at the top four cards of your library, reveal and add that card to your hand, then put the rest on bottom randomly.)</text>
+    </card>
+    <card>
+      <name>Raimei</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>RF</colors>
+        <manacost>X1FR</manacost>
+        <cmc>3</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Converge — Raimei deals damage to each creature and planeswalker equal to the number of colors of mana spent to cast this spell. If you spent three or more colors of mana to cast this spell, you gain that much life.</text>
+    </card>
+    <card>
+      <name>Great White</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>UR</colors>
+        <manacost>1UR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Merfolk Shark </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flash
+Flying
+When Great White enters the battlefield, counter up to one target activated or triggered ability.</text>
+    </card>
+    <card>
+      <name>Soul of the Pure</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>WG</colors>
+        <manacost>GW</manacost>
+        <cmc>2</cmc>
+        <type>Creature - Angel Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Whenever Soul of the Pure or another creature enters the battlefield under your control, you gain 1 life.
+As long as your life total is at least 7 higher than your starting life total, creatures you control get +1/+1.</text>
+    </card>
+    <card>
+      <name>Key Mace 2</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>BR</colors>
+        <manacost>3BR</manacost>
+        <cmc>5</cmc>
+        <type>Creature - Faerie Demon </type>
+        <maintype>Creature</maintype>
+        <pt>2/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Haste, menace, first strike
+When Key Mace 2 enters the battlefield, each other creature gets -2/-2 until end of turn. </text>
+    </card>
+    <card>
+      <name>Fiends Hand</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>BG</colors>
+        <manacost>1BG</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Human Zombie </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Lifelink, menace
+Kicker—Pay 2 life. (You may pay 2 life in addition to any other costs as you cast this spell.)
+When Fiend’s Hand enters the battlefield, if it was kicked, return target creature card with mana value less than or equal to the amount of life you lost this turn from your graveyard to the battlefield.</text>
+    </card>
+    <card>
+      <name>Gradius</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Artifact Creature - Robot Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+If you spent {B} to cast Gradius, it enters with hexproof until your next turn.
+Whenever Gradius deals combat damage to an opponent, put up to one target card in a graveyard into its owner’s sanctum.</text>
+    </card>
+    <card>
+      <name>Gradius Option</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>2F</manacost>
+        <cmc>3</cmc>
+        <type>Artifact Creature - Robot Construct </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying, haste
+When Gradius’ Option enters the battlefield, if you spent {W} to cast Gradius’ Option, you gain 4 life.
+When Gradius’ Option deals combat damage to an opponent, you may draw a random card from your sanctum.             </text>
+    </card>
+    <card>
+      <name>Cyclon Laser</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>1F</manacost>
+        <cmc>2</cmc>
+        <type>Artifact - Equipment </type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>When Cyclon Laser enters the battlefield, if you spent {U} to cast it, target player mills three cards.
+Whenever equipped creature attacks, target player mills three cards.
+Equip {1}</text>
+    </card>
+    <card>
+      <name>Harpie Lady</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>1RW</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Siren Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>1/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+Harpie Lady can only block creatures with flying.
+At the beginning of combat on your turn, up to three target creatures you control with flying get +1/+1 until end of turn.</text>
+    </card>
+    <card>
+      <name>Elegant Egotist</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Enchantment</type>
+        <maintype>Enchantment</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Creatures you control with flying get +1/+1. They also have first strike and haste during your turn.
+4RW: Create a 1/1 white Dragon creature token with flying that can’t block.</text>
+    </card>
+    <card>
+      <name>Harpie Lady Sisters</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>WR</colors>
+        <manacost>2RW</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Siren Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Fusion (You may cast this card from your sanctum by also sacrificing a permanent that shares a creature type with this and discarding a card.)
+Flying, ward {2}
+Other creatures you control with flying have ward {2}.</text>
+    </card>
+    <card>
+      <name>The Great Tear</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>W</colors>
+        <manacost>4WW</manacost>
+        <cmc>6</cmc>
+        <type>Sorcery</type>
+        <maintype>Sorcery</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Exile all creatures and planeswalkers.
+2WB, Discard this: Exile target creature or planeswalker.</text>
+    </card>
+    <card>
+      <name>Tao the Chanter</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors>F</colors>
+        <manacost>2F</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Spirit </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Whenever one or more cards not on the battlefield are put into or moved from a sanctum, each opponent loses 2 life.
+Whenever one or more permanents are put into the sanctum, you gain 2 life.</text>
+    </card>
+    <card>
+      <name>Bag of Holding</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Whenever you discard a card, exile that card from your graveyard.
+{2}, {T}: Draw a card, then discard a card.
+{4}, {T}: Sacrifice Bag of Holding: Return all cards exiled with Bag of Holding to their owner’s hand.</text>
+    </card>
+    <card>
+      <name>Rainbow Flower</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>1</manacost>
+        <cmc>1</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Target land you control gains the land type of your choice until end of turn.
+{3}, Sacrifice Rainbow Flower: Put a card in your graveyard into your sanctum, then draw a card.</text>
+    </card>
+    <card>
+      <name>The Seal of Orichalcos</name>
+      <set rarity="rare">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Enchantment Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>{T}: Exile up to two target cards from a graveyard.
+{5}, {T}: Put all cards exiled by The Seal of Orichalcos into their owner’s sanctum. Create an X/X black Demon creature token, where X is the number of cards put into a sanctum this way.</text>
+    </card>
+    <card>
+      <name>Mental Lock</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost>2</manacost>
+        <cmc>2</cmc>
+        <type>Artifact</type>
+        <maintype>Artifact</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>As Mental Lock enters the battlefield, choose a card name.
+Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.
+Channel — {2}, Discard this: Draw a card.</text>
+    </card>
+    <card>
+      <name>Vishwar Randi</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>BRF</colors>
+        <manacost>FBR</manacost>
+        <cmc>3</cmc>
+        <type>Creature - Vampire Warrior </type>
+        <maintype>Creature</maintype>
+        <pt>3/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Your maximum hand size is two.
+Cards you own that aren’t on the battlefield have madness. The madness cost is equal to it’s mana cost. (If you discard a card with madness, discard it into exile. When you do, cast it for it’s madness cost or put it into your graveyard.)</text>
+    </card>
+    <card>
+      <name>Veto</name>
+      <set rarity="">LOB</set>
+      <prop>
+        <colors>U</colors>
+        <manacost>U</manacost>
+        <cmc>1</cmc>
+        <type>Instant</type>
+        <maintype>Instant</maintype>
+      </prop>
+      <tablerow>3</tablerow>
+      <text>Approval — Counter target noncreature spell unless its controller pays {X}, where X is the number of colors among permanents you control.</text>
+    </card>
+    <card>
+      <name>Curse of Dragon</name>
+      <set rarity="uncommon">LOB</set>
+      <prop>
+        <colors>B</colors>
+        <manacost>3B</manacost>
+        <cmc>4</cmc>
+        <type>Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>3/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+When Curse of Dragon dies, if it was a creature, return it to the battlefield. It’s an Aura Curse enchantment with “enchant player” and “At the beginning of enchanted player’s upkeep, that player loses 1 life.”</text>
+    </card>
+    <card>
+      <name>Umiiruka</name>
+      <set rarity="common">LOB</set>
+      <prop>
+        <colors></colors>
+        <manacost></manacost>
+        <cmc>0</cmc>
+        <type>Land - Field </type>
+        <maintype>Land</maintype>
+      </prop>
+      <tablerow>0</tablerow>
+      <cipt>1</cipt>
+      <text>Umiiruka enters the battlefield tapped unless you control a blue permanent.
+{T}: Add {U}.
+Channel — {2}, Discard this: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+    </card>
+
+    <!-->Tokens</-->
+
+    <card>
+      <name>Sanctum Reminder</name>
+      <set>LOB</set>
+      <prop>
+        <colors></colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>The sanctum:
+Before the game starts, place your sanctum here face down.
+Your sanctum consists of up to seven unique cards that can start from your sanctum. No other cards can start here.
+You may sideboard cards in your sanctum, as long as your main deck and sanctum meet minimum deckbuilding requirements.</text>
+      <token>1</token>
+      <reverse-related>Charubin the Fire Knight</reverse-related>
+      <reverse-related>Darkfire Dragon</reverse-related>
+      <reverse-related>Dragoness the Wicked Knight</reverse-related>
+      <reverse-related>Empress Judge</reverse-related>
+      <reverse-related>Flame Ghost</reverse-related>
+      <reverse-related>Flame Swordsman</reverse-related>
+      <reverse-related>Flower Wolf</reverse-related>
+      <reverse-related>Fusionist</reverse-related>
+      <reverse-related>Gaia the Dragon Champion</reverse-related>
+      <reverse-related>Kaiser Dragon</reverse-related>
+      <reverse-related>Kaminari Attack</reverse-related>
+      <reverse-related>Kamionwizard</reverse-related>
+      <reverse-related>Karbonala Warrior</reverse-related>
+      <reverse-related>Kwagar Hercules</reverse-related>
+      <reverse-related>Mavelus</reverse-related>
+      <reverse-related>Metal Dragon</reverse-related>
+      <reverse-related>Musician King</reverse-related>
+      <reverse-related>Pragticul</reverse-related>
+      <reverse-related>Punished Eagle</reverse-related>
+      <reverse-related>Rabid Horseman</reverse-related>
+      <reverse-related>Rare Fish</reverse-related>
+      <reverse-related>Roaring Ocean Snake</reverse-related>
+      <reverse-related>Rose Spectre of Dunn</reverse-related>
+      <reverse-related>Sanwitch</reverse-related>
+      <reverse-related>Skelegon</reverse-related>
+      <reverse-related>Skullbird</reverse-related>
+      <reverse-related>St Joan</reverse-related>
+      <reverse-related>Vermillion Sparrow</reverse-related>
+      <reverse-related>Warrior of Tradition</reverse-related>
+      <reverse-related>Zombie Warrior</reverse-related>
+    </card>
+    <card>
+      <name>Dragon Token LOB</name>
+      <set>LOB</set>
+      <prop>
+        <colors>W</colors>
+        <type>Token Creature - Dragon </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Flying
+This creature can’t block.</text>
+      <token>1</token>
+      <reverse-related>Blue Medicine</reverse-related>
+      <reverse-related>Dragoness the Wicked Knight</reverse-related>
+      <reverse-related>Elegant Egotist</reverse-related>
+      <reverse-related>Dark-Piercing Light</reverse-related>
+      <reverse-related>Petit Dragon</reverse-related>
+      <reverse-related>One-Eyed Shield Dragon</reverse-related>
+      <reverse-related>Yamato Dragon Scroll</reverse-related>
+    </card>
+    <card>
+      <name>Shapeshifter Token LOB</name>
+      <set>LOB</set>
+      <prop>
+        <colors></colors>
+        <type>Token Creature - Shapeshifter </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Changeling (This card is every creature type.)</text>
+      <token>1</token>
+      <reverse-related>Temple of Skulls</reverse-related>
+      <reverse-related>Roaring Ocean Snake</reverse-related>
+      <reverse-related>Tatsunootoshigo</reverse-related>
+      <reverse-related>Beaver Warrior</reverse-related>
+      <reverse-related count="2">Petit Dragon</reverse-related>
+      <reverse-related>Meda Bat</reverse-related>
+      <reverse-related>Electro-Whip</reverse-related>
+      <reverse-related>Embryonic Beast</reverse-related>
+    </card>
+    <card>
+      <name>Robot Token LOB</name>
+      <set>LOB</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Robot </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Man-Eating Treasure Chest</reverse-related>
+      <reverse-related>Patrol Robo</reverse-related>
+    </card>
+    <card>
+      <name>Elemental Token</name>
+      <set>LOB</set>
+      <prop>
+        <colors>R</colors>
+        <type>Token Creature - Elemental </type>
+        <maintype>Creature</maintype>
+        <pt>1/1</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Flame Ghost</reverse-related>
+      <reverse-related>Wings of Wicked Flame</reverse-related>
+      <reverse-related>Empress Judge</reverse-related>
+      <reverse-related>Living Vase</reverse-related>
+      <reverse-related>Exportname Elemental LOB</reverse-related>
+    </card>
+    <card>
+      <name>Wall Token</name>
+      <set>LOB</set>
+      <prop>
+        <colors></colors>
+        <type>Token Artifact Creature - Wall </type>
+        <maintype>Creature</maintype>
+        <pt>0/3</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Defender</text>
+      <token>1</token>
+      <reverse-related>Spirit of the Books</reverse-related>
+      <reverse-related>Castle Walls</reverse-related>
+      <reverse-related count="2">Castle Walls</reverse-related>
+      <reverse-related>Yamato Dragon Scroll</reverse-related>
+    </card>
+    <card>
+      <name>Extra Rulings for Silver</name>
+      <set>LOB</set>
+      <prop>
+        <colors>F</colors>
+        <type>Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>Silver:
+{F} is Silver mana, a colored mana source and the sixth color of mana. {F} has its own basic lands, called Faults, and you won’t need to draft those.</text>
+      <token>1</token>
+    </card>
+    <card>
+      <name>Insect Plant Token</name>
+      <set>LOB</set>
+      <prop>
+        <colors>F</colors>
+        <type>Token Creature - Insect Plant </type>
+        <maintype>Creature</maintype>
+        <pt>2/2</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text>Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)</text>
+      <token>1</token>
+      <reverse-related count="2">Man Eater</reverse-related>
+      <reverse-related>Alinsection</reverse-related>
+      <reverse-related>Ancient Jar</reverse-related>
+      <reverse-related count="2">Ancient Jar</reverse-related>
+      <reverse-related count="2">Eyearmor</reverse-related>
+      <reverse-related>Minomushi Warrior</reverse-related>
+      <reverse-related>Secretarian of Secrets</reverse-related>
+      <reverse-related>LaLa Li-oon</reverse-related>
+    </card>
+    <card>
+      <name>Demon Token</name>
+      <set>LOB</set>
+      <prop>
+        <colors>B</colors>
+        <type>Token Creature - Demon </type>
+        <maintype>Creature</maintype>
+        <pt>*/*</pt>
+      </prop>
+      <tablerow>2</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>The Seal of Orichalcos</reverse-related>
+      <reverse-related>Dark-Piercing Light</reverse-related>
+    </card>
+    <card>
+      <name>Plus 1 Plus 1 Counter</name>
+      <set>LOB</set>
+      <prop>
+        <colors>WUBRGF</colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Basic Insect</reverse-related>
+      <reverse-related>Monster Egg</reverse-related>
+      <reverse-related>Ray and Temperature</reverse-related>
+      <reverse-related>Rare Fish</reverse-related>
+      <reverse-related>Skelegon</reverse-related>
+      <reverse-related>Gaia the Dragon Champion</reverse-related>
+      <reverse-related>Witty Phantom</reverse-related>
+      <reverse-related>Kumootoko</reverse-related>
+      <reverse-related>Meda Bat</reverse-related>
+      <reverse-related>Skull Red Bird</reverse-related>
+      <reverse-related>Darkworld Thorns</reverse-related>
+      <reverse-related>Drooling Lizard</reverse-related>
+      <reverse-related>Celtic Guardian</reverse-related>
+      <reverse-related count="2">Follow Wind</reverse-related>
+      <reverse-related>Lucky Trinket</reverse-related>
+      <reverse-related>Dig Beak</reverse-related>
+      <reverse-related>One Who Hunts Souls</reverse-related>
+      <reverse-related>Dark Plant</reverse-related>
+      <reverse-related count="2">Kuwagata Alpha</reverse-related>
+      <reverse-related>Light of Hope</reverse-related>
+      <reverse-related>Abyss Flower</reverse-related>
+      <reverse-related>Bat</reverse-related>
+      <reverse-related>Wood Clown</reverse-related>
+      <reverse-related>Mabarrel</reverse-related>
+      <reverse-related>Tomozaurus</reverse-related>
+      <reverse-related>Winged Cleaver</reverse-related>
+      <reverse-related>Cyber Soldier of Darkworld</reverse-related>
+      <reverse-related>Yormungarde</reverse-related>
+      <reverse-related>Ascent of Snakes</reverse-related>
+      <reverse-related>The Judgement Hand</reverse-related>
+      <reverse-related count="2">Harpie Lady</reverse-related>
+    </card>
+    <card>
+      <name>Lifelink Counter</name>
+      <set>LOB</set>
+      <prop>
+        <colors>BG</colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Gaia the Dragon Champion</reverse-related>
+      <reverse-related>Dark Energy</reverse-related>
+    </card>
+    <card>
+      <name>Stun Counter</name>
+      <set>LOB</set>
+      <prop>
+        <colors>WUF</colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Nemuriko</reverse-related>
+      <reverse-related>White Dolphin</reverse-related>
+      <reverse-related>Gust Fan</reverse-related>
+      <reverse-related>Kaminari Attack</reverse-related>
+    </card>
+    <card>
+      <name>Menace Counter</name>
+      <set>LOB</set>
+      <prop>
+        <colors>BG</colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Gaia the Dragon Champion</reverse-related>
+      <reverse-related>Curtain of the Dark Ones</reverse-related>
+    </card>
+    <card>
+      <name>Reach Counter</name>
+      <set>LOB</set>
+      <prop>
+        <colors>G</colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Marmot of Nefariousness</reverse-related>
+    </card>
+    <card>
+      <name>Vigilance Counter</name>
+      <set>LOB</set>
+      <prop>
+        <colors>UBG</colors>
+        <type></type>
+        <maintype></maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text></text>
+      <token>1</token>
+      <reverse-related>Gaia the Dragon Champion</reverse-related>
+      <reverse-related>Twin Long Rods 1</reverse-related>
+    </card>
+    <card>
+      <name>Pick 5!</name>
+      <set>LOB</set>
+      <prop>
+        <colors></colors>
+        <type>Token Reminder</type>
+        <maintype>Reminder</maintype>
+      </prop>
+      <tablerow>1</tablerow>
+      <text>The first pack of cards is yours to keep! Use the draft options at the top of the screen to take all 5 cards from the pack.</text>
+      <token>1</token>
+    </card>
+
+  </cards>
+</cockatrice_carddatabase>
