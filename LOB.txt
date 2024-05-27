@@ -5,7 +5,7 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Flame%20Swordsman.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Flame%20Swordsman.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Cyclops Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hitotsu-Me%20Giant.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Hitotsu-Me%20Giant.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Zombie Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Skull%20Servant.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Skull%20Servant.png"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Basic%20Insect.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Basic%20Insect.png"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Elephant Zombie ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mammoth%20Graveyard.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mammoth%20Graveyard.png"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Yashinoki.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Yashinoki.png"
 	        }
 	    },
 	    {
@@ -59,7 +59,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Gray.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dark%20Gray.png"
 	        }
 	    },
 	    {
@@ -68,7 +68,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Artifact Creature — Robot Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Man-Eating%20Treasure%20Chest.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Man-Eating%20Treasure%20Chest.png"
 	        }
 	    },
 	    {
@@ -77,7 +77,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment Creature — Merfolk Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Nemuriko.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Nemuriko.png"
 	        }
 	    },
 	    {
@@ -86,7 +86,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Zombie Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%2013th%20Grave.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/The%2013th%20Grave.png"
 	        }
 	    },
 	    {
@@ -95,7 +95,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Flame%20Manipulator.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Flame%20Manipulator.png"
 	        }
 	    },
 	    {
@@ -104,7 +104,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Egg Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Monster%20Egg.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Monster%20Egg.png"
 	        }
 	    },
 	    {
@@ -113,7 +113,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Plant Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Firegrass.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Firegrass.png"
 	        }
 	    },
 	    {
@@ -122,7 +122,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Demon Zombie Noble ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20King%20of%20the%20Abyss.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dark%20King%20of%20the%20Abyss.png"
 	        }
 	    },
 	    {
@@ -131,7 +131,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Bird Spirit Reflection ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fiend%20Reflection%202.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Fiend%20Reflection%202.png"
 	        }
 	    },
 	    {
@@ -140,7 +140,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Cat Turtle Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Turtle%20Tiger.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Turtle%20Tiger.png"
 	        }
 	    },
 	    {
@@ -149,7 +149,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Dragon Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Petit%20Dragon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Petit%20Dragon.png"
 	        }
 	    },
 	    {
@@ -158,7 +158,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Angel Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Petit%20Angel.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Petit%20Angel.png"
 	        }
 	    },
 	    {
@@ -167,7 +167,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hinotama%20Soul.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Hinotama%20Soul.png"
 	        }
 	    },
 	    {
@@ -176,7 +176,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kagemusha%20of%20the%20Blue%20Flame.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Kagemusha%20of%20the%20Blue%20Flame.png"
 	        }
 	    },
 	    {
@@ -185,7 +185,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Dinosaur Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Two-Mouth%20Darkruler.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Two-Mouth%20Darkruler.png"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Enchantment Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dissolverrock.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dissolverrock.png"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Merfolk Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Zarigun.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Zarigun.png"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Merfolk Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Furious%20Sea%20King.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Furious%20Sea%20King.png"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment Creature — Elf Plant ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Green%20Phantom%20King.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Green%20Phantom%20King.png"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Enchantment Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ray%20and%20Temperature.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Ray%20and%20Temperature.png"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment Creature — Elemental Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/King%20Fog.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/King%20Fog.png"
 	        }
 	    },
 	    {
@@ -248,7 +248,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Enchantment Creature — Sheep Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystical%20Sheep%202.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mystical%20Sheep%202.png"
 	        }
 	    },
 	    {
@@ -257,7 +257,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Creature — Robot Human Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Masaki%20the%20Legendary%20Swordsman.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Masaki%20the%20Legendary%20Swordsman.png"
 	        }
 	    },
 	    {
@@ -266,7 +266,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Creature — Bird Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kurama.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Kurama.png"
 	        }
 	    },
 	    {
@@ -275,7 +275,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sparks.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Sparks.png"
 	        }
 	    },
 	    {
@@ -284,7 +284,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hinotama.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Hinotama.png"
 	        }
 	    },
 	    {
@@ -293,7 +293,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Remove%20Trap.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Remove%20Trap.png"
 	        }
 	    },
 	    {
@@ -302,7 +302,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Centaur Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rabid%20Horseman.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Rabid%20Horseman.png"
 	        }
 	    },
 	    {
@@ -311,7 +311,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Zombie Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Zombie%20Warrior.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Zombie%20Warrior.png"
 	        }
 	    },
 	    {
@@ -320,7 +320,7 @@
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Enchantment Creature — Cat Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fusionist.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Fusionist.png"
 	        }
 	    },
 	    {
@@ -329,7 +329,7 @@
 	        "mana_cost": "{B}{R}",
 	        "type": "Creature — Elemental Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Flame%20Ghost.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Flame%20Ghost.png"
 	        }
 	    },
 	    {
@@ -338,7 +338,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Polymerization.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Polymerization.png"
 	        }
 	    },
 	    {
@@ -347,7 +347,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Cat Spirit Merfolk ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rare%20Fish.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Rare%20Fish.png"
 	        }
 	    },
 	    {
@@ -356,7 +356,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Creature — Human Dragon Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dragoness%20the%20Wicked%20Knight.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dragoness%20the%20Wicked%20Knight.png"
 	        }
 	    },
 	    {
@@ -365,7 +365,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Creature — Zombie Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Skelegon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Skelegon.png"
 	        }
 	    },
 	    {
@@ -374,7 +374,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Creature — Plant Wolf ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Flower%20Wolf.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Flower%20Wolf.png"
 	        }
 	    },
 	    {
@@ -383,7 +383,7 @@
 	        "mana_cost": "{5}{B}{G}",
 	        "type": "Creature — Human Dragon Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gaia%20the%20Dragon%20Champion.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Gaia%20the%20Dragon%20Champion.png"
 	        }
 	    },
 	    {
@@ -392,7 +392,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Graveyard%20and%20the%20Hand%20of%20Invitation.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Graveyard%20and%20the%20Hand%20of%20Invitation.png"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Beaver Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Beaver%20Warrior.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Beaver%20Warrior.png"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Dinosaur Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Uraby.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Uraby.png"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Demon Rogue ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Witty%20Phantom.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Witty%20Phantom.png"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Dragon Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/That%20Which%20Feeds%20on%20Life.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/That%20Which%20Feeds%20on%20Life.png"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Artifact Creature — Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hard%20Armor.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Hard%20Armor.png"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Plant Horror ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Man%20Eater.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Man%20Eater.png"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Warrior Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/M-Warrior%201.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/M-Warrior%201.png"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Warrior Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/M-Warrior%202.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/M-Warrior%202.png"
 	        }
 	    },
 	    {
@@ -473,7 +473,7 @@
 	        "mana_cost": "{3}{G}{U}",
 	        "type": "Creature — Human Robot Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Armaill.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Armaill.png"
 	        }
 	    },
 	    {
@@ -482,7 +482,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Ogre Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Terra%20the%20Terrible.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Terra%20the%20Terrible.png"
 	        }
 	    },
 	    {
@@ -491,7 +491,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Beast Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Frenzied%20Panda.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Frenzied%20Panda.png"
 	        }
 	    },
 	    {
@@ -500,7 +500,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Spider Demon Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kumootoko.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Kumootoko.png"
 	        }
 	    },
 	    {
@@ -509,7 +509,7 @@
 	        "mana_cost": "{W}{B}",
 	        "type": "Creature — Bat Eye ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Meda%20Bat.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Meda%20Bat.png"
 	        }
 	    },
 	    {
@@ -518,7 +518,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fireyarou.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Fireyarou.png"
 	        }
 	    },
 	    {
@@ -527,7 +527,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Dragon Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/One-Eyed%20Shield%20Dragon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/One-Eyed%20Shield%20Dragon.png"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "{6}{U}{U}",
 	        "type": "Creature — Zombie Serpent ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Spike%20Seadra.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Spike%20Seadra.png"
 	        }
 	    },
 	    {
@@ -545,7 +545,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Dragon Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tripwire%20Beast.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Tripwire%20Beast.png"
 	        }
 	    },
 	    {
@@ -554,7 +554,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Bird Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Skull%20Red%20Bird.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Skull%20Red%20Bird.png"
 	        }
 	    },
 	    {
@@ -563,7 +563,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Enchantment Creature — Wurm ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sand%20Stone.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Sand%20Stone.png"
 	        }
 	    },
 	    {
@@ -572,7 +572,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Shark Robot ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Misairuzame.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Misairuzame.png"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact Creature — Robot Ogre ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Steel%20Ogre%20Grotto%201.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Steel%20Ogre%20Grotto%201.png"
 	        }
 	    },
 	    {
@@ -590,7 +590,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Lesser%20Dragon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Lesser%20Dragon.png"
 	        }
 	    },
 	    {
@@ -599,7 +599,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment Creature — Plant Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Darkworld%20Thorns.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Darkworld%20Thorns.png"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Lizard Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Drooling%20Lizard.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Drooling%20Lizard.png"
 	        }
 	    },
 	    {
@@ -617,7 +617,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Zombie Starfish ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Armored%20Starfish.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Armored%20Starfish.png"
 	        }
 	    },
 	    {
@@ -626,7 +626,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Demon Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Succubus%20Knight.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Succubus%20Knight.png"
 	        }
 	    },
 	    {
@@ -635,7 +635,7 @@
 	        "mana_cost": "{X}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Red%20Medicine.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Red%20Medicine.png"
 	        }
 	    },
 	    {
@@ -644,7 +644,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Enchantment Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Aqua%20Madoor.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Aqua%20Madoor.png"
 	        }
 	    },
 	    {
@@ -653,7 +653,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dragon%20Capture%20Jar.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dragon%20Capture%20Jar.png"
 	        }
 	    },
 	    {
@@ -662,7 +662,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fissure.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Fissure.png"
 	        }
 	    },
 	    {
@@ -671,7 +671,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Two-Pronged%20Attack.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Two-Pronged%20Attack.png"
 	        }
 	    },
 	    {
@@ -680,7 +680,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gravedigger%20Ghoul.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Gravedigger%20Ghoul.png"
 	        }
 	    },
 	    {
@@ -689,7 +689,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Artifact Creature — Robot Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Giant%20Soldier%20of%20Stone.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Giant%20Soldier%20of%20Stone.png"
 	        }
 	    },
 	    {
@@ -698,7 +698,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Reaper%20of%20the%20Cards.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Reaper%20of%20the%20Cards.png"
 	        }
 	    },
 	    {
@@ -707,7 +707,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Angel Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Spirit%20of%20the%20Harp.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Spirit%20of%20the%20Harp.png"
 	        }
 	    },
 	    {
@@ -716,7 +716,7 @@
 	        "mana_cost": "{6}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Stop%20Defense.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Stop%20Defense.png"
 	        }
 	    },
 	    {
@@ -725,7 +725,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Goblins%20Secret%20Remedy.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Goblins%20Secret%20Remedy.png"
 	        }
 	    },
 	    {
@@ -734,7 +734,7 @@
 	        "mana_cost": "{X}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Final%20Flame.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Final%20Flame.png"
 	        }
 	    },
 	    {
@@ -743,7 +743,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Knight Ninja ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Armed%20Ninja.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Armed%20Ninja.png"
 	        }
 	    },
 	    {
@@ -752,7 +752,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Spirit Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hane-Hane.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Hane-Hane.png"
 	        }
 	    },
 	    {
@@ -761,7 +761,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Creature — Angel Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hourglass%20of%20Life.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Hourglass%20of%20Life.png"
 	        }
 	    },
 	    {
@@ -770,7 +770,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Demon Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tri-Horned%20Dragon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Tri-Horned%20Dragon.png"
 	        }
 	    },
 	    {
@@ -779,7 +779,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Legendary%20Sword.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Legendary%20Sword.png"
 	        }
 	    },
 	    {
@@ -788,7 +788,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Beast%20Fangs.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Beast%20Fangs.png"
 	        }
 	    },
 	    {
@@ -797,7 +797,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Power%20of%20Kaishin.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Power%20of%20Kaishin.png"
 	        }
 	    },
 	    {
@@ -806,7 +806,7 @@
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Book%20of%20Secret%20Arts.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Book%20of%20Secret%20Arts.png"
 	        }
 	    },
 	    {
@@ -815,7 +815,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystical%20Moon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mystical%20Moon.png"
 	        }
 	    },
 	    {
@@ -824,7 +824,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Energy.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dark%20Energy.png"
 	        }
 	    },
 	    {
@@ -833,7 +833,7 @@
 	        "mana_cost": "{X}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Laser%20Cannon%20Armor.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Laser%20Cannon%20Armor.png"
 	        }
 	    },
 	    {
@@ -842,7 +842,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Violet%20Crystal.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Violet%20Crystal.png"
 	        }
 	    },
 	    {
@@ -851,7 +851,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Silver%20Bow%20and%20Arrow.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Silver%20Bow%20and%20Arrow.png"
 	        }
 	    },
 	    {
@@ -860,7 +860,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dragon%20Treasure.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dragon%20Treasure.png"
 	        }
 	    },
 	    {
@@ -869,7 +869,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Electro-Whip.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Electro-Whip.png"
 	        }
 	    },
 	    {
@@ -878,7 +878,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Vile%20Germs.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Vile%20Germs.png"
 	        }
 	    },
 	    {
@@ -887,7 +887,7 @@
 	        "mana_cost": "{0}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Machine%20Conversion%20Factory.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Machine%20Conversion%20Factory.png"
 	        }
 	    },
 	    {
@@ -896,7 +896,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Elf Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Celtic%20Guardian.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Celtic%20Guardian.png"
 	        }
 	    },
 	    {
@@ -905,7 +905,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Hole.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dark%20Hole.png"
 	        }
 	    },
 	    {
@@ -914,7 +914,7 @@
 	        "mana_cost": "{8}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Raigeki.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Raigeki.png"
 	        }
 	    },
 	    {
@@ -923,7 +923,7 @@
 	        "mana_cost": "{2}{C}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Trap%20Hole.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Trap%20Hole.png"
 	        }
 	    },
 	    {
@@ -932,7 +932,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Elf Cleric Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystical%20Elf.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mystical%20Elf.png"
 	        }
 	    },
 	    {
@@ -941,7 +941,7 @@
 	        "mana_cost": "{2}{C}{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Swords%20of%20Revealing%20Light.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Swords%20of%20Revealing%20Light.png"
 	        }
 	    },
 	    {
@@ -950,7 +950,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Insect Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Man-Eater%20Bug.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Man-Eater%20Bug.png"
 	        }
 	    },
 	    {
@@ -959,7 +959,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Raise%20Body%20Heat.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Raise%20Body%20Heat.png"
 	        }
 	    },
 	    {
@@ -968,7 +968,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Follow%20Wind.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Follow%20Wind.png"
 	        }
 	    },
 	    {
@@ -977,7 +977,7 @@
 	        "mana_cost": "{1}{W}{W}{U}{U}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Blue-Eyes%20White%20Dragon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Blue-Eyes%20White%20Dragon.png"
 	        }
 	    },
 	    {
@@ -986,7 +986,7 @@
 	        "mana_cost": "{3}{U}{U}{B}{B}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Magician.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dark%20Magician.png"
 	        }
 	    },
 	    {
@@ -995,7 +995,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gaia%20The%20Fierce%20Knight.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Gaia%20The%20Fierce%20Knight.png"
 	        }
 	    },
 	    {
@@ -1004,7 +1004,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Demon Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Red-Eyes%20Black%20Dragon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Red-Eyes%20Black%20Dragon.png"
 	        }
 	    },
 	    {
@@ -1013,7 +1013,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Monster%20Reborn.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Monster%20Reborn.png"
 	        }
 	    },
 	    {
@@ -1022,7 +1022,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Legendary Creature — Wizard God ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Right%20Leg%20of%20the%20Forbidden%20One.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Right%20Leg%20of%20the%20Forbidden%20One.png"
 	        }
 	    },
 	    {
@@ -1031,7 +1031,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Legendary Creature — Wizard God ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Left%20Leg%20of%20the%20Forbidden%20One.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Left%20Leg%20of%20the%20Forbidden%20One.png"
 	        }
 	    },
 	    {
@@ -1040,7 +1040,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Legendary Creature — Wizard God ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Right%20Arm%20of%20the%20Forbidden%20One.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Right%20Arm%20of%20the%20Forbidden%20One.png"
 	        }
 	    },
 	    {
@@ -1049,7 +1049,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Legendary Creature — Wizard God ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Left%20Arm%20of%20the%20Forbidden%20One.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Left%20Arm%20of%20the%20Forbidden%20One.png"
 	        }
 	    },
 	    {
@@ -1058,7 +1058,7 @@
 	        "mana_cost": "{7}",
 	        "type": "Legendary Creature — Wizard God ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Exodia%20the%20Forbidden%20One.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Exodia%20the%20Forbidden%20One.png"
 	        }
 	    },
 	    {
@@ -1067,7 +1067,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Wasteland.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mythical%20Wasteland.png"
 	        }
 	    },
 	    {
@@ -1076,7 +1076,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Mountain.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mythical%20Mountain.png"
 	        }
 	    },
 	    {
@@ -1085,7 +1085,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Sogen.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mythical%20Sogen.png"
 	        }
 	    },
 	    {
@@ -1094,7 +1094,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Umi.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mythical%20Umi.png"
 	        }
 	    },
 	    {
@@ -1103,7 +1103,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Yami.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mythical%20Yami.png"
 	        }
 	    },
 	    {
@@ -1112,7 +1112,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Merfolk Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Enchanting%20Mermaid.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Enchanting%20Mermaid.png"
 	        }
 	    },
 	    {
@@ -1121,7 +1121,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mythical%20Forest.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mythical%20Forest.png"
 	        }
 	    },
 	    {
@@ -1130,7 +1130,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Prismatic%20Bulb.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Prismatic%20Bulb.png"
 	        }
 	    },
 	    {
@@ -1139,7 +1139,7 @@
 	        "mana_cost": "{1}{C}{C}",
 	        "type": "Creature — Demon Beast ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Synchar.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Synchar.png"
 	        }
 	    },
 	    {
@@ -1148,7 +1148,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Demon Dragon Reflection ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Archfiend%20Mirror.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Archfiend%20Mirror.png"
 	        }
 	    },
 	    {
@@ -1157,7 +1157,7 @@
 	        "mana_cost": "{3}{C}",
 	        "type": "Creature — Spirit Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Secretarian%20of%20Secrets.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Secretarian%20of%20Secrets.png"
 	        }
 	    },
 	    {
@@ -1166,7 +1166,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gust%20Fan.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Gust%20Fan.png"
 	        }
 	    },
 	    {
@@ -1175,7 +1175,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Invigoration.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Invigoration.png"
 	        }
 	    },
 	    {
@@ -1184,7 +1184,7 @@
 	        "mana_cost": "{3}{C}{C}",
 	        "type": "Enchantment Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Thunder%20Kid.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Thunder%20Kid.png"
 	        }
 	    },
 	    {
@@ -1193,7 +1193,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Enchantment Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/LaLa%20Li-oon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/LaLa%20Li-oon.png"
 	        }
 	    },
 	    {
@@ -1202,7 +1202,7 @@
 	        "mana_cost": "{2}{C}{C}",
 	        "type": "Creature — Demon Cyclops Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Meotoko.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Meotoko.png"
 	        }
 	    },
 	    {
@@ -1211,7 +1211,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Pot%20of%20Greed.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Pot%20of%20Greed.png"
 	        }
 	    },
 	    {
@@ -1220,7 +1220,7 @@
 	        "mana_cost": "{3}{C}",
 	        "type": "Creature — Dragon Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kaiser%20Dragon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Kaiser%20Dragon.png"
 	        }
 	    },
 	    {
@@ -1229,7 +1229,7 @@
 	        "mana_cost": "{C}{W}",
 	        "type": "Enchantment Creature — Human Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kaminari%20Attack.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Kaminari%20Attack.png"
 	        }
 	    },
 	    {
@@ -1238,7 +1238,7 @@
 	        "mana_cost": "{3}{C}{U}",
 	        "type": "Creature — Demon Dragon Serpent ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Roaring%20Ocean%20Snake.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Roaring%20Ocean%20Snake.png"
 	        }
 	    },
 	    {
@@ -1247,7 +1247,7 @@
 	        "mana_cost": "{1}{C}{B}",
 	        "type": "Creature — Demon Imp Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sanwitch.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Sanwitch.png"
 	        }
 	    },
 	    {
@@ -1256,7 +1256,7 @@
 	        "mana_cost": "{1}{C}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Vermillion%20Sparrow.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Vermillion%20Sparrow.png"
 	        }
 	    },
 	    {
@@ -1265,7 +1265,7 @@
 	        "mana_cost": "{C}{G}",
 	        "type": "Creature — Human Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Warrior%20of%20Tradition.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Warrior%20of%20Tradition.png"
 	        }
 	    },
 	    {
@@ -1274,7 +1274,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Human Bard Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Musician%20King.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Musician%20King.png"
 	        }
 	    },
 	    {
@@ -1283,7 +1283,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Plant Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rose%20Spectre%20of%20Dunn.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Rose%20Spectre%20of%20Dunn.png"
 	        }
 	    },
 	    {
@@ -1292,7 +1292,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Trial%20of%20Nightmare.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Trial%20of%20Nightmare.png"
 	        }
 	    },
 	    {
@@ -1301,7 +1301,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystery%20Hand.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mystery%20Hand.png"
 	        }
 	    },
 	    {
@@ -1310,7 +1310,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Enchantment Creature — Elemental Phoenix ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mavelus.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mavelus.png"
 	        }
 	    },
 	    {
@@ -1319,7 +1319,7 @@
 	        "mana_cost": "{5}{U}{B}",
 	        "type": "Creature — Zombie ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Pragticul.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Pragticul.png"
 	        }
 	    },
 	    {
@@ -1328,7 +1328,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Creature — Human Wizard Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kamionwizard.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Kamionwizard.png"
 	        }
 	    },
 	    {
@@ -1337,7 +1337,7 @@
 	        "mana_cost": "{U}{R}",
 	        "type": "Creature — Human Elemental Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Empress%20Judge.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Empress%20Judge.png"
 	        }
 	    },
 	    {
@@ -1346,7 +1346,7 @@
 	        "mana_cost": "{3}{G}{U}",
 	        "type": "Creature — Bird Demon Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Punished%20Eagle.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Punished%20Eagle.png"
 	        }
 	    },
 	    {
@@ -1355,7 +1355,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Enchantment Creature — Elemental Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Charubin%20the%20Fire%20Knight.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Charubin%20the%20Fire%20Knight.png"
 	        }
 	    },
 	    {
@@ -1364,7 +1364,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Plant Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Darkfire%20Dragon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Darkfire%20Dragon.png"
 	        }
 	    },
 	    {
@@ -1373,7 +1373,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Karbonala%20Warrior.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Karbonala%20Warrior.png"
 	        }
 	    },
 	    {
@@ -1382,7 +1382,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kwagar%20Hercules.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Kwagar%20Hercules.png"
 	        }
 	    },
 	    {
@@ -1391,7 +1391,7 @@
 	        "mana_cost": "{7}",
 	        "type": "Artifact Creature — Robot Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Metal%20Dragon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Metal%20Dragon.png"
 	        }
 	    },
 	    {
@@ -1400,7 +1400,7 @@
 	        "mana_cost": "{1}{C}{C}",
 	        "type": "Creature — Zombie Demon Bird ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Skullbird.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Skullbird.png"
 	        }
 	    },
 	    {
@@ -1409,7 +1409,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/St.%20Joan.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/St.%20Joan.png"
 	        }
 	    },
 	    {
@@ -1418,7 +1418,7 @@
 	        "mana_cost": "{X}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Blue%20Medicine.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Blue%20Medicine.png"
 	        }
 	    },
 	    {
@@ -1427,7 +1427,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Candle%20of%20Fate.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Candle%20of%20Fate.png"
 	        }
 	    },
 	    {
@@ -1436,7 +1436,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wings%20of%20Wicked%20Flame.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Wings%20of%20Wicked%20Flame.png"
 	        }
 	    },
 	    {
@@ -1445,7 +1445,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%20Melting%20Red%20Shadow.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/The%20Melting%20Red%20Shadow.png"
 	        }
 	    },
 	    {
@@ -1454,7 +1454,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Lucky%20Trinket.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Lucky%20Trinket.png"
 	        }
 	    },
 	    {
@@ -1463,7 +1463,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Curtain%20of%20the%20Dark%20Ones.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Curtain%20of%20the%20Dark%20Ones.png"
 	        }
 	    },
 	    {
@@ -1472,7 +1472,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Haniwa.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Haniwa.png"
 	        }
 	    },
 	    {
@@ -1481,7 +1481,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tatsunootoshigo.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Tatsunootoshigo.png"
 	        }
 	    },
 	    {
@@ -1490,7 +1490,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Creature — Angel Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Shining%20Friendship.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Shining%20Friendship.png"
 	        }
 	    },
 	    {
@@ -1499,7 +1499,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Angel Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Happy%20Lover.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Happy%20Lover.png"
 	        }
 	    },
 	    {
@@ -1508,7 +1508,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Human Faerie Bard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Muse-A.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Muse-A.png"
 	        }
 	    },
 	    {
@@ -1517,7 +1517,7 @@
 	        "mana_cost": "{5}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rouge%20Doll.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Rouge%20Doll.png"
 	        }
 	    },
 	    {
@@ -1526,7 +1526,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystical%20Capture%20Chain.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mystical%20Capture%20Chain.png"
 	        }
 	    },
 	    {
@@ -1535,7 +1535,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Enchantment Creature — Angel Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/LaMoon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/LaMoon.png"
 	        }
 	    },
 	    {
@@ -1544,7 +1544,7 @@
 	        "mana_cost": "{2}{C}{C}",
 	        "type": "Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Eyearmor.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Eyearmor.png"
 	        }
 	    },
 	    {
@@ -1553,7 +1553,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Demon Snake ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dig%20Beak.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dig%20Beak.png"
 	        }
 	    },
 	    {
@@ -1562,7 +1562,7 @@
 	        "mana_cost": "{4}{C}{C}",
 	        "type": "Artifact Creature — Robot ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Golgoil.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Golgoil.png"
 	        }
 	    },
 	    {
@@ -1571,7 +1571,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Temple%20of%20Skulls.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Temple%20of%20Skulls.png"
 	        }
 	    },
 	    {
@@ -1580,7 +1580,7 @@
 	        "mana_cost": "{U}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Steel%20Shell.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Steel%20Shell.png"
 	        }
 	    },
 	    {
@@ -1589,7 +1589,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Zombie Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fire%20Reaper.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Fire%20Reaper.png"
 	        }
 	    },
 	    {
@@ -1598,7 +1598,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Yamatano%20Dragon%20Scroll.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Yamatano%20Dragon%20Scroll.png"
 	        }
 	    },
 	    {
@@ -1607,7 +1607,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mon%20Larvas.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mon%20Larvas.png"
 	        }
 	    },
 	    {
@@ -1616,7 +1616,7 @@
 	        "mana_cost": "{1}{B}{G}",
 	        "type": "Artifact Creature — Robot Mole Zombie ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mech%20Mole%20Zombie.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mech%20Mole%20Zombie.png"
 	        }
 	    },
 	    {
@@ -1625,7 +1625,7 @@
 	        "mana_cost": "{4}{B}{R}",
 	        "type": "Creature — Dragon Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wicked%20Dragon%20with%20the%20Ersatz%20Head.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Wicked%20Dragon%20with%20the%20Ersatz%20Head.png"
 	        }
 	    },
 	    {
@@ -1634,7 +1634,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Creature — Robot Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wattkid.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Wattkid.png"
 	        }
 	    },
 	    {
@@ -1643,7 +1643,7 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Creature — Spirit Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/One%20Who%20Hunts%20Souls.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/One%20Who%20Hunts%20Souls.png"
 	        }
 	    },
 	    {
@@ -1652,7 +1652,7 @@
 	        "mana_cost": "{C}{U}",
 	        "type": "Creature — Bird Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Bolt%20Penguin.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Bolt%20Penguin.png"
 	        }
 	    },
 	    {
@@ -1661,7 +1661,7 @@
 	        "mana_cost": "{1}{C}{G}",
 	        "type": "Creature — Human Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Beautiful%20Headhuntress.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Beautiful%20Headhuntress.png"
 	        }
 	    },
 	    {
@@ -1670,7 +1670,7 @@
 	        "mana_cost": "{3}{C}{B}",
 	        "type": "Creature — Demon Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Megirus%20Light.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Megirus%20Light.png"
 	        }
 	    },
 	    {
@@ -1679,7 +1679,7 @@
 	        "mana_cost": "{3}{C}{R}",
 	        "type": "Creature — Faerie Demon Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fairywitch.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Fairywitch.png"
 	        }
 	    },
 	    {
@@ -1688,7 +1688,7 @@
 	        "mana_cost": "{3}{C}{W}",
 	        "type": "Enchantment Creature — Bird Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Takuhee.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Takuhee.png"
 	        }
 	    },
 	    {
@@ -1697,7 +1697,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Spirit Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Djinn%20the%20Watcher%20of%20the%20Wind.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Djinn%20the%20Watcher%20of%20the%20Wind.png"
 	        }
 	    },
 	    {
@@ -1706,7 +1706,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Corroding%20Shark.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Corroding%20Shark.png"
 	        }
 	    },
 	    {
@@ -1715,7 +1715,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/White%20Dolphin.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/White%20Dolphin.png"
 	        }
 	    },
 	    {
@@ -1724,7 +1724,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Creature — Demon Starfish ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hitodenchak.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Hitodenchak.png"
 	        }
 	    },
 	    {
@@ -1733,7 +1733,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Merfolk Zombie ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Root%20Water.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Root%20Water.png"
 	        }
 	    },
 	    {
@@ -1742,7 +1742,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment Creature — Elemental Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Water%20Element.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Water%20Element.png"
 	        }
 	    },
 	    {
@@ -1751,7 +1751,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Demon Plant ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Plant.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dark%20Plant.png"
 	        }
 	    },
 	    {
@@ -1760,7 +1760,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Zombie Rat ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Bone%20Mouse.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Bone%20Mouse.png"
 	        }
 	    },
 	    {
@@ -1769,7 +1769,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Midnight%20Fiend.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Midnight%20Fiend.png"
 	        }
 	    },
 	    {
@@ -1778,7 +1778,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Demon Bat ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tyhone.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Tyhone.png"
 	        }
 	    },
 	    {
@@ -1787,7 +1787,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Burning%20Spear.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Burning%20Spear.png"
 	        }
 	    },
 	    {
@@ -1796,7 +1796,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Demon Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rhaimundos%20of%20the%20Red%20Sword.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Rhaimundos%20of%20the%20Red%20Sword.png"
 	        }
 	    },
 	    {
@@ -1805,7 +1805,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Elemental Eye ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fire%20Eye.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Fire%20Eye.png"
 	        }
 	    },
 	    {
@@ -1814,7 +1814,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Larvas.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Larvas.png"
 	        }
 	    },
 	    {
@@ -1823,7 +1823,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Enchantment Creature — Elemental Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Stone%20Ghost.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Stone%20Ghost.png"
 	        }
 	    },
 	    {
@@ -1832,7 +1832,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment Creature — Plant ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Living%20Vase.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Living%20Vase.png"
 	        }
 	    },
 	    {
@@ -1841,7 +1841,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hercules%20Beetle.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Hercules%20Beetle.png"
 	        }
 	    },
 	    {
@@ -1850,7 +1850,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kuwagata%20Alpha.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Kuwagata%20Alpha.png"
 	        }
 	    },
 	    {
@@ -1859,7 +1859,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Druid Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Doriado.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Doriado.png"
 	        }
 	    },
 	    {
@@ -1868,7 +1868,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Marmot%20of%20Nefariousness.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Marmot%20of%20Nefariousness.png"
 	        }
 	    },
 	    {
@@ -1877,7 +1877,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Wolf Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Silver%20Fang.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Silver%20Fang.png"
 	        }
 	    },
 	    {
@@ -1886,7 +1886,7 @@
 	        "mana_cost": "{4}{C}{C}",
 	        "type": "Creature — Bird Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Droll%20Bird.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Droll%20Bird.png"
 	        }
 	    },
 	    {
@@ -1895,7 +1895,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Zombie Eye Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Drdek.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Drdek.png"
 	        }
 	    },
 	    {
@@ -1904,7 +1904,7 @@
 	        "mana_cost": "{5}{C}{C}",
 	        "type": "Creature — Rabbit Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wilmee.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Wilmee.png"
 	        }
 	    },
 	    {
@@ -1913,7 +1913,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Plant Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Bean%20Soldier.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Bean%20Soldier.png"
 	        }
 	    },
 	    {
@@ -1922,7 +1922,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Demon Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Phantom%20Dewan.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Phantom%20Dewan.png"
 	        }
 	    },
 	    {
@@ -1931,7 +1931,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Artifact Creature — Robot Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Patrol%20Robo.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Patrol%20Robo.png"
 	        }
 	    },
 	    {
@@ -1940,7 +1940,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Shadows%20Light.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Shadows%20Light.png"
 	        }
 	    },
 	    {
@@ -1949,7 +1949,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystic%20Plasma%20Zone.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mystic%20Plasma%20Zone.png"
 	        }
 	    },
 	    {
@@ -1958,7 +1958,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fire%20Prison.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Fire%20Prison.png"
 	        }
 	    },
 	    {
@@ -1967,7 +1967,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ancient%20Forest.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Ancient%20Forest.png"
 	        }
 	    },
 	    {
@@ -1976,7 +1976,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Canyon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Canyon.png"
 	        }
 	    },
 	    {
@@ -1985,7 +1985,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Light%20of%20Hope.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Light%20of%20Hope.png"
 	        }
 	    },
 	    {
@@ -1994,7 +1994,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Consult%20Eternity.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Consult%20Eternity.png"
 	        }
 	    },
 	    {
@@ -2003,7 +2003,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Bird Spirit Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Spirit%20of%20the%20Books.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Spirit%20of%20the%20Books.png"
 	        }
 	    },
 	    {
@@ -2012,7 +2012,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Demon Fish ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Twin%20Long%20Rods%201.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Twin%20Long%20Rods%201.png"
 	        }
 	    },
 	    {
@@ -2021,7 +2021,7 @@
 	        "mana_cost": "{4}{W}",
 	        "type": "Creature — Robot Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Oscillo%20Hero.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Oscillo%20Hero.png"
 	        }
 	    },
 	    {
@@ -2030,7 +2030,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Angel Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hourglass%20of%20Courage.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Hourglass%20of%20Courage.png"
 	        }
 	    },
 	    {
@@ -2039,7 +2039,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Plant ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Man-Eating%20Plant.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Man-Eating%20Plant.png"
 	        }
 	    },
 	    {
@@ -2048,7 +2048,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Zombie Fish ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Akihiron.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Akihiron.png"
 	        }
 	    },
 	    {
@@ -2057,7 +2057,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Enchantment Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Hurricail.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Hurricail.png"
 	        }
 	    },
 	    {
@@ -2066,7 +2066,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Creature — Plant Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Abyss%20Flower.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Abyss%20Flower.png"
 	        }
 	    },
 	    {
@@ -2075,7 +2075,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Demon Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Shadow%20Who%20Controls%20the%20Dark.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Shadow%20Who%20Controls%20the%20Dark.png"
 	        }
 	    },
 	    {
@@ -2084,7 +2084,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Zombie Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gate%20Deeg.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Gate%20Deeg.png"
 	        }
 	    },
 	    {
@@ -2093,7 +2093,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Artifact Creature — Robot Bat ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Bat.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Bat.png"
 	        }
 	    },
 	    {
@@ -2102,7 +2102,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Clown Plant Robot ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wood%20Clown.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Wood%20Clown.png"
 	        }
 	    },
 	    {
@@ -2111,7 +2111,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Zombie Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark%20Artist.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dark%20Artist.png"
 	        }
 	    },
 	    {
@@ -2120,7 +2120,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Minomushi%20Warrior.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Minomushi%20Warrior.png"
 	        }
 	    },
 	    {
@@ -2129,7 +2129,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Creature — Shapeshifter Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Doron.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Doron.png"
 	        }
 	    },
 	    {
@@ -2138,7 +2138,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Alinsection.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Alinsection.png"
 	        }
 	    },
 	    {
@@ -2147,7 +2147,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Beast Eye ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mabarrel.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mabarrel.png"
 	        }
 	    },
 	    {
@@ -2156,7 +2156,7 @@
 	        "mana_cost": "{G}{G}",
 	        "type": "Creature — Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tomozaurus.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Tomozaurus.png"
 	        }
 	    },
 	    {
@@ -2165,7 +2165,7 @@
 	        "mana_cost": "{4}{C}",
 	        "type": "Creature — Scorpion Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Nightmare%20Scorpion.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Nightmare%20Scorpion.png"
 	        }
 	    },
 	    {
@@ -2174,7 +2174,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Insect ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Giant%20Flea.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Giant%20Flea.png"
 	        }
 	    },
 	    {
@@ -2183,7 +2183,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Artifact Creature — Demon Wizard  ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ancient%20Jar.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Ancient%20Jar.png"
 	        }
 	    },
 	    {
@@ -2192,7 +2192,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ookazi.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Ookazi.png"
 	        }
 	    },
 	    {
@@ -2201,7 +2201,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Elemental Dinosaur ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Little%20D.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Little%20D.png"
 	        }
 	    },
 	    {
@@ -2210,7 +2210,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Cat Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tiger%20Axe.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Tiger%20Axe.png"
 	        }
 	    },
 	    {
@@ -2219,7 +2219,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Robot Sculpture ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Statue%20of%20Easter%20Island.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Statue%20of%20Easter%20Island.png"
 	        }
 	    },
 	    {
@@ -2228,7 +2228,7 @@
 	        "mana_cost": "{C}{W}",
 	        "type": "Enchantment Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Weather%20Control.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Weather%20Control.png"
 	        }
 	    },
 	    {
@@ -2237,7 +2237,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%20Guardian%20of%20the%20Fortress%201.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Winged%20Dragon%20Guardian%20of%20the%20Fortress%201.png"
 	        }
 	    },
 	    {
@@ -2246,7 +2246,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Dragon%20Guardian%20of%20the%20Fortress%202.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Winged%20Dragon%20Guardian%20of%20the%20Fortress%202.png"
 	        }
 	    },
 	    {
@@ -2255,7 +2255,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Insect Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Winged%20Cleaver.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Winged%20Cleaver.png"
 	        }
 	    },
 	    {
@@ -2264,7 +2264,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Creature — Merfolk Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wow%20Warrior.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Wow%20Warrior.png"
 	        }
 	    },
 	    {
@@ -2273,7 +2273,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Artifact Creature — Robot Soldier ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Cyber%20Soldier%20of%20Darkworld.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Cyber%20Soldier%20of%20Darkworld.png"
 	        }
 	    },
 	    {
@@ -2282,7 +2282,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Creature — Elf Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Battle%20Warrior.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Battle%20Warrior.png"
 	        }
 	    },
 	    {
@@ -2291,7 +2291,7 @@
 	        "mana_cost": "{5}",
 	        "type": "Artifact Creature — Robot Knight ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Giant%20Mech-Soldier.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Giant%20Mech-Soldier.png"
 	        }
 	    },
 	    {
@@ -2300,7 +2300,7 @@
 	        "mana_cost": "{5}{G}{G}{G}",
 	        "type": "Creature — Plant Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Wodan%20the%20Resident%20of%20the%20Forest.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Wodan%20the%20Resident%20of%20the%20Forest.png"
 	        }
 	    },
 	    {
@@ -2309,7 +2309,7 @@
 	        "mana_cost": "{4}{C}",
 	        "type": "Creature — Illusion Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Boo%20Koo.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Boo%20Koo.png"
 	        }
 	    },
 	    {
@@ -2318,7 +2318,7 @@
 	        "mana_cost": "{C}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Castle%20Walls.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Castle%20Walls.png"
 	        }
 	    },
 	    {
@@ -2327,7 +2327,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Reinforcements.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Reinforcements.png"
 	        }
 	    },
 	    {
@@ -2336,7 +2336,7 @@
 	        "mana_cost": "{B}{R}{G}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ryu-Kishin.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Ryu-Kishin.png"
 	        }
 	    },
 	    {
@@ -2345,7 +2345,7 @@
 	        "mana_cost": "{X}{G}{U}",
 	        "type": "Creature — Demon Dragon Serpent ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Yormungarde.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Yormungarde.png"
 	        }
 	    },
 	    {
@@ -2354,7 +2354,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Establish%20Dominance.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Establish%20Dominance.png"
 	        }
 	    },
 	    {
@@ -2363,7 +2363,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ignite.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Ignite.png"
 	        }
 	    },
 	    {
@@ -2372,7 +2372,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Survivors%20Hospitality.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Survivors%20Hospitality.png"
 	        }
 	    },
 	    {
@@ -2381,7 +2381,7 @@
 	        "mana_cost": "{2}{G/U}{G/U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Into%20the%20Unknown.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Into%20the%20Unknown.png"
 	        }
 	    },
 	    {
@@ -2390,7 +2390,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ascent%20From%20Snakes.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Ascent%20From%20Snakes.png"
 	        }
 	    },
 	    {
@@ -2399,7 +2399,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sun-Scorched%20Tempering.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Sun-Scorched%20Tempering.png"
 	        }
 	    },
 	    {
@@ -2408,7 +2408,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Deathly%20Bellow.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Deathly%20Bellow.png"
 	        }
 	    },
 	    {
@@ -2417,7 +2417,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Latant%20Rebirth.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Latant%20Rebirth.png"
 	        }
 	    },
 	    {
@@ -2426,7 +2426,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Discover%20Uncertainty.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Discover%20Uncertainty.png"
 	        }
 	    },
 	    {
@@ -2435,7 +2435,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Grazed%20by%20the%20Endless.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Grazed%20by%20the%20Endless.png"
 	        }
 	    },
 	    {
@@ -2444,7 +2444,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Called%20by%20the%20Void.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Called%20by%20the%20Void.png"
 	        }
 	    },
 	    {
@@ -2453,7 +2453,7 @@
 	        "mana_cost": "{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Denied%20by%20Nature.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Denied%20by%20Nature.png"
 	        }
 	    },
 	    {
@@ -2462,7 +2462,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Plains.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Plains.png"
 	        }
 	    },
 	    {
@@ -2471,7 +2471,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Island.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Island.png"
 	        }
 	    },
 	    {
@@ -2480,7 +2480,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Swamp.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Swamp.png"
 	        }
 	    },
 	    {
@@ -2489,7 +2489,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mountain.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mountain.png"
 	        }
 	    },
 	    {
@@ -2498,7 +2498,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Forest.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Forest.png"
 	        }
 	    },
 	    {
@@ -2507,7 +2507,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Fault ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fault.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Fault.png"
 	        }
 	    },
 	    {
@@ -2516,7 +2516,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%20Judgement%20Hand.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/The%20Judgement%20Hand.png"
 	        }
 	    },
 	    {
@@ -2525,7 +2525,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sonic%20Maid.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Sonic%20Maid.png"
 	        }
 	    },
 	    {
@@ -2534,7 +2534,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Demon Clown ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mystic%20Clown.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mystic%20Clown.png"
 	        }
 	    },
 	    {
@@ -2543,7 +2543,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Merfolk Turtle Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Kappa%20Avenger.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Kappa%20Avenger.png"
 	        }
 	    },
 	    {
@@ -2552,7 +2552,7 @@
 	        "mana_cost": "{1}{W}{B}",
 	        "type": "Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Embryonic%20Beast.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Embryonic%20Beast.png"
 	        }
 	    },
 	    {
@@ -2561,7 +2561,7 @@
 	        "mana_cost": "{C}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Nefairious%20Archfiend.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Nefairious%20Archfiend.png"
 	        }
 	    },
 	    {
@@ -2570,7 +2570,7 @@
 	        "mana_cost": "{2}{C}{B}",
 	        "type": "Creature — Zombie Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Phantom%20Ghost.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Phantom%20Ghost.png"
 	        }
 	    },
 	    {
@@ -2579,7 +2579,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ancient%20Telescope.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Ancient%20Telescope.png"
 	        }
 	    },
 	    {
@@ -2588,7 +2588,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sword%20of%20Dark%20Destruction.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Sword%20of%20Dark%20Destruction.png"
 	        }
 	    },
 	    {
@@ -2597,7 +2597,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Elfs%20Light.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Elfs%20Light.png"
 	        }
 	    },
 	    {
@@ -2606,7 +2606,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Creature — Human Ninja ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ansatsu.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Ansatsu.png"
 	        }
 	    },
 	    {
@@ -2615,7 +2615,7 @@
 	        "mana_cost": "{1}{C}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Dark-Piercing%20Light.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Dark-Piercing%20Light.png"
 	        }
 	    },
 	    {
@@ -2624,7 +2624,7 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Ultimate%20Offering.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Ultimate%20Offering.png"
 	        }
 	    },
 	    {
@@ -2633,7 +2633,7 @@
 	        "mana_cost": "{C}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Reverse%20Trap.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Reverse%20Trap.png"
 	        }
 	    },
 	    {
@@ -2642,7 +2642,7 @@
 	        "mana_cost": "{C}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%20Inexperienced%20Spy.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/The%20Inexperienced%20Spy.png"
 	        }
 	    },
 	    {
@@ -2651,7 +2651,7 @@
 	        "mana_cost": "{5}{G}{U}",
 	        "type": "Creature — Lizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Lisark.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Lisark.png"
 	        }
 	    },
 	    {
@@ -2660,7 +2660,7 @@
 	        "mana_cost": "{3}{W}{U}",
 	        "type": "Creature — Cat Wizard ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Leo%20Wizard.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Leo%20Wizard.png"
 	        }
 	    },
 	    {
@@ -2669,7 +2669,7 @@
 	        "mana_cost": "{X}{1}{C}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Raimei.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Raimei.png"
 	        }
 	    },
 	    {
@@ -2678,7 +2678,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Creature — Merfolk Shark ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Great%20White.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Great%20White.png"
 	        }
 	    },
 	    {
@@ -2687,7 +2687,7 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Creature — Angel Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Soul%20of%20the%20Pure.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Soul%20of%20the%20Pure.png"
 	        }
 	    },
 	    {
@@ -2696,7 +2696,7 @@
 	        "mana_cost": "{3}{B}{R}",
 	        "type": "Creature — Faerie Demon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Key%20Mace%202.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Key%20Mace%202.png"
 	        }
 	    },
 	    {
@@ -2705,7 +2705,7 @@
 	        "mana_cost": "{1}{B}{G}",
 	        "type": "Creature — Human Zombie ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Fiends%20Hand.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Fiends%20Hand.png"
 	        }
 	    },
 	    {
@@ -2714,7 +2714,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Artifact Creature — Robot Construct ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gradius.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Gradius.png"
 	        }
 	    },
 	    {
@@ -2723,7 +2723,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Artifact Creature — Robot Construct ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Gradius%20Option.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Gradius%20Option.png"
 	        }
 	    },
 	    {
@@ -2732,7 +2732,7 @@
 	        "mana_cost": "{1}{C}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Cyclon%20Laser.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Cyclon%20Laser.png"
 	        }
 	    },
 	    {
@@ -2741,7 +2741,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Creature — Siren Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Harpie%20Lady.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Harpie%20Lady.png"
 	        }
 	    },
 	    {
@@ -2750,7 +2750,7 @@
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Elegant%20Egotist.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Elegant%20Egotist.png"
 	        }
 	    },
 	    {
@@ -2759,7 +2759,7 @@
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Creature — Siren Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Harpie%20Lady%20Sisters.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Harpie%20Lady%20Sisters.png"
 	        }
 	    },
 	    {
@@ -2768,7 +2768,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%20Great%20Tear.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/The%20Great%20Tear.png"
 	        }
 	    },
 	    {
@@ -2777,7 +2777,7 @@
 	        "mana_cost": "{2}{C}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Tao%20the%20Chanter.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Tao%20the%20Chanter.png"
 	        }
 	    },
 	    {
@@ -2786,7 +2786,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Bag%20of%20Holding.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Bag%20of%20Holding.png"
 	        }
 	    },
 	    {
@@ -2795,7 +2795,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Rainbow%20Flower.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Rainbow%20Flower.png"
 	        }
 	    },
 	    {
@@ -2804,7 +2804,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Enchantment Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/The%20Seal%20of%20Orichalcos.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/The%20Seal%20of%20Orichalcos.png"
 	        }
 	    },
 	    {
@@ -2813,7 +2813,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Mental%20Lock.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Mental%20Lock.png"
 	        }
 	    },
 	    {
@@ -2822,7 +2822,7 @@
 	        "mana_cost": "{C}{B}{R}",
 	        "type": "Creature — Vampire Warrior ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Vishwar%20Randi.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Vishwar%20Randi.png"
 	        }
 	    },
 	    {
@@ -2831,7 +2831,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Veto.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Veto.png"
 	        }
 	    },
 	    {
@@ -2840,7 +2840,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Curse%20of%20Dragon.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Curse%20of%20Dragon.png"
 	        }
 	    },
 	    {
@@ -2849,12 +2849,12 @@
 	        "mana_cost": "",
 	        "type": "Reminder",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Sanctum%20Reminder.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Sanctum%20Reminder.png"
 	        },
 		    "back": {
             "name": "Extra Rulings for Silver",
             "image_uris": {
-                "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Extra%20Rulings%20for%20Silver.png?raw=true"
+                "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Extra%20Rulings%20for%20Silver.png"
             },
             "type": "Reminder",
             "subtypes": [
@@ -2868,7 +2868,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Field ",
 	        "image_uris": {
-	            "en": "https://github.com/Tvpattack/Legend-of-Blue-Eyes-MTG/blob/main/Umiiruka.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Umiiruka.png"
 	        }
 	    }
 	]
