@@ -2349,24 +2349,6 @@
 	        }
 	    },
 	    {
-	        "name": "Establish Dominance",
-	        "rarity": "special",
-	        "mana_cost": "{3}{G}{G}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Establish%20Dominance.png"
-	        }
-	    },
-	    {
-	        "name": "Ignite",
-	        "rarity": "special",
-	        "mana_cost": "{R}",
-	        "type": "Sorcery",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/Tvpattack/Legend-of-Blue-Eyes-MTG/main/LOB-files/Ignite.png"
-	        }
-	    },
-	    {
 	        "name": "Survivors Hospitality",
 	        "rarity": "special",
 	        "mana_cost": "{R}{W}",
@@ -3000,10 +2982,8 @@
 		2 Called by the Void
 		2 Mystic Clown
 		2 Sword of Dark Destruction
-		3 Ignite
 		2 Sonic Maid
 		2 Ascent From Snakes
-		2 Establish Dominance
 		2 Latant Rebirth
 		4 Ansatsu
 		2 Nefairious Archfiend
